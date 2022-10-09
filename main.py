@@ -24,6 +24,7 @@ class App:
 
     def append_gdl_assets(self) -> None:
         self.ball_json['gdl-assets'] = []
+        self.ball_json['gdl-assets-size'] = 0
         for fn in os.listdir(self.assets_dir):
             fp = os.path.join(self.assets_dir, fn)
             if fn.startswith('.') or not os.path.isfile(fp):
@@ -35,6 +36,7 @@ class App:
                 'fn': fn,
                 'size': len(content)
             })
+            self.ball_json['gdl-assets-size'] += len(content)
             self.ball += content
 
     def append_gdl_binaries(self) -> None:
