@@ -1644,5 +1644,14 @@
     "Delete Filters": "Фильтры Удаления",
     "<co>Only remove certain objects.</c>\n<cy>Static:</c> Blocks, Spikes...\n<cg>Details</c>: Details, portals, triggers...\n<cl>Custom</c>: Selected object\n<cr>None:</c> Disabled": "<co>Удалять только определённые объекты.</c>\n<cy>Статичн.:</c> Блоки, шипы...\n<cg>Декорации</c>: Порталы, триггеры...\n<cl>Свой</c>: выбранный объект\n<cr>Нет:</c> отключено",
     "You cannot add more than <cy>3</c> <cg>coins</c> in a single level.": "Вы не можете добавить\nболее <cy>3</c> <cg>монет</c> в один уровень.",
-    "days": "дней"
+    "days": "дней",
+    "The lock wont budge.": "Замок не сдвинется с места.",
+    "A key, you must have.": "Ключ, у тебя должен быть.",
+    "Why you click?": "Зачем ты кликаешь?",
+    "You have no power here.": "У тебя нет здесь власти.",
+    "A key... My kingdom for a key...": "Ключ... Моё королевство за ключ...",
+    "You are not yet ready.": "Ты ещё не готов.",
+    "Nothing happened.": "Ничего не произошло.",
+    "Forget about this one.": "Забудь об этом.",
+    "Without a key, it cannot be.": "Без ключа это невозможно."
 }
