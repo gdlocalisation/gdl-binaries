@@ -1523,5 +1523,9 @@
     "<co>Only remove certain objects.</c>\n<cy>Static:</c> Blocks, Spikes...\n<cg>Details</c>: Details, portals, triggers...\n<cl>Custom</c>: Selected object\n<cr>None:</c> Disabled": "<co>Удалять только определённые объекты.</c>\n<cy>Статичн.:</c> Блоки, шипы...\n<cg>Декорации</c>: Порталы, триггеры...\n<cl>Свой</c>: выбранный объект\n<cr>Нет:</c> отключено",
     "You cannot add more than <cy>3</c> <cg>coins</c> in a single level.": "Вы не можете добавить\nболее <cy>3</c> <cg>монет</c> в один уровень.",
     "3DL": "3ДЛ",
-    "%idays %ih": "%iд %iч"
+    "%idays %ih": "%iд %iч",
+    "A custom object can't contain more than <cy>%i</c> objects.": "Пользовательский объект может содержать не более <cy>%i</c> объектов.",
+    "Max limit": "Макс. лимит",
+    "Max custom objects": "Макс. пользовательских объектов",
+    "You can't create more than <cy>%i</c> custom objects.": "Вы можете создать не более <cy>%i</c> пользовательских объектов."
 }
