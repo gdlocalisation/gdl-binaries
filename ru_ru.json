@@ -1537,5 +1537,8 @@
     "A custom object can't contain more than <cy>%i</c> objects.": "Пользовательский объект может содержать не более <cy>%i</c> объектов.",
     "Max limit": "Макс. лимит",
     "Max custom objects": "Макс. пользовательских объектов",
-    "You can't create more than <cy>%i</c> custom objects.": "Вы можете создать не более <cy>%i</c> пользовательских объектов."
+    "You can't create more than <cy>%i</c> custom objects.": "Вы можете создать не более <cy>%i</c> пользовательских объектов.",
+    "You can't send an <cr>empty</c> message.": "Вы не можете отправить <cr>пустое</c> сообщение.",
+    " (high)": " (большой)",
+    "User blocked": "Пользователь заблокирован"
 }
