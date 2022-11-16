@@ -1516,7 +1516,7 @@
     "You need to <cl>collect</c> atleast <cy>10 stars</c> to enable <cg>saving</c>.": "<cl>Соберите</c> хотя бы <cy>10 звёзд</c>, чтобы разблокировать сохранение.",
     "Levels marked as <cg>Favorite</c> will show up here!": "Уровни, помеченные как <cg>Любимые</c> будут видны здесь!",
     "Max Objects": "Макс. Число Объектов",
-    "You cannot create more than <cy>%i</c> <cg>objects</c> in a single level.": "Вы не можете создать более чем <cy>%i</c> <cg>объектов</c> на одном уровне.",
+    "You cannot create more than <cy>%i</c> <cg>objects</c> in a single level.": "Вы не можете создать более чем <cy>%i</c> <cg>объектов</c> в одном уровне.",
     "You have reached the max limit of <cy>%i</c> <cg>objects</c>. You can increase this limit to <cy>%i</c>, but your level may become unstable on some devices. Levels with objects above the normal maximum will display a warning when played online. It is recommended to stay below the normal limit.": "Вы достигли максимального лимита в <cy>%i</c> <cg>объектов</c>. Вы можете увеличить это ограничение до <cy>%i</c>, но ваш уровень может стать нестабильным на некоторых устройствах. Уровни с объектами выше нормального максимума будут отображать предупреждение при игре в онлайне. Рекомендуется оставаться в пределах нормального лимита.",
     "Increase": "Увеличить",
     "Lighter": "Светлый",
@@ -1541,8 +1541,8 @@
     "You can't create more than <cy>%i</c> custom objects.": "Вы можете создать не более <cy>%i</c> пользовательских объектов.",
     "You can't send an <cr>empty</c> message.": "Вы не можете отправить <cr>пустое</c> сообщение.",
     " (high)": " (большой)",
+    " <cr>(high)</c>": " <cr>(большой)</c>",
     "User blocked": "Пользователь заблокирован",
-    "Playing levels with a high object count won't display a warning.": "При запуске уровней с большим количеством объектов предупреждение отображаться не будет.",
     "Update Level Desc": "Обновить Описание Уровня",
     "Do you want to <cg>update</c> the level <cl>description</c>?": "Вы хотите <cg>обновить</c> <cl>описание</c> уровня?"
 }

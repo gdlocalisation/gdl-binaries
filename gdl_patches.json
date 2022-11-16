@@ -460,11 +460,9 @@
         "0xbcd3c"
     ],
     "Medium": [
-        "0xbcd4d"
+        "0xbcd4d",
+        "0x1e0fdd"
     ],
-	"Medium2": [
-		"0x1e0fdd"
-	],
     "Long": [
         "0xbcd5e"
     ],
@@ -490,11 +488,9 @@
         "0x17da39"
     ],
     "Magic": [
-        "0x106faa"
+        "0x106faa",
+        "0x17d970"
     ],
-	"Magic2": [
-		"0x17d970"
-	],
     "Followed": [
         "0x17d9f6"
     ],
@@ -2493,12 +2489,10 @@
     "Detail": [
         "0x53817"
     ],
-    "Next Free1": [
-        "0x54d5e"
-    ],
-	"Next Free2": [
+    "Next Free": [
+        "0x54d5e",
         "0x22b4ec"
-	],
+    ],
     "Glow": [
         "0x55241",
         "0x12add0"
@@ -4314,7 +4308,9 @@
     "Clear Guidelines": [
         "0x4c332"
     ],
-    "\\u2022Recording\\u2022": [],
+    "•Recording•": [
+        "0x4b7f1"
+    ],
     "Each <cg>song</c> has a <cl>unique ID</c> that can be found on <cy>Newgrounds.com</c>. If a song has the address <cl>www.newgrounds.com/audio/listen/</c><cy>568699</c>,\nthen the song ID is <cy>568699</c>.": [
         "0x663bc"
     ],
@@ -5256,5 +5252,1137 @@
     ],
     "Delay: ": [
         "0x245ebd"
-    ]
+    ],
+    "Playing levels with a high object count won't display a warning.": [
+        "0x1de159"
+    ],
+    "%isec": [
+        "0x269b8"
+    ],
+    "Email": [
+        "0x3496e"
+    ],
+    "Email:": [
+        "0x34917",
+        "0x35497"
+    ],
+    "Email is already in use": [
+        "0x351be"
+    ],
+    "Created": [
+        "0x35089"
+    ],
+    "Username is invalid": [
+        "0x3521a"
+    ],
+    "Already linked to different account": [
+        "0x37175"
+    ],
+    "Contact RobTop Support for more info": [
+        "0x371fb"
+    ],
+    "Login failed. Please login to verify your account.": [
+        "0x39229",
+        "0x39479"
+    ],
+    "Backup failed. Please try again later.": [
+        "0x3921d"
+    ],
+    "special": [
+        "0x3ab6f",
+        "0x588fc",
+        "0xc4d87",
+        "0xc52a3",
+        "0x24a0cc"
+    ],
+    "death": [
+        "0x3ab2f",
+        "0x588bb",
+        "0xc4e50",
+        "0xc536a",
+        "0x24a06c"
+    ],
+    "color2": [
+        "0x3abe4",
+        "0x58978",
+        "0xc4f0b",
+        "0xc5327",
+        "0x24a174"
+    ],
+    "Resources": [
+        "0x3bdbe",
+        "0xcde63"
+    ],
+    "Geometry Dash": [
+        "0x3be28",
+        "0x3bea1",
+        "0x954a7",
+        "0x215f8a",
+        "0x25c9c6"
+    ],
+    "audioScale": [
+        "0x3d005",
+        "0x3d02b",
+        "0x3d0b3"
+    ],
+    "New quests in: 00:00:00": [
+        "0x3d86a"
+    ],
+    "00:00:00": [
+        "0x3ed96",
+        "0x6aa78",
+        "0x6c04e",
+        "0x21733c",
+        "0x2173ad"
+    ],
+    "silver coin": [
+        "0x3eefa",
+        "0xf9037"
+    ],
+    "silver coins": [
+        "0x3eef2",
+        "0xf8f14",
+        "0xf8f85",
+        "0xf9132"
+    ],
+    "stars": [
+        "0x3eec2",
+        "0xf9011"
+    ],
+    "%i / %i": [
+        "0x3f3d3"
+    ],
+    "0123456789": [
+        "0x4011c",
+        "0x443f5",
+        "0x44943",
+        "0x54313",
+        "0x65d56",
+        "0x122e95",
+        "0x12fa58",
+        "0x12ff87",
+        "0x133aa0",
+        "0x133f1e",
+        "0x142b0b",
+        "0x147bb9",
+        "0x182818",
+        "0x22b403",
+        "0x22eded",
+        "0x22fc43",
+        "0x231307",
+        "0x233d8c",
+        "0x235930",
+        "0x236e8b",
+        "0x2386d0",
+        "0x23a02a",
+        "0x23b509",
+        "0x23d098",
+        "0x23f131",
+        "0x24014e",
+        "0x245c6a",
+        "0x2478fd"
+    ],
+    "label": [
+        "0x41cc0"
+    ],
+    "0123456789.": [
+        "0x43523",
+        "0x4ad4a",
+        "0x4bda3",
+        "0x67030",
+        "0x122299",
+        "0x12e985",
+        "0x132f17",
+        "0x134258",
+        "0x146ae0",
+        "0x232a22",
+        "0x23e339",
+        "0x23e73a",
+        "0x23eb37",
+        "0x244344",
+        "0x2460b8"
+    ],
+    "Tint\nGround": [
+        "0x43c68"
+    ],
+    "Saturation: Mixed": [
+        "0x49e4a"
+    ],
+    "Brightness: Mixed": [
+        "0x49e5f"
+    ],
+    "Setup HSV": [
+        "0x4949a"
+    ],
+    "Hue: Mixed": [
+        "0x49e35"
+    ],
+    "No Title": [
+        "0x4a987"
+    ],
+    "%s Help": [
+        "0x4ab09"
+    ],
+    "Maximum limit exceeded": [
+        "0x4c968",
+        "0x4cb6d"
+    ],
+    ".<d030>.<d030>.": [
+        "0x4e76a"
+    ],
+    "unachievedDescription": [
+        "0x58cd0",
+        "0x1296ec"
+    ],
+    "%i/%i": [
+        "0x5987c",
+        "0x5ad08",
+        "0x5c542",
+        "0x157749",
+        "0x1782e4",
+        "0x17a74f",
+        "0x186f3b",
+        "0x187115"
+    ],
+    "Unavailable": [
+        "0x5bb5d"
+    ],
+    "Newgrounds": [
+        "0x657ab",
+        "0x191318",
+        "0x250404"
+    ],
+    "Song ID": [
+        "0x67b5c"
+    ],
+    "Artist Name": [
+        "0x67b4a"
+    ],
+    "Song Title": [
+        "0x67b3e"
+    ],
+    " <cr>(high)</c>": [
+        "0x6fb83"
+    ],
+    "ID: na": [
+        "0x7023e",
+        "0x15037a"
+    ],
+    "Unverified\nReq. Coins: ": [
+        "0x6ff7d"
+    ],
+    "Update Level Desc": [
+        "0x70e48"
+    ],
+    "Do you want to <cg>update</c> the level <cl>description</c>?": [
+        "0x70df7"
+    ],
+    "%s (%i)": [
+        "0x70298"
+    ],
+    "ID: %i": [
+        "0x7025e",
+        "0x15039a"
+    ],
+    "No Name": [
+        "0x71102"
+    ],
+    "You must name your level before sharing it.": [
+        "0x710f0"
+    ],
+    "Updating description...": [
+        "0x71544"
+    ],
+    "Description updated!": [
+        "0x72226"
+    ],
+    " (high)": [
+        "0x725e9"
+    ],
+    "C1: %s\nC2: %s\n": [
+        "0x78f3d"
+    ],
+    "EL: %s\n": [
+        "0x79261"
+    ],
+    "You can't create more than <cy>%i</c> custom objects.": [
+        "0x79505"
+    ],
+    "Max limit": [
+        "0x79470"
+    ],
+    "A custom object can't contain more than <cy>%i</c> objects.": [
+        "0x79427"
+    ],
+    "Max custom objects": [
+        "0x7954e"
+    ],
+    "custom": [
+        "0x83af1",
+        "0x83c83"
+    ],
+    "Scale:": [
+        "0x9392f"
+    ],
+    "%02d:%02d:%02d": [
+        "0x947e8",
+        "0x215c4d"
+    ],
+    "%02d:%02d": [
+        "0x947d7",
+        "0x215c40"
+    ],
+    "<cy>1</c>": [
+        "0x95791"
+    ],
+    "<cy>3</c>": [
+        "0x957fb"
+    ],
+    "<cy>2</c>": [
+        "0x957b9"
+    ],
+    "YouTube": [
+        "0x9937d",
+        "0x99d15",
+        "0x25046f"
+    ],
+    "Twitter": [
+        "0x991bb",
+        "0x99cc9"
+    ],
+    "Subscribe to <cg>RobTop Games</c> on <cr>YouTube</c>\nto unlock this <cy>chest</c>!": [
+        "0x99d27"
+    ],
+    "Facebook": [
+        "0x98ff9",
+        "0x99c7a",
+        "0x2504d2"
+    ],
+    "Like <cg>Geometry Dash</c> on <cr>Facebook</c>\nto unlock this <cy>chest</c>!": [
+        "0x99c8c"
+    ],
+    "Follow <cg>RobTop Games</c> on <cl>Twitter</c>\nto unlock this <cy>chest</c>!": [
+        "0x99cdb"
+    ],
+    "Something went wrong": [
+        "0x9be0d",
+        "0x9cd33"
+    ],
+    "Requests removed": [
+        "0x9b6b9"
+    ],
+    "Deleting Requests...": [
+        "0x9b3c4"
+    ],
+    "Banned": [
+        "0xb30a4",
+        "0xb31f8"
+    ],
+    "You have been <cg>banned</c> from making comments. \nPlease contact <cy>support</c> with ID <cy>%i</c> if you have any questions.": [
+        "0xb307c"
+    ],
+    "%s.\n\n<cl>Reason: %s</c>": [
+        "0xb31ca"
+    ],
+    "You have been <cg>banned</c> from making comments for: <cy>%s</c>": [
+        "0xb3163"
+    ],
+    "Data restored": [
+        "0xb9c80"
+    ],
+    "Your data has been restored.": [
+        "0xb9c6b"
+    ],
+    " Gauntlet": [
+        "0x1028ea"
+    ],
+    "It's no use, that <cg>Gauntlet</c> is <cl>locked</c>.": [
+        "0x105a82"
+    ],
+    "The <co>Demon Guardian</c> was the only one who could open it.": [
+        "0x105af6"
+    ],
+    "Not sure what happened to him. He always was a bit crazy.": [
+        "0x105b66"
+    ],
+    "<cy>UserID:</c> %i": [
+        "0x125e02"
+    ],
+    "User Info": [
+        "0x125ed6"
+    ],
+    "Nothing happened.": [
+        "0x12900c"
+    ],
+    "Without a key, it cannot be.": [
+        "0x129013"
+    ],
+    "You have no power here.": [
+        "0x12903d"
+    ],
+    "Forget about this one.": [
+        "0x129044"
+    ],
+    "A key... My kingdom for a key...": [
+        "0x12904b"
+    ],
+    "Why you click?": [
+        "0x12901a"
+    ],
+    "You are not yet ready.": [
+        "0x129021"
+    ],
+    "A key, you must have.": [
+        "0x129028"
+    ],
+    "The lock wont budge.": [
+        "0x12902f"
+    ],
+    "Like Now!": [],
+    "Follow Now!": [],
+    "<d010>.<d010>.<d010>.": [
+        "0x1293f5",
+        "0x14aca5",
+        "0x15585f",
+        "0x1559ba",
+        "0x155ce6",
+        "0x155e7c",
+        "0x1560a2",
+        "0x156218",
+        "0x1565f7",
+        "0x156b5c",
+        "0x156cce"
+    ],
+    "RobTop Games": [
+        "0x12d973"
+    ],
+    "Follow Player command help": [
+        "0x132c23"
+    ],
+    "Twitter:": [
+        "0x13b18f"
+    ],
+    "Twitch:": [
+        "0x13b21c"
+    ],
+    "YouTube:": [
+        "0x13b0f9"
+    ],
+    "Update Failed.": [
+        "0x13ca19"
+    ],
+    "Friend Request": [
+        "0x13d683"
+    ],
+    "Unknown action": [
+        "0x13e784",
+        "0x13ffb5"
+    ],
+    "You can't send an <cr>empty</c> message.": [
+        "0x141348"
+    ],
+    "Comment upload failed. Please try again later.": [
+        "0x151bd9",
+        "0x2130d5"
+    ],
+    "Failed": [
+        "0x151bea",
+        "0x2130e9",
+        "0x2131d7"
+    ],
+    "Escape": [
+        "0x1525d0"
+    ],
+    "Shift": [
+        "0x152660"
+    ],
+    "Alt + Q": [
+        "0x1526a4"
+    ],
+    "Space": [
+        "0x152671"
+    ],
+    "Ctrl + Shift + Z": [
+        "0x1526e8"
+    ],
+    "Alt + D": [
+        "0x1526f9"
+    ],
+    "Alt + E": [
+        "0x1526b5"
+    ],
+    "Ctrl + Z": [
+        "0x1526d7"
+    ],
+    "Ctrl + C": [
+        "0x15270a"
+    ],
+    "Ctrl + D": [
+        "0x15272c"
+    ],
+    "Ctrl + V": [
+        "0x15271b"
+    ],
+    "Enter": [
+        "0x152781"
+    ],
+    "Ctrl + Enter": [
+        "0x152792"
+    ],
+    "Shift + A": [
+        "0x15282b"
+    ],
+    "Shift + S": [
+        "0x15285e"
+    ],
+    "Shift + D": [
+        "0x15283c"
+    ],
+    "Shift + W": [
+        "0x15284d"
+    ],
+    "Chest": [
+        "0x1571cf"
+    ],
+    "No <cg>Internet</c> connection!": [
+        "0x157ebf",
+        "0x159b19",
+        "0x17bdea"
+    ],
+    "Create an <cg>account</c> to\ncompare scores\nwith <cl>friends</c>!": [
+        "0x158c4d"
+    ],
+    "You have not <cg>downloaded</c> any <cl>levels</c> yet!": [
+        "0x15ab8f"
+    ],
+    " (%i: %s)": [
+        "0x15b112"
+    ],
+    " (%i)": [
+        "0x15b0ec"
+    ],
+    "Remove all levels from favorites?\n<cg>Search and folder filters apply.</c>\n<cy>Levels will not be deleted.</c>": [
+        "0x15c5a7"
+    ],
+    "%s (%s)": [
+        "0x15b3b5"
+    ],
+    "Remove Favorites": [
+        "0x15c5f8"
+    ],
+    "%02d: %s": [
+        "0x173741",
+        "0x183420"
+    ],
+    " (%i%%)": [
+        "0x177890"
+    ],
+    "Update your application to update this level.": [
+        "0x17873e"
+    ],
+    "Level update failed, please try again later.": [
+        "0x17884c"
+    ],
+    "Rate Difficulty": [
+        "0x1799f4",
+        "0x214226"
+    ],
+    "Please <cg>rate</c> the <cl>difficulty</c> as fairly as possible. \n<cy>(Demon and Auto levels are manually verified before accepted)</c>": [
+        "0x1799df"
+    ],
+    "\n<cj>Leaderboard</c>: %i%%": [
+        "0x17a238"
+    ],
+    "Level Leaderboards": [
+        "0x17c0d2"
+    ],
+    "<cy>Q: My score is wrong!?</c>\nA: Level leaderboards changed in update 2.11. Scores from before update 2.11 need to be replayed. You can see your leaderboard percentage by pressing the info button on the bottom left of the level page, or toggle the Leaderboard percent option.": [
+        "0x17c0ac"
+    ],
+    "Create an <cg>account</c> to\ncompare scores\nwith <cl>other players</c>!": [
+        "0x17c944"
+    ],
+    "upd_ll": [
+        "0x17c3d3",
+        "0x17c640",
+        "0x17c662"
+    ],
+    " Leaderboard": [
+        "0x17bafc"
+    ],
+    "completed_filter": [
+        "0x17ebfd",
+        "0x17fab6",
+        "0x181e16",
+        "0x182bf0",
+        "0x182bf5"
+    ],
+    "uncompleted_filter": [
+        "0x17eb31",
+        "0x17fdce",
+        "0x181d8d",
+        "0x182af0",
+        "0x182af5"
+    ],
+    "star_filter": [
+        "0x17e4ab",
+        "0x17eaaa",
+        "0x17fe1d",
+        "0x18084b",
+        "0x1808fa"
+    ],
+    "demon_filter": [
+        "0x17e68f",
+        "0x17e82a",
+        "0x17f545",
+        "0x17fa6a",
+        "0x184229"
+    ],
+    "follow_filter": [
+        "0x17f2f3"
+    ],
+    "coin_filter": [
+        "0x17f22d",
+        "0x17fb54",
+        "0x18214c",
+        "0x1831f0",
+        "0x1831f5"
+    ],
+    "epic_filter": [
+        "0x17f47f",
+        "0x17fb05",
+        "0x181fb1",
+        "0x182df0",
+        "0x182df5"
+    ],
+    "friend_filter": [
+        "0x17f3b9"
+    ],
+    "original_filter": [
+        "0x17ee4f",
+        "0x17fcdf",
+        "0x181f28",
+        "0x182ef0",
+        "0x182ef5"
+    ],
+    "featured_filter": [
+        "0x17ecc3",
+        "0x17fd7f",
+        "0x181e9f",
+        "0x182cf0",
+        "0x182cf5"
+    ],
+    "nostar_filter": [
+        "0x17f167",
+        "0x17fba3",
+        "0x1820c3",
+        "0x1830f0",
+        "0x1830f5"
+    ],
+    "twoP_filter": [
+        "0x17ef15",
+        "0x17fc90",
+        "0x1821d5",
+        "0x182ff0",
+        "0x182ff5"
+    ],
+    "Collect %i more <cy>Secret Coins</c> to unlock this <cl>level</c>!": [
+        "0x1880eb"
+    ],
+    "Back On Track": [
+        "0x189080"
+    ],
+    "Cant Let Go": [
+        "0x1890a2"
+    ],
+    "Base After Base": [
+        "0x189091"
+    ],
+    "Jumper": [
+        "0x189108"
+    ],
+    "xStep": [
+        "0x1890f7"
+    ],
+    "Clutterfunk": [
+        "0x18912a"
+    ],
+    "Time Machine": [
+        "0x189119"
+    ],
+    "Dry Out": [
+        "0x1890c4"
+    ],
+    "Cycles": [
+        "0x1890b3"
+    ],
+    "Stereo Madness": [
+        "0x1890e6"
+    ],
+    "Polargeist": [
+        "0x1890d5"
+    ],
+    "Hexagon Force": [
+        "0x189190"
+    ],
+    "Electrodynamix": [
+        "0x18917f"
+    ],
+    "Theory of Everything 2": [
+        "0x1891b2"
+    ],
+    "Blast Processing": [
+        "0x1891a1"
+    ],
+    "Electroman Adventures": [
+        "0x18914c"
+    ],
+    "Theory of Everything": [
+        "0x18913b"
+    ],
+    "Practice: Stay Inside Me": [
+        "0x18916e"
+    ],
+    "Clubstep": [
+        "0x18915d"
+    ],
+    "Fingerdash": [
+        "0x189218"
+    ],
+    "Airborne Robots": [
+        "0x189207"
+    ],
+    "Payload": [
+        "0x18923a"
+    ],
+    "Secret": [
+        "0x189229"
+    ],
+    "Deadlocked": [
+        "0x1891d4"
+    ],
+    "Geometrical Dominator": [
+        "0x1891c3"
+    ],
+    "Viking Arena": [
+        "0x1891f6"
+    ],
+    "The Seven Seas": [
+        "0x1891e5"
+    ],
+    "Striker": [
+        "0x1892a0"
+    ],
+    "Embers": [
+        "0x18928f"
+    ],
+    "Round 1": [
+        "0x1892c2"
+    ],
+    "Space Pirates": [
+        "0x1892b1"
+    ],
+    "Machina": [
+        "0x18925c"
+    ],
+    "Beast Mode": [
+        "0x18924b"
+    ],
+    "Frontlines": [
+        "0x18927e"
+    ],
+    "Years": [
+        "0x18926d"
+    ],
+    "Monster Dance Off": [
+        "0x1892d3"
+    ],
+    "Waterflame": [
+        "0x1897f2"
+    ],
+    "ForeverBound": [
+        "0x1897e1"
+    ],
+    "Dex Arson": [
+        "0x189847"
+    ],
+    "DJ-Nate": [
+        "0x189814"
+    ],
+    "OcularNebula": [
+        "0x189803"
+    ],
+    "F-777": [
+        "0x189825"
+    ],
+    "Mouse": [
+        "0x190771"
+    ],
+    "Click": [
+        "0x19080a"
+    ],
+    "upd_messages": [
+        "0x192726",
+        "0x192787"
+    ],
+    "songID=%i&secret=%s": [
+        "0x1942ab"
+    ],
+    "MDLM_001": [
+        "0xcd5b1",
+        "0x1957b2"
+    ],
+    "MDLM_002": [
+        "0xcd5c7",
+        "0x1959ae",
+        "0x1959c4"
+    ],
+    "Resources\\": [
+        "0x1955fc"
+    ],
+    "zzzZZZ...": [
+        "0x1dd78b"
+    ],
+    "%ix%i": [
+        "0x1e112b"
+    ],
+    "jump_loop": [
+        "0x1e86d2",
+        "0x1f9d4c"
+    ],
+    "fall_loop": [
+        "0x1e87f5",
+        "0x1e8811",
+        "0x1e89d5",
+        "0x1e8a07",
+        "0x1ed941",
+        "0x1ed9a6",
+        "0x1f82eb",
+        "0x1f844a",
+        "0x1f9e4b",
+        "0x1f9e65",
+        "0x1fea4d"
+    ],
+    "jump_start": [
+        "0x1f49dc",
+        "0x1f8256",
+        "0x1f9ce3"
+    ],
+    "fall_start": [
+        "0x1f9de8"
+    ],
+    "Attempt 1": [
+        "0x1fc06f"
+    ],
+    "So close": [
+        "0x1fdb4a"
+    ],
+    "VAMOS": [
+        "0x1fdbf4"
+    ],
+    "PogChamp": [
+        "0x1fdc6b"
+    ],
+    "Player 1": [
+        "0x1ff801"
+    ],
+    "Player 2": [
+        "0x1ff87d"
+    ],
+    "New Reward!": [
+        "0x1fd8c6"
+    ],
+    "Max Followed": [
+        "0x211a37"
+    ],
+    "Friend removed": [
+        "0x211eb3"
+    ],
+    "Are you sure you want to remove this friend?": [
+        "0x2114b8"
+    ],
+    "You can only follow <cy>%i</c> users at the same time.": [
+        "0x211a0f"
+    ],
+    "Comment delete failed. Please try again later.": [
+        "0x2131c3"
+    ],
+    "User blocked": [
+        "0x211ebf"
+    ],
+    "Create an <cg<account</c> to send messages, add friends and more! You can create an account from the main menu.": [
+        "0x211f79"
+    ],
+    "Rating submitted!": [
+        "0x213d34",
+        "0x21559e"
+    ],
+    "Mod: Rate Demon": [
+        "0x213731"
+    ],
+    "Sending rating...": [
+        "0x213caa",
+        "0x215503"
+    ],
+    "Mod: Suggest Stars": [
+        "0x214c30"
+    ],
+    "lenny": [
+        "0x21bce4"
+    ],
+    "robotop": [
+        "0x21ca2c"
+    ],
+    "blockbite": [
+        "0x21c996"
+    ],
+    "spooky": [
+        "0x21c5e0"
+    ],
+    "sparky": [
+        "0x21c0bf"
+    ],
+    "gandalfpotter": [
+        "0x21cc84"
+    ],
+    "neverending": [
+        "0x21cc06"
+    ],
+    "ahead": [
+        "0x21cabf"
+    ],
+    "a head": [
+        "0x21cb19"
+    ],
+    "zzzzzzZZZZZZZZZ": [
+        "0x21d8c7",
+        "0x2228b7",
+        "0x229cf7"
+    ],
+    "I have to admit": [
+        "0x21dec5"
+    ],
+    "zzzZZZZ": [
+        "0x21e137",
+        "0x222c91",
+        "0x229f07"
+    ],
+    "zzzZZZZ...": [
+        "0x21e5a1",
+        "0x222efd"
+    ],
+    "Happy now?": [
+        "0x21e7b1",
+        "0x223061"
+    ],
+    "......": [
+        "0x21e739",
+        "0x22301b"
+    ],
+    "19283": [
+        "0x221091",
+        "0x2291f5"
+    ],
+    "Impressive...": [
+        "0x221471"
+    ],
+    "unicorn": [
+        "0x221c3e"
+    ],
+    "robtop": [
+        "0x221d7b"
+    ],
+    "kappa": [
+        "0x221d2e"
+    ],
+    "battop": [
+        "0x221cde"
+    ],
+    "rubrubpowah123": [
+        "0x221c8e"
+    ],
+    "I call it \"The Challenge\"": [
+        "0x222c5b"
+    ],
+    "Smooth\nEase": [
+        "0x22bfb1"
+    ],
+    "Set ID": [
+        "0x22e18b"
+    ],
+    "\n\n<cg>Bat: </c>": [
+        "0x230da2"
+    ],
+    "<cy>%i:</c> %s": [
+        "0x230d1d",
+        "0x230e1d"
+    ],
+    "<cg>Big Beast: </c>": [
+        "0x230c8f"
+    ],
+    "<cg>Animation settings help</c>": [
+        "0x23270b"
+    ],
+    "Edit Animation Settings": [
+        "0x2325c2"
+    ],
+    "Randomize Start": [
+        "0x232c1f"
+    ],
+    "Speed: ": [
+        "0x232836"
+    ],
+    "shardFire": [
+        "0x248e5c"
+    ],
+    "shardShadow": [
+        "0x249403"
+    ],
+    "shardPoison": [
+        "0x24930c"
+    ],
+    "shardIce": [
+        "0x24920b"
+    ],
+    "geometry.ach.%s%02d": [
+        "0x2496e4"
+    ],
+    "shardBonus": [
+        "0x24955c"
+    ],
+    "shardLava": [
+        "0x2494f8"
+    ],
+    "Level already uploaded": [
+        "0x24ddd7"
+    ],
+    "Success! Elder Moderator\naccess granted.": [
+        "0x25c69e"
+    ],
+    "\"blockbite\"": [
+        "0x25c238"
+    ],
+    "\n\nGame: %s\n\nUserID: %s\n\nAccount: %s\n\nPlatform: %i\n\nVersion: %i - %i": [
+        "0x25c9cb"
+    ],
+    "Low detail mode disables a lot of visual effects to increase performance.": [
+        "0x25c7fa"
+    ],
+    "Success! Moderator access granted.": [
+        "0x25c6b5"
+    ],
+    "upd_artists": [
+        "0x25d3dd",
+        "0x25da9b"
+    ],
+    "OK": [
+        "0x3509e",
+        "0x3705f",
+        "0x386af",
+        "0x38721",
+        "0x3895f",
+        "0x39174",
+        "0x393c4",
+        "0x3fd53",
+        "0x43221",
+        "0x49545",
+        "0x4aa32",
+        "0x4cde0",
+        "0x53535",
+        "0x66160",
+        "0x66420",
+        "0x67580",
+        "0x6fc1d",
+        "0x71088",
+        "0x71109",
+        "0x71169",
+        "0x79477",
+        "0x79555",
+        "0x7ac70",
+        "0x86f86",
+        "0x870f2",
+        "0x9b1ae",
+        "0xb309f",
+        "0xb31ff",
+        "0xb9c3b",
+        "0xb9c87",
+        "0x11239d",
+        "0x121ec3",
+        "0x125ee9",
+        "0x128ef2",
+        "0x128f89",
+        "0x129134",
+        "0x1291c2",
+        "0x12e5b1",
+        "0x132b43",
+        "0x13691e",
+        "0x137283",
+        "0x1390bc",
+        "0x1420f3",
+        "0x1432cd",
+        "0x143650",
+        "0x146707",
+        "0x14cf65",
+        "0x14e4c7",
+        "0x15086b",
+        "0x150bbb",
+        "0x1511e8",
+        "0x151be5",
+        "0x157578",
+        "0x158eb0",
+        "0x15bf90",
+        "0x15c891",
+        "0x171ce3",
+        "0x172cb9",
+        "0x174425",
+        "0x17863a",
+        "0x1787c9",
+        "0x1788b0",
+        "0x17897c",
+        "0x1789fc",
+        "0x178c43",
+        "0x178fc6",
+        "0x1790ea",
+        "0x1799fb",
+        "0x179ba4",
+        "0x17a2fc",
+        "0x183a80",
+        "0x184456",
+        "0x18813b",
+        "0x188506",
+        "0x1885ff",
+        "0x19290e",
+        "0x1979c4",
+        "0x1dfedc",
+        "0x1e139c",
+        "0x1e2b5c",
+        "0x2112ca",
+        "0x211a32",
+        "0x211fdd",
+        "0x2130e4",
+        "0x2131d2",
+        "0x22afda",
+        "0x22e220",
+        "0x22ea24",
+        "0x22f8bc",
+        "0x230bbb",
+        "0x23264d",
+        "0x233837",
+        "0x2353c7",
+        "0x236917",
+        "0x23805a",
+        "0x239c0f",
+        "0x23b13b",
+        "0x23cb9b",
+        "0x23e003",
+        "0x2429ab",
+        "0x243c57",
+        "0x2458bd",
+        "0x24752e",
+        "0x24d79a",
+        "0x24f0f1",
+        "0x25c816",
+        "0x25c886"
+    ],
+    "L": []
 }
