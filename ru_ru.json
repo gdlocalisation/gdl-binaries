@@ -1542,5 +1542,7 @@
     "You can't send an <cr>empty</c> message.": "Вы не можете отправить <cr>пустое</c> сообщение.",
     " (high)": " (большой)",
     "User blocked": "Пользователь заблокирован",
-    "Playing levels with a high object count won't display a warning.": "При запуске уровней с большим количеством объектов предупреждение отображаться не будет."
+    "Playing levels with a high object count won't display a warning.": "При запуске уровней с большим количеством объектов предупреждение отображаться не будет.",
+    "Update Level Desc": "Обновить Описание Уровня",
+    "Do you want to <cg>update</c> the level <cl>description</c>?": "Вы хотите <cg>обновить</c> <cl>описание</c> уровня?"
 }
