@@ -1544,5 +1544,7 @@
     " <cr>(high)</c>": " <cr>(большой)</c>",
     "User blocked": "Пользователь заблокирован",
     "Update Level Desc": "Обновить Описание Уровня",
-    "Do you want to <cg>update</c> the level <cl>description</c>?": "Вы хотите <cg>обновить</c> <cl>описание</c> уровня?"
+    "Do you want to <cg>update</c> the level <cl>description</c>?": "Вы хотите <cg>обновить</c> <cl>описание</c> уровня?",
+    "Updating description...": "Обновление описания...",
+    "Description updated!": "Описание обновлено!"
 }
