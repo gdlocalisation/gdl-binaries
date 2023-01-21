@@ -572,7 +572,6 @@
     "Timing could be better": "Тайминг мог быть и лучше",
     "Ship part was cool": "Часть с кораблём была классной",
     "he protec": "он защишон",
-    "AFK": "AFK",
     "Take a break.": "Отдохни.",
     "I am Batman": "Я Бэтмэн",
     "DROP THE BEAT": "ОТБРОСЬ РИТМ",
@@ -776,7 +775,7 @@
     "High Capacity Mode": "Режим большой емкости",
     "Songs are loaded into memory before playing. Increases load time but can improve performance.": "Музыка загружается в память. Увеличивает время загрузки, но может увеличить FPS.",
     "Load songs to memory": "Загрузка музыки в память",
-    "Songs are saved in a different directory. (Fix if custom songs aren't working)": "музыка сохраняется в другой папке (Включите, если пользовательская музыка не работает).",
+    "Songs are saved in a different directory. (Fix if custom songs aren't working)": "Музыка сохраняется в другой папке (включите, если пользовательская музыка не работает).",
     "Change custom songs\nlocation": "Изменить расположение\nмузыки",
     "Smooth fix is normally disabled if a level is lagging, this forces smooth fix to remain enabled. Toggle to test if performance is better with smooth fix always enabled.": "\"Исправление лагов\" обычно отключено, если уровень тормозит, но эта настройка оставляет его включённым. Включите, чтобы проверить, улучшилась ли производительность.",
     "Force Smooth Fix": "Принудительное исправление лагов",
@@ -788,7 +787,7 @@
     "More comments mode": "Режим дополнительных комментариев",
     "Disable shake effects": "Отключить эффекты тряски",
     "Disable explosion shake": "Отключить тряску при смерти",
-    "Increases Created/Saved levels per page from 10 to 20.": "Увеличивает количество созданных/сохраненных уровней на странице с 10 до 20.",
+    "Increases Created/Saved levels per page from 10 to 20.": "Увеличивает количество созданных/сохранённых уровней на странице с 10 до 20.",
     "Inc Local Levels Per Page": "Больше уровней на странице",
     "Increases the maximum saved levels from 20 to 100": "Увеличивает макс. кол-во сохранённых уровней с 20 до 100.",
     "Increase max levels": "Увеличить кол-во уровней",
@@ -837,7 +836,7 @@
     "Smooth fix in editor": "Исправление лагов в редакторе",
     "Disable mouse movement using the controller thumb stick.": "Отключить движение мыши с помощью джойстика контроллера.",
     "Disable thumbstick": "Отключить стик",
-    "Editor option. Tapping on the same position, in edit mode, while swipe mode is enabled will cycle through the touched objects instead of adding multiple objects to the selection. Useful if you want to select multiple objects that are mixed with other objects.": "Настройка редактора. Нажатие в одно и то же место в режиме изменения при включенном выделении будет по очереди выбирать объекты, вместо выделения нескольких объектов. Полезно, если вы хотите выбрать несколько объектов, смешанных с другими объектами.",
+    "Editor option. Tapping on the same position, in edit mode, while swipe mode is enabled will cycle through the touched objects instead of adding multiple objects to the selection. Useful if you want to select multiple objects that are mixed with other objects.": "Настройка редактора. Нажатие в одно и то же место в режиме изменения при включённом выделении будет по очереди выбирать объекты, вместо выделения нескольких объектов. Полезно, если вы хотите выбрать несколько объектов, смешанных с другими объектами.",
     "Editor option. When swipe is not enabled and in edit mode, holding down anywhere on the grid will activate swipe mode after a short duration. Useful when selecting objects without the need to toggle swipe mode": "Настройка редактора. Когда выделение не включено и выбран режим \"Изменить\", удерживание в любом месте сетки активирует выделение на короткое время. Полезно при выборе нескольких объектов без переключения выделения.",
     "White": "Белый",
     "Base Color": "Основной Цвет",
@@ -1547,5 +1546,6 @@
     "Update Level Desc": "Обновить Описание Уровня",
     "Do you want to <cg>update</c> the level <cl>description</c>?": "Вы хотите <cg>обновить</c> <cl>описание</c> уровня?",
     "Updating description...": "Обновление описания...",
-    "Description updated!": "Описание обновлено!"
+    "Description updated!": "Описание обновлено!",
+    "Success! Moderator access granted.": "Успешно! Доступ модератора предоставлен."
 }
