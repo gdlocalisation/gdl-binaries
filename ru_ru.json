@@ -1547,5 +1547,6 @@
     "Do you want to <cg>update</c> the level <cl>description</c>?": "Вы хотите <cg>обновить</c> <cl>описание</c> уровня?",
     "Updating description...": "Обновление описания...",
     "Description updated!": "Описание обновлено!",
-    "Success! Moderator access granted.": "Успешно! Доступ модератора предоставлен."
+    "Success! Moderator access granted.": "Успешно! Доступ модератора предоставлен.",
+    "Level update failed, please try again later.": "Не удалось обновить уровень. Пожалуйста, попробуйте позже."
 }
