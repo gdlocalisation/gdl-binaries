@@ -41,16 +41,17 @@ class App:
 
     def append_gdl_binaries(self) -> None:
         self.ball_json['gdl-binaries'] = []
-        for fn in os.listdir(self.cwd):
+        for fn in os.listdir(self.cwd) + ["../ru_ru.json"]:
             fp = os.path.join(self.cwd, fn)
             fext = fn.split('.')[-1].lower()
-            if fn.startswith('.') or not os.path.isfile(fp) or fext in ('py', 'md'):
+            if not os.path.isfile(fp) or fext in ('py', 'md'):
+            # if fn.startswith('.') or not os.path.isfile(fp) or fext in ('py', 'md'):
                 continue
             f = open(fp, 'rb')
             content = f.read()
             f.close()
             self.ball_json['gdl-binaries'].append({
-                'fn': fn,
+                'fn': fn.replace("../", ""),
                 'size': len(content)
             })
             self.ball += content
@@ -60,7 +61,7 @@ class App:
         self.ball_json['u-size'] = len(self.ball)
         self.ball_json['size'] = len(compressed)
         json_f = open(os.path.join(self.out_dir, 'gdl-binaries.json'), 'w', encoding=self.encoding)
-        json_f.write(json.dumps(self.ball_json))
+        json_f.write(json.dumps(self.ball_json, ensure_ascii=False, indent=4))
         json_f.close()
         gzip_f = open(os.path.join(self.out_dir, 'gdl-binaries.bin.gzip'), 'wb')
         gzip_f.write(compressed)

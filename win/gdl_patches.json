@@ -1,0 +1,6388 @@
+{
+    "Visit Newgrounds to find awesome music?": [
+        "0x1912c7"
+    ],
+    "Do you want to open the editor guide now?": [
+        "0x715e7"
+    ],
+    "Editor Guide": [
+        "0x71638"
+    ],
+    "Account": [
+        "0x37c63",
+        "0x1dc8d9"
+    ],
+    "How to play": [
+        "0x1dc92c",
+        "0x25de9a"
+    ],
+    "Options": [
+        "0x6756d",
+        "0x137d40",
+        "0x1dc97f",
+        "0x1dde6b"
+    ],
+    "Graphics": [
+        "0x1dc9d2",
+        "0x1e13a1"
+    ],
+    "Rate": [
+        "0x1dca25"
+    ],
+    "Help": [
+        "0x381a8",
+        "0x38bc8",
+        "0x3fe41",
+        "0x53614",
+        "0x136a05",
+        "0x13736d",
+        "0x1421da",
+        "0x14d041",
+        "0x1dcacb",
+        "0x22b0bd",
+        "0x22eb12",
+        "0x22f99b",
+        "0x230f06",
+        "0x23273b",
+        "0x23391e",
+        "0x2354b1",
+        "0x2369fe",
+        "0x238141",
+        "0x239d70",
+        "0x23b229",
+        "0x23cc82",
+        "0x242a95",
+        "0x243d41",
+        "0x24761f",
+        "0x24b374"
+    ],
+    "Songs": [
+        "0x1dca76"
+    ],
+    "Music": [
+        "0x1dcedc",
+        "0x1e468f"
+    ],
+    "Settings": [
+        "0x66aad",
+        "0x1dc773",
+        "0x24e62e"
+    ],
+    "Soundtracks": [
+        "0x250813"
+    ],
+    "View": [
+        "0x5a05d",
+        "0x5b4d9",
+        "0x5c104",
+        "0x5dacf",
+        "0x5e333",
+        "0x63637",
+        "0x641c2"
+    ],
+    "Support": [
+        "0x25ba43"
+    ],
+    "FAQ": [
+        "0x25bc0b"
+    ],
+    "Email Support": [
+        "0x25bc43"
+    ],
+    "For help with any issues, please contact\n<cy>support@robtopgames.com</c>": [
+        "0x25c86a"
+    ],
+    "Send Email": [
+        "0x25c87f"
+    ],
+    "Low Detail Mode": [
+        "0x25bd34",
+        "0x25c80f"
+    ],
+    "FMOD by Firelight Technologies": [
+        "0x25c15c"
+    ],
+    "Restore": [
+        "0x25bdca"
+    ],
+    "Error": [
+        "0x67b6e",
+        "0xb9c34",
+        "0x178627",
+        "0x17889d",
+        "0x1789f5",
+        "0x178fbf",
+        "0x1790e3"
+    ],
+    "No restore data found.": [
+        "0xb9c1f"
+    ],
+    "Cancel": [
+        "0x3425e",
+        "0x366a8",
+        "0x38770",
+        "0x389f1",
+        "0x38bde",
+        "0x39cae",
+        "0x39e8f",
+        "0x39fae",
+        "0x6265a",
+        "0x6c268",
+        "0x70e5e",
+        "0x87045",
+        "0x99da6",
+        "0x13b69a",
+        "0x1407e2",
+        "0x1414b6",
+        "0x14b651",
+        "0x14c8ae",
+        "0x15c511",
+        "0x15c60e",
+        "0x178ad1",
+        "0x178cd1",
+        "0x19132e",
+        "0x19143e",
+        "0x19573c",
+        "0x21395b",
+        "0x214420",
+        "0x2150ea",
+        "0x24b5d4",
+        "0x24cee0"
+    ],
+    "Open": [
+        "0x6604c",
+        "0x191329",
+        "0x217d8c"
+    ],
+    "Loading...": [
+        "0x25c603"
+    ],
+    "Yes": [
+        "0x38bd9",
+        "0x39ca9",
+        "0x4c328",
+        "0x191439"
+    ],
+    "No": [
+        "0x4c32d"
+    ],
+    "YES": [
+        "0x60586",
+        "0x71269",
+        "0x71649",
+        "0x71a89",
+        "0x71b89",
+        "0x73c56",
+        "0x749e6",
+        "0x74b46",
+        "0x1506fe",
+        "0x17926d",
+        "0x179649",
+        "0x1797f9",
+        "0x17a409",
+        "0x17a509",
+        "0x17e9b9"
+    ],
+    "NO": [
+        "0x6058b",
+        "0x7126e",
+        "0x7164e",
+        "0x71a8e",
+        "0x71b8e",
+        "0x73c5b",
+        "0x749eb",
+        "0x74b4b",
+        "0x150703",
+        "0x179272",
+        "0x17964e",
+        "0x1797fe",
+        "0x17a40e",
+        "0x17a50e",
+        "0x17e9be"
+    ],
+    "Description [Optional]": [
+        "0x6f0db",
+        "0x70a4d"
+    ],
+    "Info": [
+        "0x1390a9",
+        "0x158e9d",
+        "0x15bf7d",
+        "0x1dfec9",
+        "0x1e2b49"
+    ],
+    "Are you sure you want to <cr>delete</c> this level?\n<cy>(Cannot be undone)</c>": [
+        "0x71207"
+    ],
+    "Delete Level": [
+        "0x71258",
+        "0x179638"
+    ],
+    "Are you sure you want to <cr>Quit</c>?": [
+        "0x1913d7"
+    ],
+    "<cg>Tap</c> the screen to jump.\n<cg>Hold</c> down to keep jumping.": [
+        "0x25e362"
+    ],
+    "Linked to account: %s": [
+        "0x38dd0",
+        "0x38e7c",
+        "0x3a21c",
+        "0x3a2c7"
+    ],
+    "%ih %imin": [
+        "0x26a32"
+    ],
+    "<cy>%s</c>\n<cg>Total Attempts</c>: %i\n<cl>Total Jumps</c>: %i\n<cp>Normal</c>: %i%%\n<co>Practice</c>: %i%%": [
+        "0x17a188",
+        "0x188587"
+    ],
+    "%i to %i of %i": [
+        "0x3bb33",
+        "0x14c6ca",
+        "0x151ad7",
+        "0x15b777",
+        "0x25d727"
+    ],
+    "Do you want to <cg>buy</c> this <co>%s</c>\nfor <cy>%i</c> <cj>mana orbs</c>?": [
+        "0x14b4da"
+    ],
+    "Buy": [
+        "0x14b6b2"
+    ],
+    "Buy Item": [
+        "0x14b25f"
+    ],
+    "Download the soundtracks": [
+        "0x184fae"
+    ],
+    "Coming Soon!": [
+        "0x18727d"
+    ],
+    "Normal Mode": [
+        "0x177978",
+        "0x1861cc",
+        "0x1e4fee"
+    ],
+    "Practice Mode": [
+        "0x1779e7",
+        "0x186248",
+        "0x1e505d"
+    ],
+    "By: %s": [
+        "0x69199"
+    ],
+    "By %s": [
+        "0x5a334",
+        "0x5dba6",
+        "0x14ee37",
+        "0x17581b",
+        "0x25010a"
+    ],
+    "SongID: %i": [
+        "0x69248"
+    ],
+    "Back": [
+        "0x62a98",
+        "0x62b4e",
+        "0x62c87",
+        "0x63b4e",
+        "0x64a2e",
+        "0x66051",
+        "0x9b22d",
+        "0x13e552",
+        "0x13fbe6",
+        "0x13fd47",
+        "0x1407ef",
+        "0x19298d",
+        "0x1e0b9e",
+        "0x21144b",
+        "0x2114e4",
+        "0x2116c2",
+        "0x24df73"
+    ],
+    "Apply": [
+        "0x1e0c37"
+    ],
+    "Windowed Resolution": [
+        "0x1e0805"
+    ],
+    "Quality": [
+        "0x1e072c"
+    ],
+    "Texture Quality": [
+        "0x1e079e"
+    ],
+    "Fullscreen": [
+        "0x1e0609"
+    ],
+    "Advanced Options": [
+        "0x181c4e"
+    ],
+    "Coins": [
+        "0x182131"
+    ],
+    "Quit Game": [
+        "0x191428"
+    ],
+    "Advanced": [
+        "0x1e0e7c"
+    ],
+    "Advanced Video Options": [
+        "0x1e1ad9"
+    ],
+    "Smooth Fix": [
+        "0x1e1bb8"
+    ],
+    "Vertical Sync": [
+        "0x1e1ba2"
+    ],
+    "Attempt %i": [
+        "0x20c376",
+        "0x21637f"
+    ],
+    "Achievements": [
+        "0x3b643"
+    ],
+    "Don't touch that!": [
+        "0x21e5b9",
+        "0x21e7cd",
+        "0x222f0e",
+        "0x223081",
+        "0x223545"
+    ],
+    "Vault of Secrets": [
+        "0x21f547"
+    ],
+    "Z Order": [
+        "0x22aebf"
+    ],
+    "Editor L": [
+        "0x22ad2e"
+    ],
+    "Editor L2": [
+        "0x22adb7"
+    ],
+    "Z Layer": [
+        "0x22af37"
+    ],
+    "Fade in": [
+        "0x66bee"
+    ],
+    "Fade out": [
+        "0x66c97"
+    ],
+    "Color": [
+        "0x3ac12",
+        "0x23f48c"
+    ],
+    "Exclusive": [
+        "0x23f879"
+    ],
+    "Setup Pulse Effect": [
+        "0x23df73"
+    ],
+    "Channel": [
+        "0x23ee07"
+    ],
+    "Group": [
+        "0x23ee69"
+    ],
+    "Target Type": [
+        "0x23ed90"
+    ],
+    "Pulse Mode": [
+        "0x23f3cb"
+    ],
+    "Channel ID": [
+        "0x4475c",
+        "0x23ef2f",
+        "0x2409dc"
+    ],
+    "Touch Triggered": [
+        "0x1229bc",
+        "0x12f637",
+        "0x133641",
+        "0x137485",
+        "0x1476d3",
+        "0x23baaa"
+    ],
+    "Spawn Triggered": [
+        "0x122a68",
+        "0x12f6e3",
+        "0x1336e8",
+        "0x1374fa",
+        "0x14777d",
+        "0x23bb51"
+    ],
+    "Group ID": [
+        "0x22fa8a",
+        "0x231037",
+        "0x238491",
+        "0x239e61",
+        "0x23b324",
+        "0x2409e6",
+        "0x245a9b",
+        "0x247724"
+    ],
+    "Animation ID": [
+        "0x231093"
+    ],
+    "Item ID": [
+        "0x22ec0f",
+        "0x2355e4",
+        "0x236b6a",
+        "0x2384a2",
+        "0x23cdad"
+    ],
+    "Target ID": [
+        "0x233b10",
+        "0x2356b4",
+        "0x236c20"
+    ],
+    "Target Count": [
+        "0x235650",
+        "0x236bc9"
+    ],
+    "Unverified": [
+        "0x5b9a6",
+        "0x6ff5e",
+        "0x71162"
+    ],
+    "Verified": [
+        "0x5b9b1",
+        "0x6ff4d"
+    ],
+    "Tiny": [
+        "0xbcd2b"
+    ],
+    "Short": [
+        "0xbcd3c"
+    ],
+    "Medium": [
+        "0xbcd4d",
+        "0x1e0fdd"
+    ],
+    "Long": [
+        "0xbcd5e"
+    ],
+    "Online Levels": [
+        "0x15b011"
+    ],
+    "Most Downloaded": [
+        "0x17d872"
+    ],
+    "Most Liked": [
+        "0x17d8ae"
+    ],
+    "Trending": [
+        "0x17d8ea"
+    ],
+    "Recent": [
+        "0x17d92d"
+    ],
+    "Friends": [
+        "0x9c48f",
+        "0x13a97a",
+        "0x13aecf",
+        "0x17da39"
+    ],
+    "Magic": [
+        "0x106faa",
+        "0x17d970"
+    ],
+    "Followed": [
+        "0x17d9f6"
+    ],
+    "Search": [
+        "0x65e20",
+        "0x15c8e6",
+        "0x17d603"
+    ],
+    "Enter a level, user or id": [
+        "0x17d432",
+        "0x17d5d8",
+        "0x17f912",
+        "0x17f99c"
+    ],
+    "Quick Search": [
+        "0x17d731"
+    ],
+    "Filters": [
+        "0x17dc53"
+    ],
+    "Map Packs": [
+        "0x15b1a7"
+    ],
+    "Go to Folder": [
+        "0x15b997"
+    ],
+    "Clone Level": [
+        "0x71a78",
+        "0x179258"
+    ],
+    "Level Name": [
+        "0x6ee6d"
+    ],
+    "Move to Top": [
+        "0x71b78",
+        "0x17a3f8"
+    ],
+    "Go to Page": [
+        "0x15b8f8"
+    ],
+    "Version: %i": [
+        "0x70203",
+        "0x150323"
+    ],
+    "Length: %i seconds": [
+        "0x72760"
+    ],
+    "Length: %imin %is": [
+        "0x72754"
+    ],
+    "Objects: %i/%i": [
+        "0x72587"
+    ],
+    "Exit": [
+        "0x72b00",
+        "0x74b41",
+        "0x25e066"
+    ],
+    "Resume": [
+        "0x729d4"
+    ],
+    "Save and Play": [
+        "0x72a1f"
+    ],
+    "Save and Exit": [
+        "0x72a6a"
+    ],
+    "Save": [
+        "0x380fe",
+        "0x3876b",
+        "0x72ac3",
+        "0x749e1"
+    ],
+    "Keys": [
+        "0x73a24",
+        "0x1de9e1"
+    ],
+    "Buttons Per Row": [
+        "0x13948f"
+    ],
+    "Button Rows": [
+        "0x1396f3"
+    ],
+    "Preview Mode": [
+        "0x7396a"
+    ],
+    "Show Ground": [
+        "0x7386a"
+    ],
+    "Show Object Info": [
+        "0x7376a"
+    ],
+    "Show Grid": [
+        "0x7366a"
+    ],
+    "Select Filter": [
+        "0x7356a"
+    ],
+    "Follow Player": [
+        "0x7346a"
+    ],
+    "Ignore Damage": [
+        "0x73362"
+    ],
+    "Uploaded": [
+        "0x5b999",
+        "0x6ff25",
+        "0x24d793"
+    ],
+    "Find Level": [
+        "0x15c8bd"
+    ],
+    "Low": [
+        "0x1e0fd6"
+    ],
+    "High": [
+        "0x1e0fe4"
+    ],
+    "Video Options": [
+        "0x1e03b0"
+    ],
+    "The Vault": [
+        "0x21b6aa"
+    ],
+    "Chamber of Time": [
+        "0x2288fb"
+    ],
+    "Completed": [
+        "0x181df8"
+    ],
+    "Uncompleted": [
+        "0x181d6b"
+    ],
+    "Featured": [
+        "0x181e84"
+    ],
+    "Original": [
+        "0x14f4ca",
+        "0x181f0a"
+    ],
+    "Epic": [
+        "0x181f93"
+    ],
+    "Song": [
+        "0x18201c"
+    ],
+    "No Star": [
+        "0x1820a5"
+    ],
+    "2-Player": [
+        "0x171da1",
+        "0x1821b7"
+    ],
+    "Load": [
+        "0x38153",
+        "0x389ec"
+    ],
+    "More": [
+        "0x381fd",
+        "0x67fba"
+    ],
+    "Account Help": [
+        "0x39643"
+    ],
+    "Select Mode:": [
+        "0x170fcc"
+    ],
+    "Select Song:": [
+        "0x171fb8",
+        "0x18220b"
+    ],
+    "Mode:": [
+        "0x171e18"
+    ],
+    "Font": [
+        "0x171bf0"
+    ],
+    "Mini:": [
+        "0x1719e4"
+    ],
+    "Dual:": [
+        "0x171ad2"
+    ],
+    "BG:": [
+        "0x1704ca",
+        "0x17170c"
+    ],
+    "G:": [
+        "0x170501",
+        "0x17187c"
+    ],
+    "G2:": [
+        "0x170538"
+    ],
+    "Line:": [
+        "0x1705ad"
+    ],
+    "Obj:": [
+        "0x1705e8"
+    ],
+    "3DL:": [
+        "0x170573"
+    ],
+    "More:": [
+        "0x170623"
+    ],
+    "Select Color:": [
+        "0x17044d"
+    ],
+    "Enter song ID": [
+        "0x65c36",
+        "0x182778"
+    ],
+    "Downloaded Songs": [
+        "0x14bf88"
+    ],
+    "Record": [
+        "0x4be75"
+    ],
+    "Clear": [
+        "0x4bb04"
+    ],
+    "Guideline Creator": [
+        "0x4b763"
+    ],
+    "1. Find a song on Newgrounds.com": [
+        "0x6523e"
+    ],
+    "2. Save the song ID": [
+        "0x65329"
+    ],
+    "3. Enter the ID in the search box": [
+        "0x653c2"
+    ],
+    "Artists": [
+        "0x65749"
+    ],
+    "Guidelines": [
+        "0x4cdcd",
+        "0x6580f"
+    ],
+    "Support NG!": [
+        "0x65873"
+    ],
+    "Custom Song Selection": [
+        "0x651bf"
+    ],
+    "Failed to fetch song info.": [
+        "0x697ae"
+    ],
+    "Loading": [
+        "0x6872d"
+    ],
+    "Oh I know!": [
+        "0x220449"
+    ],
+    "RubRub always gives prizes.": [
+        "0x22032f"
+    ],
+    "Uhm<d010>.<d010>.<d010>.<d030> Not sure what to<d010>.<d010>.<d010>.": [
+        "0x2203bc"
+    ],
+    "<d010>.<d010>.<d010>.<d030> Why are you still here?": [
+        "0x220215"
+    ],
+    "My level<d010>.<d010>.<d010>.<d040> You beat it?": [
+        "0x2200fb"
+    ],
+    "I guess I underestimated you.<d030>\nIt will not happen again.": [
+        "0x220188"
+    ],
+    "Leave that alone...": [
+        "0x220cd2"
+    ],
+    "Not allowed": [
+        "0x220ba8"
+    ],
+    "Sorry,<d020> I can't let you in.": [
+        "0x220cc4"
+    ],
+    "Grab the chest and come back<d010>.<d010>.<d010>.\n<d050><cr><i>DONT</i> <d050><i>TOUCH</i> <d050><i>ANYTHING</i></c>!": [
+        "0x22067d"
+    ],
+    "You are not prepared.\n<d030>Collect more diamonds...": [
+        "0x22098f"
+    ],
+    "Off. <d030> Limits.": [
+        "0x220d03"
+    ],
+    "Does the word locked mean nothing to you?": [
+        "0x220d0a"
+    ],
+    "Some things are best left alone.": [
+        "0x220cf5"
+    ],
+    "Even I dont want to go down there.": [
+        "0x220cfc"
+    ],
+    "I've only been down there once. <d030>Its pretty creepy.": [
+        "0x220ce7"
+    ],
+    "Just forget about it.": [
+        "0x220cee"
+    ],
+    "That area is off limits.": [
+        "0x220cd9"
+    ],
+    "I should have been a doctor...": [
+        "0x221954"
+    ],
+    "Ugh... Slippery": [
+        "0x2216c4"
+    ],
+    "I wish I had that many shinies...": [
+        "0x2218bd"
+    ],
+    "NOOOO!! THIEF! THIEF!": [
+        "0x221607"
+    ],
+    "My level? You want to try it!?": [
+        "0x221b21"
+    ],
+    "Indeed it is...": [
+        "0x221ab8"
+    ],
+    "How many colors do you need?": [
+        "0x221a3a"
+    ],
+    "There is no Kappa icon...": [
+        "0x221d6b"
+    ],
+    "He could be watching us right now...": [
+        "0x221d1b"
+    ],
+    "Ultimate Haxxor mode enabled. Not...": [
+        "0x221ccb"
+    ],
+    "Why do they have a horn?": [
+        "0x221c7b"
+    ],
+    "I heard what you did": [
+        "0x222989"
+    ],
+    "You little thief": [
+        "0x22299a"
+    ],
+    "You know, for my head...": [
+        "0x222947"
+    ],
+    "Nothing? Ok...": [
+        "0x222958"
+    ],
+    "I feel so drained": [
+        "0x222925"
+    ],
+    "Would be nice to get some energy": [
+        "0x222936"
+    ],
+    "RUBRUBRUBRUBRUBRUB": [
+        "0x221db8"
+    ],
+    "Oh my head...": [
+        "0x222914"
+    ],
+    "Too clever for you...": [
+        "0x222a11"
+    ],
+    "This is thread 4": [
+        "0x222a5a"
+    ],
+    "But you will never get my coin...": [
+        "0x2229ef"
+    ],
+    "I keep it safe": [
+        "0x222a00"
+    ],
+    "I like it": [
+        "0x2229cd"
+    ],
+    "I know what you're thinking": [
+        "0x2229de"
+    ],
+    "You took 'Spookys' coin": [
+        "0x2229ab"
+    ],
+    "That is pure evil...": [
+        "0x2229bc"
+    ],
+    "My question to you is this...": [
+        "0x222ad6"
+    ],
+    "On a scale from tree to fish": [
+        "0x222ae7"
+    ],
+    "A very short Witch": [
+        "0x222ab4"
+    ],
+    "The Witch stinks of fish": [
+        "0x222ac5"
+    ],
+    "A very short tree": [
+        "0x222a92"
+    ],
+    "In this tree there lives a Witch": [
+        "0x222aa3"
+    ],
+    "Thread 4 end": [
+        "0x222a50"
+    ],
+    "So... there is a tree": [
+        "0x222a81"
+    ],
+    "'I hope you are leaving'": [
+        "0x222b7e"
+    ],
+    "Can you go now?": [
+        "0x222b8f"
+    ],
+    "'Remove my start and I am even'": [
+        "0x222b5c"
+    ],
+    "'When you complete this riddle'": [
+        "0x222b6d"
+    ],
+    "Since you insist on staying": [
+        "0x222b3a"
+    ],
+    "'I have always been odd'": [
+        "0x222b4b"
+    ],
+    "How many shinies do you have?": [
+        "0x222af8"
+    ],
+    "Might as well give you a riddle": [
+        "0x222b29"
+    ],
+    "I need to get some rest...": [
+        "0x222c15"
+    ],
+    "Want to hear a secret?": [
+        "0x222c31"
+    ],
+    "... and the chicken said": [
+        "0x222bf3"
+    ],
+    "The password is on fire": [
+        "0x222c04"
+    ],
+    "The egg, of course.": [
+        "0x222bd1"
+    ],
+    "Then the egg laid the chicken": [
+        "0x222be2"
+    ],
+    "Which came first?": [
+        "0x222baf"
+    ],
+    "The chicken or the egg?": [
+        "0x222bc0"
+    ],
+    "I have heard about you": [
+        "0x222e3b"
+    ],
+    "%s the sneaky one...": [
+        "0x222e6c"
+    ],
+    "But probably not...": [
+        "0x222c77"
+    ],
+    "RubRub will never notice me": [
+        "0x222c85"
+    ],
+    "Hope it gets featured": [
+        "0x222c69"
+    ],
+    "Just don't tell RubRub": [
+        "0x222c3f"
+    ],
+    "I am building my own level": [
+        "0x222c4d"
+    ],
+    "Door is now open. Oh wait, no it's not.": [
+        "0x2232a0"
+    ],
+    "Is that actually your guess?": [
+        "0x2232b1"
+    ],
+    "Swing and a miss!": [
+        "0x22327e"
+    ],
+    "I told you, it wont work...": [
+        "0x22328f"
+    ],
+    "Why you touch my stuff?": [
+        "0x222f1f"
+    ],
+    "No, just no": [
+        "0x22326d"
+    ],
+    "You think you can fool me": [
+        "0x222e97"
+    ],
+    "You are deeply mistaken": [
+        "0x222ea8"
+    ],
+    "Don't make me angry": [
+        "0x223368"
+    ],
+    "You won't like me when im angry...": [
+        "0x223379"
+    ],
+    "That tickles!": [
+        "0x223346"
+    ],
+    "Try harder please": [
+        "0x223357"
+    ],
+    "Give up, please": [
+        "0x223324"
+    ],
+    "Door is still locked": [
+        "0x223335"
+    ],
+    "Go home %s.": [
+        "0x2232e7"
+    ],
+    "Nope": [
+        "0x223313"
+    ],
+    "How about no?": [
+        "0x223412"
+    ],
+    "%s, please give up...": [
+        "0x223448"
+    ],
+    "Just kidding, unlimited attempts": [
+        "0x2233ce"
+    ],
+    "Maybe you should do something else?": [
+        "0x2233df"
+    ],
+    "Only 2 attempts left!": [
+        "0x2233ac"
+    ],
+    "LAST ATTEMPT!": [
+        "0x2233bd"
+    ],
+    "Oh no, you just unlocked... NOTHING": [
+        "0x22338a"
+    ],
+    "Only 3 attempts left!": [
+        "0x22339b"
+    ],
+    "What kind of name is %s anyway?": [
+        "0x2234fc"
+    ],
+    "Not gonna work.": [
+        "0x223525"
+    ],
+    "May I suggest thinking?": [
+        "0x223496"
+    ],
+    "WRONG": [
+        "0x2234a7"
+    ],
+    "Error, error. Bad answers.": [
+        "0x223474"
+    ],
+    "Failure": [
+        "0x223485"
+    ],
+    "See those locks over there?<d040>\n<cl>You need to unlock them.</c>": [
+        "0x225be5"
+    ],
+    "I cannot stay here any longer.<d050>\n<cr>You must find a way to release me.</c>": [
+        "0x226055"
+    ],
+    "He said there would be chicken.": [
+        "0x225f3b"
+    ],
+    "Wait.<d010>.<d010>.<d020> Is the gate<d010>.<d010>.<d010>.": [
+        "0x22796b"
+    ],
+    "<d010>.<d010>.<d010>. You opened the gate<d010>.<d010>.<d010>.": [
+        "0x2279f8"
+    ],
+    "Hey I heard some noi...": [
+        "0x2278e3"
+    ],
+    "Now that you have freed me, I can continue my master plan.": [
+        "0x2273e2"
+    ],
+    "YOU OPENED THE GATE!\n<d030>GAH THIS IS BAD.": [
+        "0x227a85"
+    ],
+    "Go away!": [
+        "0x1dd745",
+        "0x21e541",
+        "0x222eb9"
+    ],
+    "I should have hid this room better...": [
+        "0x21e559",
+        "0x222eca"
+    ],
+    "You're not supposed to be in here...": [
+        "0x21e571",
+        "0x222edb"
+    ],
+    "RubRub won't like this...": [
+        "0x21e589",
+        "0x222eec"
+    ],
+    "RubRub better not find you in here...": [
+        "0x21e5e9",
+        "0x222f30"
+    ],
+    "Can't you just leave?": [
+        "0x21e601",
+        "0x222f41"
+    ],
+    "This is not the room you are looking for...": [
+        "0x21e619",
+        "0x222f52"
+    ],
+    "Sneaky sneaky...": [
+        "0x21e631",
+        "0x222f63"
+    ],
+    "It's my precious...": [
+        "0x21e649",
+        "0x222f74"
+    ],
+    "You shall not pass!": [
+        "0x21e661",
+        "0x222f85"
+    ],
+    "Don't push the button!": [
+        "0x21e679",
+        "0x222f96"
+    ],
+    "You're gonna get me in trouble...": [
+        "0x21e691",
+        "0x222fa7"
+    ],
+    "This is getting ridiculus...": [
+        "0x21e6a9",
+        "0x222fb8",
+        "0x2233f0"
+    ],
+    "Go collect some stars": [
+        "0x21e6c1",
+        "0x222fc9",
+        "0x223401"
+    ],
+    "Maybe there are new levels?": [
+        "0x21e6d9",
+        "0x222fda"
+    ],
+    "Just, stop bothering me": [
+        "0x21e6f1",
+        "0x222feb"
+    ],
+    "I'm gonna stop talking": [
+        "0x21e709",
+        "0x222ffc"
+    ],
+    "GAH!": [
+        "0x21e751",
+        "0x223029"
+    ],
+    "You're hopeless...": [
+        "0x21e769",
+        "0x223037",
+        "0x2234b8"
+    ],
+    "Really, still here?": [
+        "0x21e781",
+        "0x223045",
+        "0x2234c9"
+    ],
+    "Fine, press the button": [
+        "0x21e799",
+        "0x223053"
+    ],
+    "I left an old chest down in the <co>basement</c>.": [
+        "0x2204d6"
+    ],
+    "Ah of course,<d030> you want a <cg>prize</c>.": [
+        "0x2202a2"
+    ],
+    "You can have that as a <cg>reward</c>!": [
+        "0x220571"
+    ],
+    "Take the <cy>door</c> on the right, I will open it for you.": [
+        "0x2205f0"
+    ],
+    "<cy>Help</c> me get out of here, and I will make it worth your while.": [
+        "0x225b58"
+    ],
+    "<cr>Well,<d010> well,<d010> well.</c><d050>\nWhat do we have here?": [
+        "0x225a43"
+    ],
+    "You look like someone who is interested in a <cl>deal</c><d010>.<d010>.<d010>.": [
+        "0x225acb"
+    ],
+    "Only a chosen <cl>few</c> can find it, but I will grant you this <cg>gift</c>...": [
+        "0x2262b2"
+    ],
+    "Complete the <cr>Chaos Gauntlet</c>, and the <cl>key</c> will be yours<d010>.<d010>.<d010>.": [
+        "0x22631c"
+    ],
+    "The first <cl>key</c> is hidden in a <co>secret gauntlet</c>...": [
+        "0x226242"
+    ],
+    "<cl>RubRub</c> locked me in here, for no reason.": [
+        "0x225eb3"
+    ],
+    "<cg>You will find The Gatekeeper at the end of the world.</c>": [
+        "0x2266c4"
+    ],
+    "<cg>Touch the ground beneath the promise, and the door will be revealed.</c>": [
+        "0x22672e"
+    ],
+    "I suspect it is guarded by <cr>The Gatekeeper</c>.\n<d030><cl>RubRub</c>'s trusted pet.<d010>.<d010>.<d010>.": [
+        "0x2265f0"
+    ],
+    "To claim the <co>key</c> you must fool him.\n<d040>I do not know how.": [
+        "0x22665a"
+    ],
+    "Unlock <cy>50</c> secret chests to claim the <cg>key</c>.": [
+        "0x2264bb"
+    ],
+    "The <co>third key</c> is hidden well.\n<d030>Even I have not been able to find it.": [
+        "0x226580"
+    ],
+    "They tried to <cl>hide</c> it from me,\nbut I have my <cr>spies</c>.": [
+        "0x2263e1"
+    ],
+    "The <cg>second key</c> is locked away in a <cl>secret chest</c>.": [
+        "0x226451"
+    ],
+    "Now that I have my <cg>freedom</c>,<d020>\nI must continue where I left off.": [
+        "0x227138"
+    ],
+    "<cy>RubRub</c> told me he was cooking some chicken.<d080> Then he locked me in.": [
+        "0x22734b"
+    ],
+    "I<d030>.<d030>.<d050>.<d030> I am <cg>free</c>...<d02>?": [
+        "0x227023"
+    ],
+    "So many years lost.<d050> <cl>Locked</c> away in that filthy cage...": [
+        "0x2270ab"
+    ],
+    "The <cg>key</c>, you found it?": [
+        "0x226d9b"
+    ],
+    "Excellent, only <cl>two</c> locks left.": [
+        "0x226e22"
+    ],
+    "You found a second <cg>key</c>, impressive<d010>.<d010>.<d010>.": [
+        "0x226cc1"
+    ],
+    "Only <cy>one</c> lock left.": [
+        "0x226d47"
+    ],
+    "<cr>You will need it</c><d030>.<d035>.<d040>.": [
+        "0x227748"
+    ],
+    "But I almost forgot, I left you a small <cg>gift</c>. <d050>As a token of my appreciation.": [
+        "0x227624"
+    ],
+    "You should <cy>prepare</c> yourself for when I return.": [
+        "0x2276b6"
+    ],
+    "<cr>DESTROY</c> the world of <cg>Geometry Dash</c>!<d060> And I couldn't have done it without you <cl>%s</c>.": [
+        "0x2274bc"
+    ],
+    "<cr>BAD BAD BAD BAD BAD BAD BAD BAD BAD BAD BAD BAD</c><d010>.<d010>.<d010>.": [
+        "0x227b12"
+    ],
+    "My Levels": [
+        "0x15b08d",
+        "0x19710e"
+    ],
+    "%ss Levels": [
+        "0x15b25c"
+    ],
+    "Get It": [
+        "0x5a04d"
+    ],
+    "Level Stats": [
+        "0x6fc0a",
+        "0x17a2e9",
+        "0x1885f8"
+    ],
+    "Play": [
+        "0x178acc",
+        "0x178ccc"
+    ],
+    "No Song": [
+        "0x178abb"
+    ],
+    "High Objects": [
+        "0x178cd6"
+    ],
+    "Level Info": [
+        "0x1511d0"
+    ],
+    "Load Comments": [
+        "0x14fe8e"
+    ],
+    "Shhhh! You're gonna wake the big one!": [
+        "0x18c468"
+    ],
+    "Hope the big guy doesn't wake up...": [
+        "0x18c462"
+    ],
+    "Loading resources": [
+        "0x18b726",
+        "0x18b7e7"
+    ],
+    "Load Failed!": [
+        "0x1fb7a3"
+    ],
+    "Problem?": [
+        "0x1fdaaa"
+    ],
+    "Nice crash": [
+        "0x1fdab4"
+    ],
+    "Ples omg why no": [
+        "0x1fda96"
+    ],
+    "Maybe jump?": [
+        "0x1fdaa0"
+    ],
+    "Try jump?": [
+        "0x1fda78"
+    ],
+    "Too slow": [
+        "0x1fda8c"
+    ],
+    "Y u die?": [
+        "0x1fda64"
+    ],
+    "Not 100%": [
+        "0x1fda6e"
+    ],
+    "Noscope": [
+        "0x1fdb04"
+    ],
+    "Feel the pain": [
+        "0x1fdb0e"
+    ],
+    "Rage time?": [
+        "0x1fdaf0"
+    ],
+    "One more?": [
+        "0x1fdafa"
+    ],
+    "Hehe...": [
+        "0x1fdad2"
+    ],
+    "U no like?": [
+        "0x1fdadc"
+    ],
+    "Try again?": [
+        "0x1fdabe"
+    ],
+    "Almost...": [
+        "0x1fdac8"
+    ],
+    "What!?": [
+        "0x1fdb54"
+    ],
+    "You ok?": [
+        "0x1fdb5e"
+    ],
+    "Go again": [
+        "0x1fdb40"
+    ],
+    "Click faster": [
+        "0x1fdb2c"
+    ],
+    "Dont be sad": [
+        "0x1fdb36"
+    ],
+    "Over 1%!": [
+        "0x1fdb18"
+    ],
+    "BOOM!": [
+        "0x1fdb22"
+    ],
+    "Continue?": [
+        "0x1fdba4"
+    ],
+    "Fail": [
+        "0x1fdbae"
+    ],
+    "RubRub?": [
+        "0x1fdb90"
+    ],
+    "You Died": [
+        "0x1fdb9a"
+    ],
+    "Game Over": [
+        "0x1fdb7c"
+    ],
+    "LOL": [
+        "0x1fdb86"
+    ],
+    "Did he died?": [
+        "0x1fdb68"
+    ],
+    "Go?": [
+        "0x1fdb72"
+    ],
+    "Not ok": [
+        "0x1fdbfb"
+    ],
+    "Time's Up!": [
+        "0x1fdbe0"
+    ],
+    "You Lose": [
+        "0x1fdbcc"
+    ],
+    "Combo Breaker!": [
+        "0x1fdbd6"
+    ],
+    "Wrong button": [
+        "0x1fdbb8"
+    ],
+    "Insert coin": [
+        "0x1fdbc2"
+    ],
+    "Is that it?": [
+        "0x1fdc33"
+    ],
+    "Not even close": [
+        "0x1fdc3a"
+    ],
+    "Explosion!": [
+        "0x1fdc1e"
+    ],
+    "So random": [
+        "0x1fdc25"
+    ],
+    "Nice try": [
+        "0x1fdc10"
+    ],
+    "Take a break": [
+        "0x1fdc17"
+    ],
+    "Dead, you are": [
+        "0x1fdc02"
+    ],
+    "Slow down": [
+        "0x1fdc09"
+    ],
+    "Hang in there": [
+        "0x1fdc72"
+    ],
+    "Spam?": [
+        "0x1fdc5d"
+    ],
+    "Try harder": [
+        "0x1fdc64"
+    ],
+    "liaf uoy": [
+        "0x1fdc4f"
+    ],
+    "Go home": [
+        "0x1fdc56"
+    ],
+    "Give up": [
+        "0x1fdc41"
+    ],
+    "Hotel?": [
+        "0x1fdc48"
+    ],
+    "Auto-Retry": [
+        "0x1ddf39",
+        "0x1e422a"
+    ],
+    "Auto-Checkpoints": [
+        "0x1ddf4f",
+        "0x1e4302"
+    ],
+    "Progress Bar": [
+        "0x1e43d4"
+    ],
+    "Search Info": [
+        "0x183a6d"
+    ],
+    "Clear Filters": [
+        "0x17e9a8"
+    ],
+    "Locked": [
+        "0x128eeb",
+        "0x128f82",
+        "0x12912d",
+        "0x12951c",
+        "0x188134"
+    ],
+    "Stats": [
+        "0x25b153"
+    ],
+    "Completed Online Levels:": [
+        "0x5d4d4"
+    ],
+    "Completed Levels:": [
+        "0x5d485"
+    ],
+    "Total Attempts:": [
+        "0x5d436"
+    ],
+    "Collected Secret Coins:": [
+        "0x5d610"
+    ],
+    "Collected Stars:": [
+        "0x5d5c1"
+    ],
+    "Completed Demon Levels:": [
+        "0x5d572"
+    ],
+    "Completed Daily Levels:": [
+        "0x5d523"
+    ],
+    "Players destroyed:": [
+        "0x5d6fd"
+    ],
+    "Completed Map Packs:": [
+        "0x5d6ae"
+    ],
+    "Collected User Coins:": [
+        "0x5d65f"
+    ],
+    "Total orbs collected:": [
+        "0x5d7ea"
+    ],
+    "Rated Levels:": [
+        "0x5d79b"
+    ],
+    "Liked/Disliked Levels:": [
+        "0x5d74c"
+    ],
+    "Collected Diamonds:": [
+        "0x5d835"
+    ],
+    "Total Jumps:": [
+        "0x5d3a6"
+    ],
+    "Find Users": [
+        "0x15b18e"
+    ],
+    "Download Soundtrack": [
+        "0x2502c3"
+    ],
+    "Update": [
+        "0x5a03d",
+        "0x70e59",
+        "0x13b6f6",
+        "0x1787b6"
+    ],
+    "Commenting Rules": [
+        "0x150864",
+        "0x150b17"
+    ],
+    "Next": [
+        "0x150b1e",
+        "0x25e011"
+    ],
+    "Add Comment": [
+        "0x150bd3"
+    ],
+    "Insert comment": [
+        "0x24b7fd"
+    ],
+    "Submit": [
+        "0x342bd",
+        "0x213a03",
+        "0x2144c8",
+        "0x215190",
+        "0x24b632"
+    ],
+    "Report Level": [
+        "0x150708"
+    ],
+    "Select Font": [
+        "0x136893"
+    ],
+    "Testmode": [
+        "0x1fc67c"
+    ],
+    "Normal": [
+        "0x17231f",
+        "0x1822a6"
+    ],
+    "Custom": [
+        "0x172405",
+        "0x1823a5",
+        "0x242c5a"
+    ],
+    "Seconds": [
+        "0x4bd23",
+        "0x66fb0"
+    ],
+    "Start Offset": [
+        "0x4bbea",
+        "0x66e93"
+    ],
+    "Delete Comment": [
+        "0x60581"
+    ],
+    "Key Bindings": [
+        "0x152474"
+    ],
+    "(Customizing key bindings is not yet supported)": [
+        "0x1524ed"
+    ],
+    "Jump": [
+        "0x1525c4"
+    ],
+    "Pause": [
+        "0x1525d5"
+    ],
+    "Space / Up": [
+        "0x1525bf"
+    ],
+    "Place Checkpoint": [
+        "0x1525e6"
+    ],
+    "Delete Checkpoint": [
+        "0x1525f7"
+    ],
+    "Editor Keys": [
+        "0x152612"
+    ],
+    "Build Mode": [
+        "0x152632"
+    ],
+    "Edit Mode": [
+        "0x152643"
+    ],
+    "Delete Mode": [
+        "0x152654"
+    ],
+    "Move Modifier": [
+        "0x152676"
+    ],
+    "Swipe Modifier": [
+        "0x152665"
+    ],
+    "Rotate CCW": [
+        "0x152687"
+    ],
+    "Rotate CW": [
+        "0x152698"
+    ],
+    "Flip X": [
+        "0x1526a9"
+    ],
+    "Flip Y": [
+        "0x1526ba"
+    ],
+    "Delete selected": [
+        "0x1526cb"
+    ],
+    "Undo": [
+        "0x1526dc"
+    ],
+    "Redo": [
+        "0x1526ed"
+    ],
+    "Deselect": [
+        "0x1526fe"
+    ],
+    "Copy": [
+        "0x4389d",
+        "0x54ed9",
+        "0x15270f",
+        "0x22c276",
+        "0x23fc17"
+    ],
+    "Paste": [
+        "0x438c5",
+        "0x54f5f",
+        "0x152720",
+        "0x22c300",
+        "0x23fc3f"
+    ],
+    "Duplicate": [
+        "0x152731"
+    ],
+    "Rotate": [
+        "0x152742"
+    ],
+    "Free Move": [
+        "0x152753"
+    ],
+    "Swipe": [
+        "0x152764"
+    ],
+    "Snap": [
+        "0x152775"
+    ],
+    "Playtest": [
+        "0x152786"
+    ],
+    "Previous Build Tab": [
+        "0x1527a8"
+    ],
+    "Next Build Tab": [
+        "0x1527b9"
+    ],
+    "Next Group": [
+        "0x1527ca"
+    ],
+    "Previous Group": [
+        "0x1527db"
+    ],
+    "Arrow Right": [
+        "0x1527c5"
+    ],
+    "Arrow Left": [
+        "0x1527d6"
+    ],
+    "Object Left": [
+        "0x1527ec"
+    ],
+    "Object Right": [
+        "0x1527fd"
+    ],
+    "Object Down": [
+        "0x15281f"
+    ],
+    "Object Up": [
+        "0x15280e"
+    ],
+    "Object Left small": [
+        "0x152830"
+    ],
+    "Object Right small": [
+        "0x152841"
+    ],
+    "Object Down small": [
+        "0x152863"
+    ],
+    "Object Up small": [
+        "0x152852"
+    ],
+    "Gameplay Keys": [
+        "0x1525a4"
+    ],
+    "Nothing here yet... sorry :(": [
+        "0x12dfbe"
+    ],
+    "Bonus:": [
+        "0x6bcd1"
+    ],
+    "Hot answer, well done": [
+        "0x2299a3"
+    ],
+    "I hide behind rocks and rills": [
+        "0x229d4d"
+    ],
+    "Can you feel it closing in?": [
+        "0x229de4"
+    ],
+    "Shadows creep where it begins": [
+        "0x229df5"
+    ],
+    "what am I?": [
+        "0x229da2"
+    ],
+    "Shh, quiet!": [
+        "0x229dd3"
+    ],
+    "nor heard or smelt": [
+        "0x229d80"
+    ],
+    "the more I am the less you see": [
+        "0x229d91"
+    ],
+    "under the mountains and hills": [
+        "0x229d5e"
+    ],
+    "I cannot be seen or felt": [
+        "0x229d6f"
+    ],
+    "The less you consume": [
+        "0x229e87"
+    ],
+    "the stronger I become": [
+        "0x229e95"
+    ],
+    "Has a bed, but never sleeps": [
+        "0x229e56"
+    ],
+    "Has a mouth, but never eats?": [
+        "0x229e67"
+    ],
+    "What always runs, but never walks": [
+        "0x229e34"
+    ],
+    "Often murmurs, never talks": [
+        "0x229e45"
+    ],
+    "Speak its name and it is gone": [
+        "0x229e06"
+    ],
+    "from every moment dusk till dawn": [
+        "0x229e17"
+    ],
+    "You seem to be skilled in the art of <co>deception</c>...": [
+        "0x22a0fe"
+    ],
+    "But it does not matter, your <cl>trickery</c> ends here.": [
+        "0x22a19e"
+    ],
+    "My rain dries up all the land it touches": [
+        "0x229ef7"
+    ],
+    "Wait, you are not <cl>RubRub</c>...": [
+        "0x22a066"
+    ],
+    "My thunder comes before my lightning": [
+        "0x229edb"
+    ],
+    "My lightning comes before my rain": [
+        "0x229ee9"
+    ],
+    "wait too long": [
+        "0x229ea3"
+    ],
+    "and death will come": [
+        "0x229eb1"
+    ],
+    "How long will you keep this up?": [
+        "0x22a4c1"
+    ],
+    "Don't you have other things to do?": [
+        "0x22a4d9"
+    ],
+    "None shall pass": [
+        "0x22a479"
+    ],
+    "You test my patience": [
+        "0x22a491"
+    ],
+    "Leave this place": [
+        "0x22a449"
+    ],
+    "You are not welcome here": [
+        "0x22a461"
+    ],
+    "<cr>Leave now, <d010>before you cause more problems<d010>.<d010>.<d010>.</c>": [
+        "0x22a222"
+    ],
+    "Why have I been awoken?": [
+        "0x22a431"
+    ],
+    "Tick tock": [
+        "0x22a581"
+    ],
+    "Time is running out": [
+        "0x22a599"
+    ],
+    "El pollo ardiente...": [
+        "0x22a551"
+    ],
+    "Ok, playtime is over": [
+        "0x22a569"
+    ],
+    "Can you smell it?": [
+        "0x22a521"
+    ],
+    "Chicken, burning chicken": [
+        "0x22a539"
+    ],
+    "Gah I can't stand this anymore!": [
+        "0x22a4f1"
+    ],
+    "The smell, it's killing me": [
+        "0x22a509"
+    ],
+    "Not what I was hoping for...": [
+        "0x22a5e1"
+    ],
+    "Really? Still here?": [
+        "0x22a5b1"
+    ],
+    "This is my first conversation in 1000 years": [
+        "0x22a5c9"
+    ],
+    "What am I?": [
+        "0x21dd5e",
+        "0x229ebf"
+    ],
+    "Awesome!": [
+        "0x9593c"
+    ],
+    "You need to <cg>collect</c> %s to verify the level!": [
+        "0x95814"
+    ],
+    "Amazing!": [
+        "0x9598c"
+    ],
+    "Impressive!": [
+        "0x95978"
+    ],
+    "Well Done!": [
+        "0x95964"
+    ],
+    "Good Job!": [
+        "0x95950"
+    ],
+    "You are... The One!": [
+        "0x959dc"
+    ],
+    "Brilliant!": [
+        "0x959c8"
+    ],
+    "Skillful!": [
+        "0x959b4"
+    ],
+    "Incredible!": [
+        "0x959a0"
+    ],
+    "I am speechless...": [
+        "0x95a2c"
+    ],
+    "Challenge Breaker!": [
+        "0x95a18"
+    ],
+    "You beat me...": [
+        "0x95a04"
+    ],
+    "How is this possible!?": [
+        "0x959f0"
+    ],
+    "Y u do dis?": [
+        "0x95a7c"
+    ],
+    "Warp Speed!": [
+        "0x95a68"
+    ],
+    "Not bad!": [
+        "0x95a54"
+    ],
+    "Reflex Master!": [
+        "0x95a40"
+    ],
+    "Haxxor?": [
+        "0x95aeb"
+    ],
+    "Teach me oh great one": [
+        "0x95ad7"
+    ],
+    "Took you long enough...": [
+        "0x95ac3"
+    ],
+    "I R Impressed!": [
+        "0x95a90"
+    ],
+    "Hmmmmmmmmmmm": [
+        "0x95b3b"
+    ],
+    "SO FAST": [
+        "0x95b27"
+    ],
+    "RubRubRubRubRubRub": [
+        "0x95b13"
+    ],
+    "Tripple spikes?": [
+        "0x95aff"
+    ],
+    "Pump. It. Up.": [
+        "0x95b8b"
+    ],
+    "I cant hear the music.": [
+        "0x95b77"
+    ],
+    "Timing could be better": [
+        "0x95b63"
+    ],
+    "Ship part was cool": [
+        "0x95b4f"
+    ],
+    "he protec": [
+        "0x95bdb"
+    ],
+    "AFK": [
+        "0x95bc7"
+    ],
+    "Take a break.": [
+        "0x95bb3"
+    ],
+    "I am Batman": [
+        "0x95b9f"
+    ],
+    "DROP THE BEAT": [
+        "0x95c2b"
+    ],
+    "Dr. Click": [
+        "0x95c17"
+    ],
+    "lol is lol backwards": [
+        "0x95c03"
+    ],
+    "Kappa": [
+        "0x95bef",
+        "0x1fda82"
+    ],
+    "Level Verified!": [
+        "0x94aa7"
+    ],
+    "Level and Coins Verified!": [
+        "0x94a91"
+    ],
+    "Max Coins": [
+        "0x870eb"
+    ],
+    "Unknown": [
+        "0x71fe9",
+        "0xbd210",
+        "0xbe348",
+        "0x10700f",
+        "0x1892f4",
+        "0x18d575",
+        "0x195c52"
+    ],
+    "Something went wrong...": [
+        "0x9ab5d",
+        "0x9c7b4",
+        "0x13ef7b",
+        "0x192299",
+        "0x20e994",
+        "0x2189ac"
+    ],
+    "Something went wrong.": [
+        "0x3532e"
+    ],
+    "My Online Levels": [
+        "0x15b1d4"
+    ],
+    "Use practice mode to learn the layout of a level": [
+        "0x18c36c"
+    ],
+    "Back for more are ya?": [
+        "0x18c366"
+    ],
+    "Customize your character's icon and color!": [
+        "0x18c378"
+    ],
+    "If at first you don't succeed, try, try again...": [
+        "0x18c372"
+    ],
+    "Listen to the music to help time your jumps": [
+        "0x18c360"
+    ],
+    "Here be dragons...": [
+        "0x18c39c"
+    ],
+    "Can you beat them all?": [
+        "0x18c396"
+    ],
+    "Hold down to keep jumping": [
+        "0x18c3a8"
+    ],
+    "Pro tip: Don't crash": [
+        "0x18c3a2"
+    ],
+    "Spikes are not your friends, don't forget to jump": [
+        "0x18c384"
+    ],
+    "You can download all songs from the level select page!": [
+        "0x18c37e"
+    ],
+    "Go online to play other players levels!": [
+        "0x18c390"
+    ],
+    "Build your own levels using the level editor": [
+        "0x18c38a"
+    ],
+    "Does anyone even read this?": [
+        "0x18c3cc"
+    ],
+    "Pro tip: Jump": [
+        "0x18c3c6"
+    ],
+    "Waiting for planets to align": [
+        "0x18c3d8"
+    ],
+    "Collecting scrap metal": [
+        "0x18c3d2"
+    ],
+    "Looking for pixels": [
+        "0x18c3b4"
+    ],
+    "The spikes whisper to me...": [
+        "0x18c3ae"
+    ],
+    "What if the spikes are the good guys?": [
+        "0x18c3c0"
+    ],
+    "Loading awesome soundtracks...": [
+        "0x18c3ba"
+    ],
+    "Hiding secrets": [
+        "0x18c3fc"
+    ],
+    "Calculating chance of success": [
+        "0x18c3f6"
+    ],
+    "Programmer is sleeping, please wait": [
+        "0x18c408"
+    ],
+    "Drawing pretty pictures": [
+        "0x18c402"
+    ],
+    "Wandering around aimlessly": [
+        "0x18c3e4"
+    ],
+    "Starting the flux capacitor": [
+        "0x18c3de"
+    ],
+    "Loading the progressbar": [
+        "0x18c3f0"
+    ],
+    "Where did I put that coin...": [
+        "0x18c3ea"
+    ],
+    "Loading Rage Cannon": [
+        "0x18c42c"
+    ],
+    "Fus Ro DASH!": [
+        "0x18c426"
+    ],
+    "It's all in the timing": [
+        "0x18c438"
+    ],
+    "Counting to 1337": [
+        "0x18c432"
+    ],
+    "Play, Crash, Rage, Quit, Repeat": [
+        "0x18c414"
+    ],
+    "RobTop is Love, RobTop is Life": [
+        "0x18c40e"
+    ],
+    "Such wow, very amaze.": [
+        "0x18c420"
+    ],
+    "Only one button required to crash": [
+        "0x18c41a"
+    ],
+    "The Vault Keeper's name is 'Spooky'...": [
+        "0x18c45c"
+    ],
+    "This seems like a good\nplace to hide a secret...": [
+        "0x18c456"
+    ],
+    "Spikes... OF DOOM!": [
+        "0x18c444"
+    ],
+    "Fake spikes are fake": [
+        "0x18c43e"
+    ],
+    "Loading will be finished... soon": [
+        "0x18c450"
+    ],
+    "Why don't you go outside?": [
+        "0x18c44a"
+    ],
+    "Programming amazing AI": [
+        "0x18c48c"
+    ],
+    "It's Over 9000!": [
+        "0x18c486"
+    ],
+    "Spooky doesn't get out much": [
+        "0x18c498"
+    ],
+    "Hiding secret vault": [
+        "0x18c492"
+    ],
+    "A wild RubRub appeared!": [
+        "0x18c474"
+    ],
+    "I have been expecting you.": [
+        "0x18c46e"
+    ],
+    "Hiding rocket launcher": [
+        "0x18c480"
+    ],
+    "So many secrets...": [
+        "0x18c47a"
+    ],
+    "Why u have to be mad?": [
+        "0x18c4bc"
+    ],
+    "I don't know how this works...": [
+        "0x18c4b6"
+    ],
+    "Unlock new icons and colors by completing achievements!": [
+        "0x18c4c8"
+    ],
+    "It is only game...": [
+        "0x18c4c2"
+    ],
+    "Warp Speed": [
+        "0x18c4a4"
+    ],
+    "RubRub was here": [
+        "0x18c49e"
+    ],
+    "Hold on, reading the manual": [
+        "0x18c4b0"
+    ],
+    "So, what's up?": [
+        "0x18c4aa"
+    ],
+    "The Guard": [
+        "0x1dd7f7"
+    ],
+    "No!": [
+        "0x1dd74c"
+    ],
+    "Just, stop.": [
+        "0x1dd77d"
+    ],
+    "Why u click?": [
+        "0x1dd768"
+    ],
+    "Nothing to see here...": [
+        "0x1dd76f"
+    ],
+    "Don't touch!": [
+        "0x1dd776"
+    ],
+    "No one seems to be home.": [
+        "0x1dd784"
+    ],
+    "It's a secret...": [
+        "0x1884ff",
+        "0x1dd753"
+    ],
+    "Stop it!": [
+        "0x1dd75a"
+    ],
+    "Not allowed!": [
+        "0x1dd761"
+    ],
+    "The Keymaster": [
+        "0x4e7f6",
+        "0x4eacc",
+        "0x4eb42",
+        "0x4ebb2",
+        "0x4ed38",
+        "0x15721c",
+        "0x22009f",
+        "0x220132",
+        "0x2201bf",
+        "0x22024c",
+        "0x2202cb",
+        "0x220366",
+        "0x2203f3",
+        "0x220480",
+        "0x22050d",
+        "0x22059a",
+        "0x220627",
+        "0x2206b4",
+        "0x2209c6",
+        "0x220d76",
+        "0x22790f",
+        "0x2279a2",
+        "0x227a2f",
+        "0x227abc",
+        "0x227b3b"
+    ],
+    "(No description provided)": [
+        "0x14f21f",
+        "0x150ef0",
+        "0x24cb2a"
+    ],
+    "Request Stars": [
+        "0x24d477"
+    ],
+    "Unlisted": [
+        "0x24ee7d",
+        "0x24f0ea"
+    ],
+    "Allow Copy": [
+        "0x24e918"
+    ],
+    "Password": [
+        "0x345fd",
+        "0x3696f"
+    ],
+    "Tap to Enter a Password": [
+        "0x24f3ca"
+    ],
+    "Enter Password": [
+        "0x19782a",
+        "0x24ecc8"
+    ],
+    "Password: %s": [
+        "0x24f475"
+    ],
+    "Share Level": [
+        "0x24cf59"
+    ],
+    "Saved Levels": [
+        "0x15b076"
+    ],
+    "Favorite Levels": [
+        "0x15b084"
+    ],
+    "Set Folder Name": [
+        "0x14367e"
+    ],
+    "Folder Name": [
+        "0x1436ac"
+    ],
+    "Delete All": [
+        "0x14c898",
+        "0x15c4fb"
+    ],
+    "Delete": [
+        "0x63b38",
+        "0x63b49",
+        "0x64a18",
+        "0x64a29",
+        "0x9b217",
+        "0x9b228",
+        "0x13fbd0",
+        "0x13fbe1",
+        "0x14c8a9",
+        "0x1526c6",
+        "0x15c50c",
+        "0x192977",
+        "0x192988"
+    ],
+    "Num": [
+        "0x40081",
+        "0x4346f",
+        "0x44374",
+        "0x448c7",
+        "0x4ac9a",
+        "0x54279",
+        "0x1221e6",
+        "0x122643",
+        "0x122dc2",
+        "0x12e8cf",
+        "0x12f13c",
+        "0x12f95a",
+        "0x12fee4",
+        "0x132e61",
+        "0x1332d3",
+        "0x1339c7",
+        "0x133e87",
+        "0x1341c1",
+        "0x142a8d",
+        "0x146a2d",
+        "0x147278",
+        "0x147ae6",
+        "0x22b365",
+        "0x22ed52",
+        "0x22fbbe",
+        "0x231295",
+        "0x23297e",
+        "0x233d1a",
+        "0x2358be",
+        "0x236e19",
+        "0x23865e",
+        "0x239faa",
+        "0x23b46b",
+        "0x23d022",
+        "0x23e27b",
+        "0x23f0ae",
+        "0x2400cb",
+        "0x242eb3",
+        "0x244269",
+        "0x245bea",
+        "0x246005",
+        "0x247867"
+    ],
+    "Demon Filter": [
+        "0x18418b"
+    ],
+    "Follow RobTop Games!": [
+        "0x98c3d"
+    ],
+    "Earn rewards!": [
+        "0x98cbc"
+    ],
+    "Auto": [
+        "0x1e0fcf"
+    ],
+    "Remove": [
+        "0x62b49",
+        "0x13dfad",
+        "0x13f8c1",
+        "0x15c609",
+        "0x211446"
+    ],
+    "Removing Friend Request...": [
+        "0x62e90",
+        "0x63c52",
+        "0x13e322",
+        "0x211d1a"
+    ],
+    "Removing Friend...": [
+        "0x62e25",
+        "0x62e33",
+        "0x211d8d"
+    ],
+    "Unblocking user...": [
+        "0x62da0",
+        "0x62db1"
+    ],
+    "Blocking user...": [
+        "0x13e67e",
+        "0x13fe7e",
+        "0x2117ee"
+    ],
+    "Unfriend": [
+        "0x62c6d",
+        "0x62c82",
+        "0x2114ca",
+        "0x2114df"
+    ],
+    "User unblocked!": [
+        "0x62f55"
+    ],
+    "User blocked!": [
+        "0x13e7ba",
+        "0x13ffe7"
+    ],
+    "Friend removed!": [
+        "0x62f49"
+    ],
+    "Request removed!": [
+        "0x62f34",
+        "0x63d0d"
+    ],
+    "Unknown action finished": [
+        "0x62f14",
+        "0x63cf1",
+        "0x64b9c",
+        "0x9b686",
+        "0x192c36",
+        "0x211e7e"
+    ],
+    "Failed. Please try again later.": [
+        "0x62ff0",
+        "0x63dd1",
+        "0x64c50",
+        "0x722da",
+        "0x9b773",
+        "0x13e84c",
+        "0x14007e",
+        "0x141c6a",
+        "0x211f3a",
+        "0x213d70",
+        "0x2155da",
+        "0x24c2da"
+    ],
+    "From:": [
+        "0x64395"
+    ],
+    "To:": [
+        "0x64390"
+    ],
+    "Rev. %i": [
+        "0x5b3c9"
+    ],
+    "Complete the level in normal mode to verify it!": [
+        "0x94a42"
+    ],
+    "Jumps: %i": [
+        "0x946b0",
+        "0x215b4a"
+    ],
+    "Attempts: %i": [
+        "0x945fc"
+    ],
+    "Time: %s": [
+        "0x94804",
+        "0x215c67"
+    ],
+    "Detail Color": [
+        "0x561dc"
+    ],
+    "Detail": [
+        "0x53817"
+    ],
+    "Next Free": [
+        "0x54d5e",
+        "0x22b4ec"
+    ],
+    "Glow": [
+        "0x55241",
+        "0x12add0"
+    ],
+    "Browse": [
+        "0x5510d"
+    ],
+    "Light BG": [
+        "0x53d6d"
+    ],
+    "Default": [
+        "0x438f6",
+        "0x53df0",
+        "0x22b9c2",
+        "0x242bc1"
+    ],
+    "P-Col 1": [
+        "0x53c5b"
+    ],
+    "P-Col 2": [
+        "0x53ce6"
+    ],
+    "LBG": [
+        "0x14d613"
+    ],
+    "P1": [
+        "0x14d607"
+    ],
+    "P2": [
+        "0x14d60d"
+    ],
+    "Detail HSV": [
+        "0x55c45",
+        "0x55d0b"
+    ],
+    "Text": [
+        "0x53b2a",
+        "0x548ef"
+    ],
+    "Insert Text": [
+        "0x561e3"
+    ],
+    "Split": [
+        "0x54ba0"
+    ],
+    "Draw trigger boxes": [
+        "0x13929d"
+    ],
+    "Playtest Music": [
+        "0x1392c4"
+    ],
+    "Duration Lines": [
+        "0x1392ea"
+    ],
+    "Hide grid on play": [
+        "0x139310"
+    ],
+    "Enable Link Controls": [
+        "0x139339"
+    ],
+    "Hide UI on test": [
+        "0x1392b1"
+    ],
+    "Effect Lines": [
+        "0x1392d7"
+    ],
+    "Grid on top": [
+        "0x1392fd"
+    ],
+    "Hide Background": [
+        "0x139323"
+    ],
+    "Editor hold to swipe": [
+        "0x13934f",
+        "0x1de1e4"
+    ],
+    "Swipe cycle mode": [
+        "0x139365",
+        "0x1de1fa"
+    ],
+    "The": [
+        "0x21faec"
+    ],
+    "No song loaded": [
+        "0x6904a"
+    ],
+    "Download canceled.": [
+        "0x697a0"
+    ],
+    "Song is not allowed for use.": [
+        "0x697a7"
+    ],
+    "Download Complete": [
+        "0x69702"
+    ],
+    "Select Custom Color:": [
+        "0x111f30"
+    ],
+    "Select Background": [
+        "0x17403a"
+    ],
+    "Select Ground": [
+        "0x174057"
+    ],
+    "Font %i": [
+        "0x136ccf"
+    ],
+    "Line": [
+        "0x14d1b6",
+        "0x1744f4"
+    ],
+    "G1": [
+        "0x14d5e9"
+    ],
+    "G2": [
+        "0x14d5ef"
+    ],
+    "Move X:": [
+        "0x12ef5d"
+    ],
+    "Move Y:": [
+        "0x12ef74"
+    ],
+    "Setup move command": [
+        "0x12e50e"
+    ],
+    "Easing": [
+        "0x12eb56",
+        "0x146cab"
+    ],
+    "Ease Out": [
+        "0x1144fa"
+    ],
+    "Elastic In Out": [
+        "0x114500"
+    ],
+    "Elastic In": [
+        "0x114506"
+    ],
+    "Elastic Out": [
+        "0x11450c"
+    ],
+    "Ease In Out": [
+        "0x1144ee"
+    ],
+    "Ease In": [
+        "0x1144f4"
+    ],
+    "Exponential In": [
+        "0x11452a"
+    ],
+    "Exponential In Out": [
+        "0x114524"
+    ],
+    "Sine In Out": [
+        "0x114536"
+    ],
+    "Sine In": [
+        "0x11453c"
+    ],
+    "Bounce In Out": [
+        "0x114512"
+    ],
+    "Bounce In": [
+        "0x114518"
+    ],
+    "Bounce Out": [
+        "0x11451e"
+    ],
+    "Exponential Out": [
+        "0x114530"
+    ],
+    "None": [
+        "0x11455a",
+        "0x13aa06",
+        "0x13ac73"
+    ],
+    "Sine Out": [
+        "0x114542"
+    ],
+    "Back In Out": [
+        "0x114548"
+    ],
+    "Back In": [
+        "0x11454e"
+    ],
+    "Back Out": [
+        "0x114554"
+    ],
+    "Lock to player X": [
+        "0x12f4eb"
+    ],
+    "Lock to player Y": [
+        "0x12f553"
+    ],
+    "All": [
+        "0x77163",
+        "0x771bd",
+        "0x866eb",
+        "0x87b3d",
+        "0x87b95",
+        "0x8cb85",
+        "0x8cbe5",
+        "0x9aae2",
+        "0x13a8fb",
+        "0x13abf0",
+        "0x13ae4c",
+        "0x192230"
+    ],
+    "Select Custom song": [
+        "0x1724be"
+    ],
+    "Target Pos Group ID": [
+        "0x12fdb1"
+    ],
+    "X Only": [
+        "0x130243"
+    ],
+    "Y Only": [
+        "0x130309"
+    ],
+    "Add Group ID": [
+        "0x22ae3c"
+    ],
+    "Add": [
+        "0x22b5a3"
+    ],
+    "Edit Triggers": [
+        "0x1371f8"
+    ],
+    "Automatically place checkpoints while in practice mode.": [
+        "0x1ddf45"
+    ],
+    "Tries to place checkpoints more often while in practice mode.": [
+        "0x1ddf9d"
+    ],
+    "Increases the accuracy of start position calculations, but loading a start position takes longer.": [
+        "0x1ddf87"
+    ],
+    "High StartPos accuracy": [
+        "0x1ddf91"
+    ],
+    "Increases draw capacity for batch nodes at level start. Use to improve performance on some levels. May cause issues on lowend devices.": [
+        "0x1ddf71"
+    ],
+    "High Capacity Mode": [
+        "0x1ddf7b"
+    ],
+    "Songs are loaded into memory before playing. Increases load time but can improve performance.": [
+        "0x1ddf5b"
+    ],
+    "Load songs to memory": [
+        "0x1ddf65"
+    ],
+    "Songs are saved in a different directory. (Fix if custom songs aren't working)": [
+        "0x1ddfdf"
+    ],
+    "Change custom songs\nlocation": [
+        "0x1ddfe9"
+    ],
+    "Smooth fix is normally disabled if a level is lagging, this forces smooth fix to remain enabled. Toggle to test if performance is better with smooth fix always enabled.": [
+        "0x1ddfc9"
+    ],
+    "Force Smooth Fix": [
+        "0x1ddfd3"
+    ],
+    "Show restart button": [
+        "0x1ddfbd"
+    ],
+    "Quick checkpoint mode": [
+        "0x1ddfa7"
+    ],
+    "Always shows the restart button on the pause screen.": [
+        "0x1ddfb3"
+    ],
+    "Auto load comments": [
+        "0x1de038"
+    ],
+    "More comments per page. Why not?": [
+        "0x1de01b"
+    ],
+    "More comments mode": [
+        "0x1de025"
+    ],
+    "Disable shake effects": [
+        "0x1de00f"
+    ],
+    "Disable explosion shake": [
+        "0x1ddffc"
+    ],
+    "Increases Created/Saved levels per page from 10 to 20.": [
+        "0x1de083"
+    ],
+    "Inc Local Levels Per Page": [
+        "0x1de08d"
+    ],
+    "Increases the maximum saved levels from 20 to 100": [
+        "0x1de06d"
+    ],
+    "Increase max levels": [
+        "0x1de077"
+    ],
+    "Show Percentage": [
+        "0x1de061"
+    ],
+    "Flip pause button": [
+        "0x1de04b"
+    ],
+    "Show the current percentage next to the progress bar.": [
+        "0x1de057"
+    ],
+    "Practice Death Effect": [
+        "0x1de0cf"
+    ],
+    "New completed filter": [
+        "0x1de0b9"
+    ],
+    "Show special death effects in practice mode": [
+        "0x1de0c5"
+    ],
+    "Fast practice reset": [
+        "0x1de0a3"
+    ],
+    "Completed levels filter is based on percentage from update 2.1.\n<cy>(To recomplete levels with orbs)</c>": [
+        "0x1de0af"
+    ],
+    "Reset time after crash in practice mode lowered 1s to 0.5s": [
+        "0x1de099"
+    ],
+    "New levels are placed last in the saved levels list. Select if you want to manually move levels to the top.": [
+        "0x1de11a"
+    ],
+    "Manual order": [
+        "0x1de124"
+    ],
+    "The alert showed when trying to play a level without a custom song downloaded is removed.": [
+        "0x1de104"
+    ],
+    "Disable song alert": [
+        "0x1de10e"
+    ],
+    "The alert showed when trying to play levels with a high object count is removed.": [
+        "0x1de0ee"
+    ],
+    "Disable high object alert": [
+        "0x1de0f8"
+    ],
+    "Hide practice buttons": [
+        "0x1de0e2"
+    ],
+    "Disable play object alert": [
+        "0x1de163"
+    ],
+    "Player icon in mini mode is set to default.": [
+        "0x1de16f"
+    ],
+    "Disable gravity effect": [
+        "0x1de14d"
+    ],
+    "To upload your level progress to the Level Leaderboard in 2.11 you need to replay levels completed before 2.11. This option toggles viewing the Leaderboard percentage you have on levels.": [
+        "0x1de130"
+    ],
+    "Show leaderboard percent": [
+        "0x1de13a"
+    ],
+    "Switch dash fire color": [
+        "0x1de1a5"
+    ],
+    "Switch spider teleport color": [
+        "0x1de18f"
+    ],
+    "Toggle between using main/secondary color for dash fire effect.": [
+        "0x1de19b"
+    ],
+    "Toggle between using main/secondary color for spider teleport effect.": [
+        "0x1de185"
+    ],
+    "Default mini icon": [
+        "0x1de179"
+    ],
+    "Increases undo limit in the level editor from 200 to 1000.": [
+        "0x1de21c"
+    ],
+    "Increased Max Undo/Redo": [
+        "0x1de226"
+    ],
+    "This option doesn't do anything... Well, nothing useful.": [
+        "0x1de206"
+    ],
+    "Just, dont...": [
+        "0x1de210"
+    ],
+    "Optimizes some moving objects. Increases performance but can create some minor visual glitches.": [
+        "0x1de1c4"
+    ],
+    "Enable move optimization": [
+        "0x1de1ce"
+    ],
+    "Switch wave trail color": [
+        "0x1de1b8"
+    ],
+    "Pause button and mouse cursor are visible during gameplay.": [
+        "0x1de274"
+    ],
+    "Show cursor in-game": [
+        "0x1de27e"
+    ],
+    "Custom songs are no longer auto-removed to save space.": [
+        "0x1de25e"
+    ],
+    "No song limit": [
+        "0x1de268"
+    ],
+    "Player 1 controls are limited to one side even when dual mode is inactive.": [
+        "0x1de248"
+    ],
+    "Always Limit Controls": [
+        "0x1de252"
+    ],
+    "Flip which side controls which player during 2-player dual mode.": [
+        "0x1de232"
+    ],
+    "Flip 2-Player Controls": [
+        "0x1de23c"
+    ],
+    "Enables Smooth Fix while playtesting in the editor.": [
+        "0x1de2a0"
+    ],
+    "Smooth fix in editor": [
+        "0x1de2aa"
+    ],
+    "Disable mouse movement using the controller thumb stick.": [
+        "0x1de28a"
+    ],
+    "Disable thumbstick": [
+        "0x1de294"
+    ],
+    "Editor option. Tapping on the same position, in edit mode, while swipe mode is enabled will cycle through the touched objects instead of adding multiple objects to the selection. Useful if you want to select multiple objects that are mixed with other objects.": [
+        "0x13935b",
+        "0x1de1f0"
+    ],
+    "Editor option. When swipe is not enabled and in edit mode, holding down anywhere on the grid will activate swipe mode after a short duration. Useful when selecting objects without the need to toggle swipe mode": [
+        "0x139345",
+        "0x1de1da"
+    ],
+    "White": [
+        "0x14d61f"
+    ],
+    "Base Color": [
+        "0x561d0"
+    ],
+    "Objects: %i": [
+        "0x792a5"
+    ],
+    "Scale: %.02f": [
+        "0x93b1c",
+        "0x93db3"
+    ],
+    "Black": [
+        "0x14d625"
+    ],
+    "Speed:": [
+        "0x133104",
+        "0x172793"
+    ],
+    "Flip Gravity": [
+        "0x17268b"
+    ],
+    "Opacity: %.02f": [
+        "0x46151",
+        "0x23b9cf",
+        "0x23c06b"
+    ],
+    "Color ID": [
+        "0x4423e",
+        "0x23ffab"
+    ],
+    "Base": [
+        "0x5373f"
+    ],
+    "Base HSV": [
+        "0x55c0f"
+    ],
+    "Copy Color": [
+        "0x43d5c"
+    ],
+    "Blending": [
+        "0x43cd7"
+    ],
+    "Special Color Select": [
+        "0x14cea0"
+    ],
+    "Select a special color channel as the target color ID.": [
+        "0x14d014"
+    ],
+    "Stop trigger command help.": [
+        "0x22f975"
+    ],
+    "Changes the opacity of a group. This value will be multiplied with the opacity of the objects color channel.": [
+        "0x23b1f9"
+    ],
+    "Activate Group": [
+        "0x23a475"
+    ],
+    "Lock object rotation": [
+        "0x1475e6"
+    ],
+    "Times 360:": [
+        "0x1470cf"
+    ],
+    "Degrees:": [
+        "0x1470c0"
+    ],
+    "Offset": [
+        "0x133d16",
+        "0x1de625"
+    ],
+    "Max Speed": [
+        "0x13404a"
+    ],
+    "Hold Mode": [
+        "0x247c71"
+    ],
+    "Equals": [
+        "0x237376"
+    ],
+    "Larger": [
+        "0x2373f8"
+    ],
+    "Smaller": [
+        "0x237480"
+    ],
+    "Count": [
+        "0x23ce15"
+    ],
+    "Enter the item ID that this counter should display.": [
+        "0x22eae2"
+    ],
+    "BlockA ID": [
+        "0x233a44"
+    ],
+    "BlockB ID": [
+        "0x233aae"
+    ],
+    "Block ID": [
+        "0x3ff3e"
+    ],
+    "Collision block help": [
+        "0x3fe11"
+    ],
+    "Toggle trigger that is activated on player death. Can be disabled using the stop trigger.": [
+        "0x239ce6"
+    ],
+    "Allow multi activate": [
+        "0x142303"
+    ],
+    "Disable": [
+        "0x242cd3"
+    ],
+    "Hides part of the editor UI during playtest.": [
+        "0x1392a7"
+    ],
+    "Enables option to link objects together in the editor. Linked objects are always selected and deleted together.": [
+        "0x13932f"
+    ],
+    "Draws the hitbox for touch triggered objects.": [
+        "0x139293"
+    ],
+    "- Create guidelines for custom songs.\n- Each tap will be shown as a line in the editor.\n- Multiple recordings will be merged into one.\n- Use the clear button to reset the guidelines.": [
+        "0x4b923"
+    ],
+    "Guidelines can be used to make it easier to syncronize music and gameplay. Create your own custom song guidelines using this interface. Tap on record to start recording, then tap on the screen to create markings. Press on the stop button to stop recording and save your created guidelines.": [
+        "0x4cd7c"
+    ],
+    "Stop": [
+        "0x4bf2d"
+    ],
+    "Guidelines saved": [
+        "0x4c791"
+    ],
+    "Guidelines cleared": [
+        "0x4c3fa"
+    ],
+    "New quests in: %s": [
+        "0x3e5cb"
+    ],
+    "Gauntlet": [
+        "0x1062c5",
+        "0x1063d8"
+    ],
+    "Fire": [
+        "0x106f00"
+    ],
+    "Ice": [
+        "0x106f11"
+    ],
+    "Poison": [
+        "0x106f22"
+    ],
+    "Shadow": [
+        "0x106f33"
+    ],
+    "Lava": [
+        "0x106f44"
+    ],
+    "Bonus": [
+        "0x106f55"
+    ],
+    "Chaos": [
+        "0x106f66"
+    ],
+    "Demon": [
+        "0x106f77"
+    ],
+    "Time": [
+        "0x106f88"
+    ],
+    "Crystal": [
+        "0x106f99"
+    ],
+    "spike": [
+        "0x106fbb"
+    ],
+    "Monster": [
+        "0x106fcc"
+    ],
+    "Doom": [
+        "0x106fdd"
+    ],
+    "Death": [
+        "0x106fee"
+    ],
+    "Failed. Nothing found.": [
+        "0x25c6e8"
+    ],
+    "Color Effect help": [
+        "0x44c60"
+    ],
+    "AlignX": [
+        "0x7300c"
+    ],
+    "AlignY": [
+        "0x7309c"
+    ],
+    "Choose a font that will be used in this level.\nYou can only use one font at a time.": [
+        "0x1369d8"
+    ],
+    "Empty": [
+        "0x71081"
+    ],
+    "You can't share an empty level.": [
+        "0x7106f"
+    ],
+    "By sharing a level you give the rights to use the level\n(in any way) to the creators of Geometry Dash.": [
+        "0x24cdf9"
+    ],
+    "<cy>You can't change the name once it's shared.</c>": [
+        "0x24c9a2"
+    ],
+    "Refresh Login": [
+        "0x39955"
+    ],
+    "Login": [
+        "0x36602",
+        "0x36703"
+    ],
+    "Username": [
+        "0x3445e",
+        "0x3683d"
+    ],
+    "Forgot Username": [
+        "0x36a45"
+    ],
+    "Forgot Password": [
+        "0x36a96"
+    ],
+    "Manage Account": [
+        "0x399aa"
+    ],
+    "Manage": [
+        "0x39c98"
+    ],
+    "Open the account management page?": [
+        "0x39c47"
+    ],
+    "Unlink Account": [
+        "0x399ff",
+        "0x39e79"
+    ],
+    "Unlink": [
+        "0x39e8a"
+    ],
+    "Too short. Minimum 3 characters": [
+        "0x352d2",
+        "0x35696",
+        "0x35ca0",
+        "0x37147",
+        "0x374d0",
+        "0x377fe"
+    ],
+    "Too short. Minimum 6 characters": [
+        "0x352a4",
+        "0x35710",
+        "0x35dfd",
+        "0x37119",
+        "0x37508",
+        "0x377e0"
+    ],
+    "Emails do not match": [
+        "0x35300"
+    ],
+    "DELETE": [
+        "0x39fa9"
+    ],
+    "Register Account": [
+        "0x341ba"
+    ],
+    "Log in": [
+        "0x38054"
+    ],
+    "Register": [
+        "0x380a9"
+    ],
+    "Username:": [
+        "0x3682f",
+        "0x37274",
+        "0x3731a"
+    ],
+    "Password:": [
+        "0x345a6",
+        "0x3543b",
+        "0x35d45",
+        "0x35ee9",
+        "0x36961",
+        "0x372aa",
+        "0x372ec"
+    ],
+    "Username: (shown to other players)": [
+        "0x34404",
+        "0x3540d"
+    ],
+    "Confirm Password": [
+        "0x347ab"
+    ],
+    "Confirm Password:": [
+        "0x34754",
+        "0x35469",
+        "0x35cef",
+        "0x35f3c"
+    ],
+    "Verify Email:": [
+        "0x34ab8",
+        "0x354c1"
+    ],
+    "Verify Email": [
+        "0x34b12"
+    ],
+    "Create an account to backup\nand sync your data": [
+        "0x38eea",
+        "0x3a345"
+    ],
+    "Open the account help page?": [
+        "0x38b77"
+    ],
+    "Passwords do not match": [
+        "0x35276",
+        "0x357ad",
+        "0x36029"
+    ],
+    "Email is invalid": [
+        "0x351ec",
+        "0x35832",
+        "0x360df"
+    ],
+    "Warning": [
+        "0x39f98"
+    ],
+    "Do you want to <cg>save</c> your game data to the <cl>Cloud</c>?\n<cy>This will overwrite old clouddata</c>": [
+        "0x38754"
+    ],
+    "Your <cg>save data</c> has been <cy>backed up</c>.": [
+        "0x39110"
+    ],
+    "Backup": [
+        "0x38766",
+        "0x39161"
+    ],
+    "Sync": [
+        "0x389db",
+        "0x393b1"
+    ],
+    "Sync successful": [
+        "0x3932d"
+    ],
+    "Sync failed. Please try again later.": [
+        "0x3946d"
+    ],
+    "Not logged in": [
+        "0x38edc",
+        "0x3a337"
+    ],
+    "Username is already in use": [
+        "0x35190"
+    ],
+    "Login failed": [
+        "0x37229"
+    ],
+    "Sync failed. Error code: %i": [
+        "0x39488"
+    ],
+    "Backup failed. Error code: %i": [
+        "0x39238"
+    ],
+    "Account has been disabled": [
+        "0x371d1"
+    ],
+    "Already linked to different Steam account": [
+        "0x371a3"
+    ],
+    "Login Success": [
+        "0x3704c"
+    ],
+    "Password is invalid": [
+        "0x35248"
+    ],
+    "Login required": [
+        "0x38ec9",
+        "0x3a324"
+    ],
+    "This will <cr>delete</c> ALL <cl>save data</c>.\nDo you want to continue?\n<cy>(You cannot undo this action)</c>": [
+        "0x39f47"
+    ],
+    "<cg>Save data</c> has been <cy>restored</c>.": [
+        "0x39360"
+    ],
+    "Do you want to <cg>download</c> the save data from the <cl>Cloud</c>?\n<cy>Current save data will be merged with the cloudsave</c>": [
+        "0x3898a"
+    ],
+    "Collect more": [
+        "0x386a8"
+    ],
+    "Go": [
+        "0x15b8cf"
+    ],
+    "<cg>Change attributes of the color channel</c>\n<cy>Copy color inherits the color from another channel.</c>\n<cl>Color ID changes the target channel this trigger controls.</c>": [
+        "0x44c33"
+    ],
+    "Copy Opacity": [
+        "0x43ff1"
+    ],
+    "Move a target group. <cy>10 points</c> = <cp>1 grid step</c>.\n<cy>- Move commands stack</c>\n<cl>- Lock to player x/y will make the blocks move the same speed as the player for the set duration.</c>\n<cg>- Easing modifies the movement acceleration</c>": [
+        "0x12e667"
+    ],
+    "Move command help": [
+        "0x12e694"
+    ],
+    "Pulse Effect": [
+        "0x240446"
+    ],
+    "Create a <cl>copy</c> of this <cg>level</c>?": [
+        "0x71a27",
+        "0x179181"
+    ],
+    "<cy>Applies a temporary color effect to a group or channel.</c>\n<cg>Color Mode tints the target to the selected color.</c>\n<cl>HSV Mode modifies the base colors Hue, saturation and brightness</c>\n<cp>HSV mode can optionally use another color as the base (Color ID)</c>\n<cg>Target Type target a channel or a group.</c>\n <cy>You can toggle the group to target main, detail or both colors.</c>\n<cl>Exclusive: Disable all other pulses on the same ID when activated. Disabled in editor.</c>": [
+        "0x24042c"
+    ],
+    "<cg>-Toggles on/off a group of objects.</c>\n<cy>-Disabled objects will become invisible and untouchable.</c>\n<cp>-Disabled triggers will not activate.</c>": [
+        "0x239cf2"
+    ],
+    "<cg>Used to simultaneously activate a group of triggers.</c>\n<cl>The triggers need to be marked as 'Spawn Triggered'</c>.\n<cy>Will activate the triggers regardless of their x-position.</c>\n<cp>Will trigger the objects in order from left to right.</c>\n<cl>Editor disable can be used to disable a trigger from activating in the editor. Used for performance.</c>": [
+        "0x24597a"
+    ],
+    "Spawn Group help": [
+        "0x2459a7"
+    ],
+    "Rotate command help": [
+        "0x1467ea"
+    ],
+    "<cg>Rotate a group of objects.</c>\n<cy>Set Center Group ID to rotate around an object.</c>\n<cl>Only one object can be in the center group.</c>": [
+        "0x1467bd"
+    ],
+    "Follow command help": [
+        "0x121fa3"
+    ],
+    "<cg>Follow a target object.</c>\n<cy>The follow group ID can only contain one object.</c>": [
+        "0x121f76"
+    ],
+    "<cg>Shakes the screen for a duration.</c>\n<cy>Interval is how often the screen shakes.\nLeave at 0 to shake every frame.</c>\n<cl>Try to not overuse shake, as it can cause bad gameplay.</c>": [
+        "0x243d14"
+    ],
+    "Delay:": [
+        "0x13311b"
+    ],
+    "<cg>-Toggles on/off a group of objects on player touch.</c>\n<cl>-Will also function as a spawn trigger.</c>\n<cy>-Default toggles the group on/off on each tap.</c>\n<cp>-Hold mode toggles on/off on hold/release.</c>": [
+        "0x2475ef"
+    ],
+    "Count Trigger": [
+        "0x23533c"
+    ],
+    "<cl>-Will also function as a spawn trigger.</c>\n<cg>Multi activate calls the target group each time the item count reaches the target count</c>": [
+        "0x235484"
+    ],
+    "Pickup trigger help": [
+        "0x23cc55"
+    ],
+    "<cg>Edit attributes of the selected triggers.</c>\n<cy>Touch Triggers makes the object activate on player touch.</c>\n<cl>Spawn Triggered makes the triggers activate from a spawn trigger.</c>": [
+        "0x137340"
+    ],
+    "Help text": [
+        "0x1421ad"
+    ],
+    "<cg>Select color channel to use for this object(s).</c>\n<cy>Edit the selected channel in the bottom right.</c>\n<cl>Next free selectes an unused color channel.</c>\n<cp>Use HSV to modify the color of the object.</c>\n<co>Copy the color configuration to quickly apply to other objects</c>": [
+        "0x535e7"
+    ],
+    "Too fast": [
+        "0x3871a",
+        "0x38958",
+        "0x150bb4",
+        "0x2112c3"
+    ],
+    "Awarded": [
+        "0x17d9b3"
+    ],
+    "Skip level": [
+        "0x6c25e"
+    ],
+    "Skip": [
+        "0x6c263"
+    ],
+    "Tap <cg>New</c> to create a <cl>level</c>!": [
+        "0x15ac56",
+        "0x1971d8"
+    ],
+    "SongID: %i  Size: %.02fMB": [
+        "0x69228"
+    ],
+    "More By %s": [
+        "0x25035e"
+    ],
+    "Set Folder": [
+        "0x71c18",
+        "0x176e38"
+    ],
+    "Community Credits": [
+        "0x4773c"
+    ],
+    "Special Thanks :)": [
+        "0x48889"
+    ],
+    "New %s in: %s": [
+        "0x6b26a"
+    ],
+    "Daily Level": [
+        "0x6b250"
+    ],
+    "Weekly Demon": [
+        "0x6b261"
+    ],
+    "Collect %i %s.": [
+        "0x3ef4e",
+        "0xf9083"
+    ],
+    "Quests": [
+        "0x3dd86"
+    ],
+    "%s ago": [
+        "0x600d5",
+        "0x61fc8",
+        "0x645b6",
+        "0x13dd87",
+        "0x13f233"
+    ],
+    "%s's comments": [
+        "0x14ebe7"
+    ],
+    "Low\nDetail\nMode": [
+        "0x6f92f",
+        "0x176ac6"
+    ],
+    "Move to Bottom": [
+        "0x17a4f8"
+    ],
+    "Player\nColor 1": [
+        "0x43b75"
+    ],
+    "Player\nColor 2": [
+        "0x43c00"
+    ],
+    "Touch\nTrigger": [
+        "0x43dde"
+    ],
+    "Spawn\nTrigger": [
+        "0x43e3a"
+    ],
+    "Use\nTarget": [
+        "0x12fd14"
+    ],
+    "Target\nGroup ID": [
+        "0x122c15",
+        "0x12f83d",
+        "0x13388e",
+        "0x147939"
+    ],
+    "Main\nOnly": [
+        "0x23f943"
+    ],
+    "Detail\nOnly": [
+        "0x23fa0c"
+    ],
+    "FadeTime: %.01f": [
+        "0x23b82b",
+        "0x23bfa3"
+    ],
+    "Editor\nDisable": [
+        "0x246459"
+    ],
+    "Center\nGroup ID": [
+        "0x147985"
+    ],
+    "Multi\nTrigger": [
+        "0x43e95",
+        "0x122b25",
+        "0x12f7a0",
+        "0x1337b6",
+        "0x14784b",
+        "0x230039",
+        "0x2316bf",
+        "0x23415d",
+        "0x235d01",
+        "0x237256",
+        "0x23a3e8",
+        "0x23bc37",
+        "0x23d4f7",
+        "0x23f7b2",
+        "0x243f59",
+        "0x2463e2",
+        "0x247ee3"
+    ],
+    "Follow\nGroup ID": [
+        "0x122c61"
+    ],
+    "Touch\nTriggered": [
+        "0x22fea6",
+        "0x2315c5",
+        "0x234065",
+        "0x235c09",
+        "0x23715e",
+        "0x23a316",
+        "0x23d3f9",
+        "0x23f632",
+        "0x243e6d",
+        "0x2462ea",
+        "0x247b6b"
+    ],
+    "Spawn\nTriggered": [
+        "0x22ff4d",
+        "0x231638",
+        "0x2340da",
+        "0x235c7e",
+        "0x2371d3",
+        "0x23a378",
+        "0x23d471",
+        "0x23f6dc",
+        "0x243edc",
+        "0x24635f",
+        "0x247bd8"
+    ],
+    "Dual\nMode": [
+        "0x247e4c"
+    ],
+    "Toggle\nOn": [
+        "0x247d16"
+    ],
+    "Toggle\nOff": [
+        "0x247d9d"
+    ],
+    "Multi\nActivate": [
+        "0x235d75",
+        "0x23a2d0"
+    ],
+    "Trigger\nOn Exit": [
+        "0x234272"
+    ],
+    "Dynamic\nBlock": [
+        "0x40410"
+    ],
+    "Select Color": [
+        "0x4319a"
+    ],
+    "Activate\nGroup": [
+        "0x2341ed",
+        "0x235dfa",
+        "0x2372ca"
+    ],
+    "Multi Trigger": [
+        "0x13757d"
+    ],
+    "X Mod:": [
+        "0x122480"
+    ],
+    "Y Mod": [
+        "0x122497"
+    ],
+    "Stop Trigger Command": [
+        "0x8c350"
+    ],
+    "Setup Opacity Effect": [
+        "0x23b0ac"
+    ],
+    "Toggle Group": [
+        "0x239aff"
+    ],
+    "Spawn Group": [
+        "0x245832"
+    ],
+    "Setup rotate command": [
+        "0x146664"
+    ],
+    "Setup follow command": [
+        "0x121e20"
+    ],
+    "Setup Shake": [
+        "0x243bcc"
+    ],
+    "Setup Animation": [
+        "0x230b30"
+    ],
+    "Setup follow player command": [
+        "0x132aa0"
+    ],
+    "Touch Toggle": [
+        "0x2474a3"
+    ],
+    "Instant Count Trigger": [
+        "0x23688c"
+    ],
+    "Pickup Trigger": [
+        "0x23cb10"
+    ],
+    "Item Counter": [
+        "0x22e999"
+    ],
+    "Collision Trigger": [
+        "0x2337ac"
+    ],
+    "Collision Block Setup": [
+        "0x3fcc8"
+    ],
+    "On Death Trigger": [
+        "0x239b56"
+    ],
+    "Pickup\nItem": [
+        "0x238274"
+    ],
+    "Toggle\nTrigger": [
+        "0x2382de"
+    ],
+    "Substract\nCount": [
+        "0x238405"
+    ],
+    "Enable\nGroup": [
+        "0x2383a5"
+    ],
+    "Edit Rotate Action": [
+        "0x242920"
+    ],
+    "Dont\nFade": [
+        "0x22bdf7"
+    ],
+    "Dont\nEnter": [
+        "0x22bec0"
+    ],
+    "Group\nParent": [
+        "0x22c00f"
+    ],
+    "High\nDetail": [
+        "0x22c0b3"
+    ],
+    "Edit Pickup": [
+        "0x237fcf"
+    ],
+    "Select\nAll": [
+        "0x73132"
+    ],
+    "Select\nAll Left": [
+        "0x731c4"
+    ],
+    "Select\nAll Right": [
+        "0x73254"
+    ],
+    "Build\nHelper": [
+        "0x72f72"
+    ],
+    "Create\nBase": [
+        "0x72edf"
+    ],
+    "Create\nOutlines": [
+        "0x72e48"
+    ],
+    "Create\nEdges": [
+        "0x72db1"
+    ],
+    "Reset\nUnused": [
+        "0x72d21"
+    ],
+    "Uncheck\nPortals": [
+        "0x72c69"
+    ],
+    "Reset Unused Colors": [
+        "0x73c51"
+    ],
+    "Reset all unused color channels?\n<cy>This will make those channels available as 'next free'</c>": [
+        "0x73c3c"
+    ],
+    "Backup successful": [
+        "0x390dd"
+    ],
+    "Easing Rate": [
+        "0x1309a9"
+    ],
+    "This is the info message": [
+        "0x130980"
+    ],
+    "Messages": [
+        "0x191d10"
+    ],
+    "Sent Messages": [
+        "0x191d15"
+    ],
+    "Send Reply": [
+        "0x1405df"
+    ],
+    "Send": [
+        "0x140868"
+    ],
+    "Reply": [
+        "0x13f78c"
+    ],
+    "Block": [
+        "0x13e022",
+        "0x13e54d",
+        "0x13f815",
+        "0x13fd42",
+        "0x2116bd"
+    ],
+    "Reset Message": [
+        "0x1414a0"
+    ],
+    "Reset": [
+        "0x1414b1"
+    ],
+    "Friend Requests": [
+        "0x9a550"
+    ],
+    "Sent Requests": [
+        "0x9a55b"
+    ],
+    "Nothing found": [
+        "0x9bdf4",
+        "0x9cd1a"
+    ],
+    "Tap on a user to view their profile": [
+        "0x9a5f8",
+        "0x9c551"
+    ],
+    "Blocked": [
+        "0x9c497"
+    ],
+    "Total friends: %i": [
+        "0x9cb69"
+    ],
+    "Send Message": [
+        "0x1405da"
+    ],
+    "Account Settings": [
+        "0x13a6d4"
+    ],
+    "Me": [
+        "0x13af52"
+    ],
+    "Allow messages from:": [
+        "0x13a87f"
+    ],
+    "Allow friend requests from:": [
+        "0x13ab70"
+    ],
+    "Show Comment History to:": [
+        "0x13add0"
+    ],
+    "Post Update": [
+        "0x2112f0"
+    ],
+    "Confirm Block": [
+        "0x13e53c",
+        "0x13fd31",
+        "0x2116ac"
+    ],
+    "Nothing here...": [
+        "0x9b1b3",
+        "0x192913"
+    ],
+    "No messages selected.": [
+        "0x1928ff"
+    ],
+    "Music Offset (MS)": [
+        "0x1de4da"
+    ],
+    "Parental Control": [
+        "0x1e2e99"
+    ],
+    "Disable Comments": [
+        "0x1e2f5e"
+    ],
+    "Disable Account\nComments": [
+        "0x1e2f70"
+    ],
+    "Only Allow\nFeatured Levels": [
+        "0x1e2f82"
+    ],
+    "Featured Artists": [
+        "0x25cf27"
+    ],
+    "Remove Server Level": [
+        "0x1797e8"
+    ],
+    "Rate Stars": [
+        "0x214c2b"
+    ],
+    "Vote": [
+        "0x18b17f"
+    ],
+    "[Optional Message]": [
+        "0x24b806"
+    ],
+    "Friend request": [
+        "0x2113ea"
+    ],
+    "Subject": [
+        "0x140a39",
+        "0x14196f"
+    ],
+    "Message": [
+        "0x140e1b",
+        "0x141995"
+    ],
+    "Sending...": [
+        "0x141423",
+        "0x24bbff"
+    ],
+    "Friend request sent!": [
+        "0x24c29a"
+    ],
+    "Cancel friend request": [
+        "0x62b38",
+        "0x211431"
+    ],
+    "Rate Demon": [
+        "0x21372c"
+    ],
+    "(Weekly)": [
+        "0x1756a4"
+    ],
+    "(Daily)": [
+        "0x17569f"
+    ],
+    "New!": [
+        "0x3f0d6",
+        "0x6288a",
+        "0x6baca"
+    ],
+    "Challenge": [
+        "0x21fb61"
+    ],
+    "The Challenge": [
+        "0x188e56"
+    ],
+    "Incorrect password!": [
+        "0x1790d1"
+    ],
+    "Too many failed attempts!": [
+        "0x178fad"
+    ],
+    "Scratch": [
+        "0x12921d",
+        "0x129284",
+        "0x1292e5",
+        "0x129346",
+        "0x1293a7",
+        "0x129408",
+        "0x14aab2",
+        "0x14ab41",
+        "0x14abca",
+        "0x14ac53",
+        "0x14acde",
+        "0x155732",
+        "0x1557a2",
+        "0x15580c",
+        "0x155876",
+        "0x1558f7",
+        "0x155967",
+        "0x1559d1",
+        "0x155a23",
+        "0x155a93",
+        "0x155afd",
+        "0x155b4f",
+        "0x155bbf",
+        "0x155c29",
+        "0x155c93",
+        "0x155cfd",
+        "0x155d4f",
+        "0x155dbf",
+        "0x155e29",
+        "0x155e93",
+        "0x155ef8",
+        "0x155f77",
+        "0x155fe5",
+        "0x15604f",
+        "0x1560b9",
+        "0x156155",
+        "0x1561c5",
+        "0x15622f"
+    ],
+    "Its too dangerous, just stay here.": [
+        "0x220ccb"
+    ],
+    "Uhm,<d030> there is no rope.": [
+        "0x1558e0"
+    ],
+    "Just<d010>.<d010>.<d010>. Pretend this never happened.": [
+        "0x155950"
+    ],
+    "I'm gonna need you to stop doing that.": [
+        "0x155a0c"
+    ],
+    "If RubRub sees this I am in <cr>BIG</c> trouble.": [
+        "0x155a7c"
+    ],
+    "I hate that guy<d010>.<d010>.<d010>.": [
+        "0x155ae6"
+    ],
+    "Finally,<d020> I thought you wou<d010>.<d010>.<d010>.<d030>": [
+        "0x155b38"
+    ],
+    "Wait,<d020> You're not the delivery guy.": [
+        "0x155ba8"
+    ],
+    "How am I supposed to run a shop if I don't have any merchandise?": [
+        "0x155c12"
+    ],
+    "I mean, <d040>what shop?": [
+        "0x155c7c"
+    ],
+    "Look,<d030> I can't let you in.\n<d040>Not without the<d010>.<d010>.<d010>. <cl>stuff</c>.": [
+        "0x155d38"
+    ],
+    "I'm not even supposed to be here.\nI'm just a glitch in the code.": [
+        "0x155da8"
+    ],
+    "Did you hear something?": [
+        "0x129394",
+        "0x155e12"
+    ],
+    "Alright, alright.<d010> If you collect\n<cy>%i</c> <cl>Diamonds</c> I will let you in.": [
+        "0x155ebd"
+    ],
+    "Usually the limit is %i, but you look a bit scary.": [
+        "0x155f42"
+    ],
+    "Just, <d030> get out of here before someone sees you.": [
+        "0x155fce"
+    ],
+    "Do you smell burning chicken?": [
+        "0x156038"
+    ],
+    "Collect <cy>%i</c> <cl>Diamonds</c> and I will let you in.": [
+        "0x156118"
+    ],
+    "Now go away, RubRub might be watching.": [
+        "0x1561ae"
+    ],
+    "Oh,<d020> the <cl>diamonds</c>.<d030>\nYou found them.": [
+        "0x15571b"
+    ],
+    "Alright come in, <d010>quickly before someone sees you.": [
+        "0x15578b"
+    ],
+    "You never know who might be watching.": [
+        "0x1557f5"
+    ],
+    "Ah the <cl>shiny</c> thing, excellent choice.": [
+        "0x14aa7b"
+    ],
+    "I found it a while ago.<d030>\nYea<d010>.<d010>.<d010>. 'Found' is a good word...": [
+        "0x14ab0a"
+    ],
+    "Not sure what it does.<d020> If anyone asks you didnt buy it here.": [
+        "0x14aba1"
+    ],
+    "I mean, <d040>buy it where?": [
+        "0x14ac1c"
+    ],
+    "Hey, over here...": [
+        "0x12920a"
+    ],
+    "I've been watching you, and you got some skills.": [
+        "0x129271"
+    ],
+    "Whatever you need, <co>Scratch</c>'s got it.": [
+        "0x1292d2"
+    ],
+    "Here's a free sample. Come find me when you can.": [
+        "0x129333"
+    ],
+    "Potbor": [
+        "0x1564ca",
+        "0x15653a",
+        "0x1565a4",
+        "0x15660e",
+        "0x156694",
+        "0x156704",
+        "0x15676e",
+        "0x1567c0",
+        "0x156830",
+        "0x15689a",
+        "0x1568ec",
+        "0x15695c",
+        "0x1569c6",
+        "0x156a30",
+        "0x156a99",
+        "0x156b09",
+        "0x156b73",
+        "0x156c0b",
+        "0x156c7b",
+        "0x156ce5"
+    ],
+    "Oh,<d030> a customer!": [
+        "0x15667d"
+    ],
+    "I never had a customer before.": [
+        "0x1566ed"
+    ],
+    "<d010>.<d010>.<d010>.<d050> Not sure what to do.": [
+        "0x156757"
+    ],
+    "Let me check the manual.": [
+        "0x1567a9"
+    ],
+    "<cg>The Shopkeepers handbook</c>: \n<d030><cy>You give stuff, they pay money.</c>": [
+        "0x156819"
+    ],
+    "<d010>.<d010>.<d010>.<d050> Sounds simple enough.": [
+        "0x156883"
+    ],
+    "<cg>Page 2</c>: Refund policy\n<d030><cy>No refunds!</c>": [
+        "0x1568d5"
+    ],
+    "<cg>Page 3</c>: Shopkeeper etiquette\n<cy><d010>.<d010>.<d010>. Probably not important.</c>": [
+        "0x156945"
+    ],
+    "<cg>Page 4</c>: Self destruct mechanism\n<d030><cy>The page is missing...</c>": [
+        "0x1569af"
+    ],
+    "Not sure if I should be worried about this.": [
+        "0x156a19"
+    ],
+    "<cg>Page 394</c>: Customer must have <cy>%i</c> diamonds.": [
+        "0x156a5c"
+    ],
+    "What's a diamond?": [
+        "0x156af2"
+    ],
+    "You must collect <cy>%i</c> <cl>Diamonds</c> before I can let you in the <cg>Shop</c>!": [
+        "0x156bce"
+    ],
+    "It says so in the handbook<d010>.<d010>.<d010>.": [
+        "0x156c64"
+    ],
+    "You found all the <cl>diamonds</c>!?": [
+        "0x1564b3"
+    ],
+    "Just need to check: \n<d050> <cl>1</c>, <d050><cl>2</c>, <d050><cl>3</c>, <d050><cy>200</c>. <d050>Yup, all there!": [
+        "0x156523"
+    ],
+    "My first customer, how exciting!": [
+        "0x15658d"
+    ],
+    "No Key": [
+        "0x157571"
+    ],
+    "Do you really want to <cg>unlink</c> from the account <cl>%s</c>?\n<cy>Unlinking will delete all save data on this device.</c>": [
+        "0x39db2"
+    ],
+    "<cg>Hold</c> to fly up.\n<cg>Release</c> to fly down.": [
+        "0x25e372"
+    ],
+    "You can enter <cl>practice mode</c> from the pause menu.\nPractice mode lets you place <cg>checkpoints</c>.": [
+        "0x25e382"
+    ],
+    "You can place checkpoints manually, or use the auto-checkpoint feature.\nTap the delete button to remove your last checkpoint.": [
+        "0x25e389"
+    ],
+    "<cy>Jump rings</c> activate when you are on top of them.\n<cg>Tap</c> while touching a ring to perform a ring jump.": [
+        "0x25e3c3"
+    ],
+    "Why U touch my stuff?": [
+        "0x21e5d1"
+    ],
+    "Are you always like this?": [
+        "0x21db17"
+    ],
+    "I mean, what's the point?": [
+        "0x21db28"
+    ],
+    "Let me guess, you're gonna push the button?": [
+        "0x21db39"
+    ],
+    "What a surprise...": [
+        "0x21db4a"
+    ],
+    "Roses are red": [
+        "0x21db6a"
+    ],
+    "Violets are blue": [
+        "0x21db7b"
+    ],
+    "Click the back button": [
+        "0x21db8c"
+    ],
+    "So I get rid of you": [
+        "0x21db9d"
+    ],
+    "So... whats up?": [
+        "0x21d926"
+    ],
+    "The back button is in the corner.": [
+        "0x21d937"
+    ],
+    "Ready to leave yet?": [
+        "0x21d948"
+    ],
+    "Whenever you're ready...": [
+        "0x21d959"
+    ],
+    "Fine, I can wait.": [
+        "0x21d96a"
+    ],
+    "I have an idea for a gamemode": [
+        "0x21d99b"
+    ],
+    "You play as a cube": [
+        "0x21d9ac"
+    ],
+    "that can jump": [
+        "0x21d9bd"
+    ],
+    "...and there are spikes": [
+        "0x21d9ce"
+    ],
+    "nevermind...": [
+        "0x21d9df"
+    ],
+    "Look behind you!": [
+        "0x21d9fc"
+    ],
+    "I thought I saw something": [
+        "0x21da0d"
+    ],
+    "Maybe it's just my imagination": [
+        "0x21da1e"
+    ],
+    "Or was it?": [
+        "0x21da2f"
+    ],
+    "DUN DUN DUN!": [
+        "0x21da40"
+    ],
+    "How did you get in here?!": [
+        "0x21e4e1"
+    ],
+    "What are you poking around for?": [
+        "0x21e4f9"
+    ],
+    "Don't you have better things to do?": [
+        "0x21e511"
+    ],
+    "There is no spoon": [
+        "0x21e529"
+    ],
+    "Don't you get tired of clicking?": [
+        "0x21da60"
+    ],
+    "I mean, isn't it boring?": [
+        "0x21da71"
+    ],
+    "Click click click": [
+        "0x21da82"
+    ],
+    "Is that all you do?": [
+        "0x21da93"
+    ],
+    "I heard a joke the other day": [
+        "0x21dab3"
+    ],
+    "Two cubes walk into a bar": [
+        "0x21dac4"
+    ],
+    "wait... did they walk or slide?": [
+        "0x21dad5"
+    ],
+    "I don't think cubes can walk": [
+        "0x21dae6"
+    ],
+    "Nevermind...": [
+        "0x21daf7"
+    ],
+    "Upload Failed. Please try again later.": [
+        "0x24e08e"
+    ],
+    "Close": [
+        "0x5bb58",
+        "0x1294eb",
+        "0x150ab4",
+        "0x24e0c8"
+    ],
+    "Account needed": [
+        "0x150aad"
+    ],
+    "Music Changes": [
+        "0x6603b"
+    ],
+    "Obj": [
+        "0x14d5fb"
+    ],
+    "2-Player Mode": [
+        "0x172ca6"
+    ],
+    "Please wait, uploading level...": [
+        "0x24dc97"
+    ],
+    "Upload Complete": [
+        "0x24df39"
+    ],
+    "Something went wrong\nplease try again later": [
+        "0x102b85",
+        "0x104d25"
+    ],
+    "No changes have been made.": [
+        "0x1e1390"
+    ],
+    "Col %i": [
+        "0x112577"
+    ],
+    "Setup Object": [
+        "0x142068"
+    ],
+    "No comments": [
+        "0x14ff51"
+    ],
+    "Reward": [
+        "0x10671b",
+        "0x10677c",
+        "0x106ad8",
+        "0x106b3b"
+    ],
+    "Player": [
+        "0xccb00",
+        "0x124c6e",
+        "0x126029",
+        "0x1261ba"
+    ],
+    "Delete all downloaded custom songs?\n": [
+        "0x14c847"
+    ],
+    "Requires\nPassword": [
+        "0x24eb71"
+    ],
+    "Copied to clipboard": [
+        "0x1507d2"
+    ],
+    "No Account": [
+        "0x211fca"
+    ],
+    "Layer: %s\nZ: %s\n": [
+        "0x7913b"
+    ],
+    "Move Time: ": [
+        "0x12209a",
+        "0x12e783",
+        "0x132d15",
+        "0x1468e1"
+    ],
+    "Strength: ": [
+        "0x244029"
+    ],
+    "Interval: ": [
+        "0x24408f"
+    ],
+    "Duration: ": [
+        "0x2440e4"
+    ],
+    "<cg>Editor L1, L2 places the object on an editor layer.</c>\n<cy>Z-order changes the draw order of the object.</c>\n<cl>An object can belong to a maximum of 10 different groups</c>\n<co>Z-layer changes the draw layer of the object. 'T' layers are above the player, 'B' layers are below the player.</c>\n<cy>Group parent is used by custom objects. The group parent will be used as the center of a group.</c>\n<cp>High detail objects are not added to the level if low detail mode is selected for the level.</c>\n": [
+        "0x22b090"
+    ],
+    "<cl>Fade in:</c> Song starts with a fade in.\n<cy>Fade out:</c> Song fades out at the end of the level.\n<cg>Offset:</c> Change the start time of the song.": [
+        "0x6751c"
+    ],
+    "- Tap on the screen to create markers.\n- Tap on the stop button to finish.": [
+        "0x4ba20"
+    ],
+    "<cr>Delete</c> the current <cl>guidelines</c>?": [
+        "0x4c31b"
+    ],
+    "Clear Guidelines": [
+        "0x4c332"
+    ],
+    "•Recording•": [
+        "0x4b7f1"
+    ],
+    "Each <cg>song</c> has a <cl>unique ID</c> that can be found on <cy>Newgrounds.com</c>. If a song has the address <cl>www.newgrounds.com/audio/listen/</c><cy>568699</c>,\nthen the song ID is <cy>568699</c>.": [
+        "0x663bc"
+    ],
+    "Custom Songs": [
+        "0x6640d"
+    ],
+    "Newgrounds Info": [
+        "0x6614d"
+    ],
+    "There are thousands of great custom songs for you to choose from Newgrounds. Please do not upload music you did not create. You are only allowed to use songs from artists that have been scouted on Newgrounds. For more information, please check the <cy>Audio Guidelines</c>.": [
+        "0x660fc"
+    ],
+    "Some changes have been made to how <cl>custom music</c> from <cy>Newgrounds.com</c> is handled. Tap the button for more <cg>info</c>.": [
+        "0x65fea"
+    ],
+    "Degrees/s: ": [
+        "0x242d53"
+    ],
+    "Players are controlled separately.\n<cl>Player 1:</c> Left side\n<cg>Player 2:</c> Right side\n<cy>(You can change the controls in the options menu)</c>": [
+        "0x172bd7"
+    ],
+    "<cy>Save</c> the level?": [
+        "0x749cc"
+    ],
+    "<cy>Exit</c> without saving? All unsaved changes will be <cr>lost</c>!": [
+        "0x74b2c"
+    ],
+    "Move this level to the top of the levels list?": [
+        "0x17a3a7"
+    ],
+    "Move this level to the bottom of the levels list?": [
+        "0x17a4a7"
+    ],
+    "Move this level to the top of the created levels list?": [
+        "0x71b27"
+    ],
+    "<cy>%s</c>\n<cg>Total Attempts</c>: %i\n<cl>Total Jumps</c>: %i\n<cp>Objects</c>: %i": [
+        "0x6fae8"
+    ],
+    "You can't share a level until you've <cg>completed</c> it. Complete the level in <cl>normal mode</c> to verify that it can be done!\n<cy>(A level cannot be verified if it has a start pos)</c>": [
+        "0x71150"
+    ],
+    "The <cr>darkness</c> lingers. Be careful who you trust...": [
+        "0x1884c8"
+    ],
+    "Enable if you see screen tearing in fullscreen mode. Can cause issues in windowed mode.": [
+        "0x1e1b98"
+    ],
+    "Makes some assumptions that can reduce lag on fast systems. Disable if game speed becomes inconsistent.": [
+        "0x1e1bae"
+    ],
+    "Do you want to <cr>reset</c> all search <cy>filters</c>?": [
+        "0x17e957"
+    ],
+    "<cl>Custom Songs:</c> To only show levels using custom songs. Select <cy>Song</c> and <cy>Custom</c> but leave the textfield blank.": [
+        "0x183a1c"
+    ],
+    "<cg>Green</c> users are unregistered.\n<cy>Gold</c> users are unique registered.\n<cl>Blue</c> songs are official.\n<cp>Purple</c> songs are custom.": [
+        "0x15bf2c"
+    ],
+    "Are you sure you want to <cr>delete</c> this friend request?": [
+        "0x63b26"
+    ],
+    "Are you sure you want to remove this friend request?": [
+        "0x62b26",
+        "0x21141f"
+    ],
+    "Accept": [
+        "0x13df0a"
+    ],
+    "Request removed": [
+        "0x13e7a2",
+        "0x211e9e"
+    ],
+    "Accepting Friend Request...": [
+        "0x13e238"
+    ],
+    "Are you sure you want to block <cg>%s</c>?\n<cg>%s</c> will no longer be able to:\n- <cy>View your profile</c>\n- <cl>Send messages</c>\n- <cp>Send friend requests</c>\n- <cr>Messages from this user will be removed</c>": [
+        "0x13e493",
+        "0x13fc8b",
+        "0x211603"
+    ],
+    "No requests selected.": [
+        "0x9b19f"
+    ],
+    "Are you sure you want to reset this message?": [
+        "0x14148b"
+    ],
+    "Are you sure you want to <cr>delete</c> this message?": [
+        "0x64a06",
+        "0x13fbbb"
+    ],
+    "No subject": [
+        "0x1412fd"
+    ],
+    "You must enter a <cg>subject</c> for the message": [
+        "0x1412e8"
+    ],
+    "Are you sure you want to <cr>remove</c> <cy>%s</c> from your friends list?": [
+        "0x62bfe"
+    ],
+    "An unlisted level can only be found by entering its levelID. Once a level is unlisted, it cannot change back to listed.": [
+        "0x24f0d5"
+    ],
+    "Level Deleted": [
+        "0x178975"
+    ],
+    "The level has been removed from the server.": [
+        "0x178960"
+    ],
+    "Do you want to <cr>delete</c> this <cg>level</c> from the <cl>server</c>? <cy>(Your map will no longer be available online)</c>": [
+        "0x179797"
+    ],
+    "Level delete failed, please try again later.": [
+        "0x1789e0"
+    ],
+    "This version has already been submitted": [
+        "0x24d77e"
+    ],
+    "Delete all saved online levels?\n<cg>Search and folder filters apply.</c>\n<cl>Favorite levels will not be deleted.</c>\n<cy>Stats and progress will be saved.</c>": [
+        "0x15c4aa"
+    ],
+    "Do you want to <cr>report</c> this level for <cy>Hacking</c>/<cy>Cheating</c>/<cy>Exploit</c>/<cy>Abuse</c>?": [
+        "0x1506e4"
+    ],
+    "There is a <cy>new</c> %s available.\nSkip the current level and load the next?": [
+        "0x6c208"
+    ],
+    "Level is up to date.": [
+        "0x178745"
+    ],
+    "Level has been updated to the latest version.": [
+        "0x178737"
+    ],
+    "Send friend request to ": [
+        "0x24b278"
+    ],
+    "Unblock": [
+        "0x62619",
+        "0x62a93"
+    ],
+    "Are you sure you want to <cl>unblock</c> <cy>%s</c>?": [
+        "0x62a1e"
+    ],
+    "Unblock user": [
+        "0x62a9d"
+    ],
+    "Deleting message...": [
+        "0x64b28",
+        "0x140198"
+    ],
+    "Message removed!": [
+        "0x64bba"
+    ],
+    "Message sent!": [
+        "0x141c2a"
+    ],
+    "Uploaded: <cy>%s ago</c>\nUpdated: <cy>%s ago</c>": [
+        "0x151043"
+    ],
+    "%s\nStars Requested: <cy>%i</c>": [
+        "0x1510a5"
+    ],
+    "%s\nOriginal: <cy>%i</c>": [
+        "0x151111"
+    ],
+    "That wont work.": [
+        "0x1290b5"
+    ],
+    "Prove that you are worthy.": [
+        "0x1290ca"
+    ],
+    "Player used tap.\nIt's not very effective.": [
+        "0x1290d8"
+    ],
+    "Need. More. Power.": [
+        "0x1290d1"
+    ],
+    "A wild lock appeared!": [
+        "0x1290df"
+    ],
+    "IMPOSSIBRU!": [
+        "0x1290f4"
+    ],
+    "You must do something.": [
+        "0x1290bc"
+    ],
+    "It cannot be done.": [
+        "0x1290c3"
+    ],
+    "<cl>ehehehehehe...</c>": [
+        "0x1290ed"
+    ],
+    "You are not ready.": [
+        "0x1290e6"
+    ],
+    "There may or may not exist a <cy>shop</c> where you can <cl>buy</c> this <cg>%s</c>.": [
+        "0x128e40"
+    ],
+    "You can <cl>buy</c> this <cg>%s</c> in the <cy>shop</c>!": [
+        "0x128f30"
+    ],
+    "No message": [
+        "0x13db3e",
+        "0x13f4b6",
+        "0x14135a"
+    ],
+    "Friend added!": [
+        "0x13e7ae"
+    ],
+    "From: ": [
+        "0x13d72d",
+        "0x13ede5"
+    ],
+    "Are you sure you want to <cr>delete</c> the selected <cg>requests</c>?": [
+        "0x9b202"
+    ],
+    "Are you sure you want to <cr>delete</c> the selected <cg>messages</c>?": [
+        "0x192962"
+    ],
+    "Deleting Messages...": [
+        "0x192b2c"
+    ],
+    "Messages removed": [
+        "0x192c69"
+    ],
+    "Message removed": [
+        "0x13ffd2"
+    ],
+    "Account settings updated!": [
+        "0x13c998"
+    ],
+    "Updating...": [
+        "0x13c600"
+    ],
+    "Are you sure you want to <cr>delete</c> this comment?": [
+        "0x6056c"
+    ],
+    "Please wait %i seconds before posting a new comment!": [
+        "0x150b8f"
+    ],
+    "Please wait %i seconds before attempting to backup your account again.": [
+        "0x386f1"
+    ],
+    "Please wait %i seconds before attempting to sync your account again.": [
+        "0x3892f"
+    ],
+    "Please wait %i seconds before posting a new update!": [
+        "0x21129a"
+    ],
+    "Thank you for logging in.\nYou have now linked your account:\n<cg>%s</c>": [
+        "0x36f7c"
+    ],
+    "Thank you for registering.\nA confirmation email has been sent to your inbox <cy>%s</c>.\nPlease <cg>activate</c> your account.": [
+        "0x34fb7"
+    ],
+    "The <cg>Creators leaderboard</c> is calculated by counting the number of a creators levels that have been given a <cy>star</c> value plus one for every level that has been <cl>featured</c>.": [
+        "0x158e4c"
+    ],
+    "<cg>This is where you get and complete quests.</c>\n<cy>You can have max 3 quests + 3 queued.</c>\n<cl>Dots to the right of a quest indicates\nthat another quest is queued.</c>": [
+        "0x3dd59"
+    ],
+    "Quest Complete!": [
+        "0xf90b2"
+    ],
+    "Well done... Now try to complete it without any checkpoints!": [
+        "0x94bfc"
+    ],
+    "Are you sure you want to <cr>delete</c> this level?": [
+        "0x1795e7"
+    ],
+    "Please update your application to download this level.": [
+        "0x5bb49"
+    ],
+    "Create a <cl>copy</c> of this <cg>level</c>?\n<cy>(Creator enabled)</c>": [
+        "0x1791e9"
+    ],
+    "This level uses a <cl>custom song</c> that has not been <cg>downloaded</c> yet.\nDo you want to play without music?\n<cy>Download by using the bar below</c>": [
+        "0x178a6a"
+    ],
+    "This level has a <co>high object</c> count and can be <cr>unstable</c> on some devices. This may effect <cg>performance</c>, <cl>load time</c> etc.": [
+        "0x178cb4"
+    ],
+    "Fade Time: ": [
+        "0x43329"
+    ],
+    "RubRub told me not to let anyone in.": [
+        "0x4e778"
+    ],
+    "This is not the door you are looking for.": [
+        "0x4e77f"
+    ],
+    "I don't understand why you keep clicking...": [
+        "0x4e786"
+    ],
+    "Trust me,<d030> you don't want to come in here.": [
+        "0x4e78d"
+    ],
+    "You are not ready...": [
+        "0x4e747"
+    ],
+    "I can't let you in.": [
+        "0x4e74e"
+    ],
+    "Player used knock.<d040>\nIt's not very effective.": [
+        "0x4e755"
+    ],
+    "I guess you don't like rules...": [
+        "0x4e771"
+    ],
+    "Don't you have something better to do?": [
+        "0x4e75c"
+    ],
+    "That is a bad idea...": [
+        "0x4e763"
+    ],
+    "Bring me <cy>5</c> <cg>keys</c>,<d020>\nand I will let you pass.": [
+        "0x4ec7d"
+    ],
+    "Unverified Coins": [
+        "0x178c48"
+    ],
+    "This level contains <cr>unverified</c> user coins (bronze).\nThe coins will not count until they become <cg>verified</c> (silver).": [
+        "0x178c29"
+    ],
+    "Star rating guide": [
+        "0x179b9d"
+    ],
+    "Auto: 1 Star\n<cl>Easy</c>: 1-2 Stars\n<cg>Normal</c>: 2-3 Stars\n<cy>Hard</c>: 3-5 Stars\n<co>Harder</c>: 5-7 Stars\n<cr>Insane</c>: 7-9 Stars\n<cp>Demon</c>: 10 Stars\n<cy>(All star values are manually verified before accepted)</c>": [
+        "0x179b88"
+    ],
+    "Terms of Use": [
+        "0x195725"
+    ],
+    "I Accept": [
+        "0x195737"
+    ],
+    "You need an <cl>account</c> to post <cg>comments</c>. You can create a free account in the options menu.": [
+        "0x150a98"
+    ],
+    "Please follow the <cg>rules</c> when posting comments. Failure to comply with these rules may result in a <cr>ban</c> from commenting.": [
+        "0x150b05"
+    ],
+    "<cy>Flaming:</c> Do not write hostile or insulting messages aimed at other users.\n<cg>Spamming:</c> Do not spam requests from others to play your levels.\n<cl>Profanity:</c> No swearing or crude language.": [
+        "0x150852"
+    ],
+    "This is the comment help.\n<cl>You're welcome.</c>": [
+        "0x24b361"
+    ],
+    "The Shopkeeper": [
+        "0x209b9e"
+    ],
+    "I see you have a lot of <cl>orbs</c>. You should visit my <cy>shop</c>!": [
+        "0x209b88"
+    ],
+    "Download failed. Please try again later.": [
+        "0x69799"
+    ],
+    "Collect <cy>%i</c> more <cg>key%s</c>,<d020>\nand I will let you pass.": [
+        "0x4ecb0"
+    ],
+    "Well, well, well.<d035>\nLook who it is.": [
+        "0x4eab2"
+    ],
+    "I see you have the <cg>keys</c>.<d040>\nBut what comes next?": [
+        "0x4eb28"
+    ],
+    "Important notification - Terms of use. The custom songs are available to you via a third party website, Newgrounds.com. These songs are created by artists/musicians who use newgrounds.com as a platform for distributing their music/songs. The songs are subject to Creative Commons licensing terms which are accessible on Newgrounds.com. By downloading a song you accept the licensing terms and any other relevant terms designated by Newgrounds. RobTop is not the provider of the songs and not a party to the licensing agreement. RobTop does not handle or store any of the audio files which you may decide to download from Newgrounds.com. RobTop undertakes no responsibility whatsoever in connection with your download and use of the songs. Some songs available on Newgrounds.com may not be permitted to use in Geometry Dash and RobTop reserves the right to block specific songs if RobTop Games deems such measure to be appropriate. By clicking the 'I Accept button' you acknowledge and approve of the above stated terms of use.": [
+        "0x195710"
+    ],
+    "The <co>door</c> is open.<d040>\nTime to find out<d010>.<d010>.<d010>.": [
+        "0x4eb98"
+    ],
+    "O-oooooooooo AAAAE-A-A-I-A-U- JO-oooooooooooo!": [
+        "0x221fcd"
+    ],
+    "I like the new Robot mode": [
+        "0x21dcb6"
+    ],
+    "I even have my own Robot": [
+        "0x21dcc7"
+    ],
+    "RubRub gave it to me as a present": [
+        "0x21dcd8"
+    ],
+    "No, I won't give you a hint...": [
+        "0x21dce9"
+    ],
+    "I said no...": [
+        "0x21dcfa"
+    ],
+    "You will have to ask RubRub...": [
+        "0x21dd0b"
+    ],
+    "Ok, I will give you a hint.": [
+        "0x21dd2b"
+    ],
+    "Without it, I'm dead.": [
+        "0x21dd3c"
+    ],
+    "If I'm not, then I'm behind.": [
+        "0x21dd4d"
+    ],
+    "That didn't go very well...": [
+        "0x21dd6f"
+    ],
+    "Why are you still here?": [
+        "0x21de49"
+    ],
+    "You're so stubborn": [
+        "0x21de5a"
+    ],
+    "Stubborn as a Fox...": [
+        "0x21de6b"
+    ],
+    "wait, that's not right": [
+        "0x21de7c"
+    ],
+    "Gah, I forgot the word": [
+        "0x21de8d"
+    ],
+    "Those animals that are stubborn": [
+        "0x21de9e"
+    ],
+    "It does get lonely sometimes": [
+        "0x21ded1"
+    ],
+    "It's so quiet...": [
+        "0x21dee2"
+    ],
+    "Except for the annoying music": [
+        "0x21def3"
+    ],
+    "Just keeps looping": [
+        "0x21df04"
+    ],
+    "Over and over and over": [
+        "0x21df15"
+    ],
+    "It never ends": [
+        "0x21df26"
+    ],
+    "It doesn't have an end": [
+        "0x21df37"
+    ],
+    "...no ending": [
+        "0x21df48"
+    ],
+    "That's like 5 hints": [
+        "0x21df59"
+    ],
+    "There's a trail hidden somewhere": [
+        "0x21df79"
+    ],
+    "But RubRub didn't tell me where": [
+        "0x21df8a"
+    ],
+    "...or what the password is": [
+        "0x21df9b"
+    ],
+    "You will have to ask him": [
+        "0x21dfac"
+    ],
+    "Fly, you fool!": [
+        "0x21dfbd"
+    ],
+    "...or use the force": [
+        "0x21dfce"
+    ],
+    "Whichever comes first": [
+        "0x21dfdf"
+    ],
+    "Sneaky hobbitses...": [
+        "0x21dff0"
+    ],
+    "Gryffindor!": [
+        "0x21e001"
+    ],
+    "Secrets secrets secrets...": [
+        "0x21e021"
+    ],
+    "It's hard to keep track of": [
+        "0x21e032"
+    ],
+    "makes me feel Lost...": [
+        "0x21e043"
+    ],
+    "Maybe we are in a twilight zone?": [
+        "0x21e054"
+    ],
+    "Reminds me of a book I read": [
+        "0x21e065"
+    ],
+    "The pages were weird": [
+        "0x21e076"
+    ],
+    "Page one was page two": [
+        "0x21e087"
+    ],
+    "Page three was page six": [
+        "0x21e098"
+    ],
+    "Made it really hard to read": [
+        "0x21e0a9"
+    ],
+    "I don't feel good about this...": [
+        "0x21e0c9"
+    ],
+    "RubRub will be back soon": [
+        "0x21e0d7"
+    ],
+    "...unless he's already here": [
+        "0x21e0e5"
+    ],
+    "Watching, waiting, lurking...": [
+        "0x21e0f3"
+    ],
+    "He knows every move I make": [
+        "0x21e101"
+    ],
+    "Every move YOU make": [
+        "0x21e10f"
+    ],
+    "But maybe you can stop him?": [
+        "0x21e11d"
+    ],
+    "Maybe you are the key?": [
+        "0x21e12b"
+    ],
+    "Don't tell RubRub, but I stole an icon": [
+        "0x21dbbd"
+    ],
+    "He will never notice...": [
+        "0x21dbce"
+    ],
+    "I hid it with my name as the password": [
+        "0x21dbdf"
+    ],
+    "Muahahaha!": [
+        "0x21dbf0"
+    ],
+    "You're here for my gold, aren't you?": [
+        "0x21dc10"
+    ],
+    "I had a secret coin once": [
+        "0x21dc21"
+    ],
+    "It was so beautiful": [
+        "0x21dc32"
+    ],
+    "I called it 'Sparky'": [
+        "0x21dc43"
+    ],
+    "You want a hint... don't you?": [
+        "0x21dc63"
+    ],
+    "I've hidden a password in the game": [
+        "0x21dc74"
+    ],
+    "I won't tell you where it is...": [
+        "0x21dc85"
+    ],
+    "It's definitely not on the support page.": [
+        "0x21dc96"
+    ],
+    "That was weird...": [
+        "0x21ccee"
+    ],
+    "WHAT!? How did you know my name!?!": [
+        "0x21c8e5"
+    ],
+    "My coin.. NOOOOOO!!!": [
+        "0x21c53b"
+    ],
+    "So he told you?...": [
+        "0x21caac"
+    ],
+    "You learn quickly!": [
+        "0x21d04f"
+    ],
+    "You're pretty good at this": [
+        "0x21cc71"
+    ],
+    "Ah, right you are.": [
+        "0x21cbf3"
+    ],
+    "He could be watching right now...": [
+        "0x21cd75"
+    ],
+    "Noooooo!!!!": [
+        "0x21c08d"
+    ],
+    "How do you know my secrets!?": [
+        "0x21ca19"
+    ],
+    "What do you think you're doing?": [
+        "0x21ce9f"
+    ],
+    "Those numbers, aren't they...": [
+        "0x21cef3"
+    ],
+    "NO NO NO NO!!!": [
+        "0x21cf47"
+    ],
+    "GAH!! You have doomed us all!": [
+        "0x21cf98"
+    ],
+    "Click / Space to jump over the spikes": [
+        "0x209d9a"
+    ],
+    "Click while touching a ring to jump mid air": [
+        "0x209d81"
+    ],
+    "Sub!": [
+        "0x99d37"
+    ],
+    "Follow!": [
+        "0x99ceb"
+    ],
+    "Like!": [
+        "0x99c9c"
+    ],
+    "Huh!?": [
+        "0x220073"
+    ],
+    "<cr>There was no chicken...</c>": [
+        "0x225fc8"
+    ],
+    "The Gatekeeper": [
+        "0x187cf2",
+        "0x187d5d",
+        "0x187df4",
+        "0x187e5f",
+        "0x187ec2",
+        "0x22a09e",
+        "0x22a136",
+        "0x22a1c8",
+        "0x22a25a"
+    ],
+    "Who disturbs my slumber?": [
+        "0x187cdb"
+    ],
+    "<cl>RubRub</c> is that you?<d040>\nI cannot see in this light.": [
+        "0x187d46"
+    ],
+    "Show me the <cp>Master Emblem</c>,\n<d030>and I will let you pass.": [
+        "0x187da9"
+    ],
+    "The <cp>Master Emblem</c>!": [
+        "0x187ddd"
+    ],
+    "Lord <cl>RubRub</c>, I will open the gate for you.": [
+        "0x187e48"
+    ],
+    "Please, come in.": [
+        "0x187eab"
+    ],
+    "So you met the GateKeeper...": [
+        "0x21dd8f"
+    ],
+    "I heard he made fun of me": [
+        "0x21dda0"
+    ],
+    "Made fun of 'Sparky'...": [
+        "0x21ddb1"
+    ],
+    "Like he has a better name": [
+        "0x21ddd3"
+    ],
+    "What does 'Glubfub' mean anyway?": [
+        "0x21dde4"
+    ],
+    "I mean... oh no...": [
+        "0x21ddf5"
+    ],
+    "I DIDNT TELL YOU ANYTHING!": [
+        "0x21de06"
+    ],
+    "Fade In: ": [
+        "0x23e11c"
+    ],
+    "Hold: ": [
+        "0x23e56f"
+    ],
+    "Fade Out: ": [
+        "0x23e970"
+    ],
+    "Hue: ": [
+        "0x4a232"
+    ],
+    "Saturation: ": [
+        "0x4a2f4"
+    ],
+    "Brightness: ": [
+        "0x4a3bd"
+    ],
+    "Mixed": [
+        "0x43481",
+        "0x4605a",
+        "0x4acac",
+        "0x1221f8",
+        "0x122654",
+        "0x122dc7",
+        "0x1234ff",
+        "0x12e8e1",
+        "0x12f141",
+        "0x12f95f",
+        "0x12fef1",
+        "0x130398",
+        "0x130c94",
+        "0x130daf",
+        "0x132e73",
+        "0x1332e4",
+        "0x1339d2",
+        "0x1347bf",
+        "0x146a3f",
+        "0x14727d",
+        "0x147aeb",
+        "0x147e3c",
+        "0x22b372",
+        "0x22c12b",
+        "0x22c147",
+        "0x22c19f",
+        "0x22c948",
+        "0x22c984",
+        "0x22c9b4",
+        "0x22cabd",
+        "0x22cb3d",
+        "0x22d2da",
+        "0x23e291",
+        "0x23e68c",
+        "0x23ea8b",
+        "0x240589",
+        "0x240669",
+        "0x240749",
+        "0x24427b",
+        "0x244979",
+        "0x244ab9",
+        "0x244bf9",
+        "0x246017",
+        "0x2468df"
+    ],
+    "BG": [
+        "0x14d5e3"
+    ],
+    "To: ": [
+        "0x13edea",
+        "0x140661"
+    ],
+    "%imin %02dsec": [
+        "0x26a25"
+    ],
+    "daily level": [
+        "0x6c1f3"
+    ],
+    "coin ": [
+        "0x9577a"
+    ],
+    "<cy>all</c> coins": [
+        "0x956a4"
+    ],
+    "weekly demon": [
+        "0x6c1f8"
+    ],
+    "You cannot verify a level if it has a start pos.": [
+        "0x949f0"
+    ],
+    "<cl>-Will also function as a spawn trigger.</c>\n": [
+        "0x2338f1",
+        "0x2369d1"
+    ],
+    "Show": [
+        "0x5fa96"
+    ],
+    "Comment flagged as spam": [
+        "0x5f698"
+    ],
+    "<cy>Comment flagged as spam</c>": [
+        "0x5f540"
+    ],
+    "Playback music": [
+        "0x152797"
+    ],
+    "<cg>Item pickup help</c>": [
+        "0x238114",
+        "0x242a65"
+    ],
+    "I keep that door locked.\n<d030>RubRub's orders.": [
+        "0x220ce0"
+    ],
+    "Unlocked new %s!": [
+        "0x3ac18"
+    ],
+    "icon": [
+        "0x128deb",
+        "0x14b3e9"
+    ],
+    "Level download failed, please try again later.": [
+        "0x1785d6"
+    ],
+    "ball": [
+        "0x128e00",
+        "0x14b431"
+    ],
+    "Something you always ruin...": [
+        "0x2296fa"
+    ],
+    "Impressive": [
+        "0x229570"
+    ],
+    "Be like water my friend": [
+        "0x229a2e"
+    ],
+    "A pizza would be nice": [
+        "0x229866"
+    ],
+    "ufo": [
+        "0x128e07",
+        "0x14b440"
+    ],
+    "wave": [
+        "0x128e0e",
+        "0x14b44f"
+    ],
+    "spider": [
+        "0x128e1c",
+        "0x14b46d"
+    ],
+    "\nsecondary color": [
+        "0x14b40d"
+    ],
+    "\nmain color": [
+        "0x14b3fb"
+    ],
+    "trail": [
+        "0x128e23",
+        "0x14b47c"
+    ],
+    "robot": [
+        "0x128e15",
+        "0x14b45e"
+    ],
+    "death effect": [
+        "0x128e2a"
+    ],
+    "ship": [
+        "0x3a9a2",
+        "0x58728",
+        "0x128df9",
+        "0x14b41f"
+    ],
+    "You need a key to unlock this chest.": [
+        "0x1574da"
+    ],
+    "Unlock <cy>%i</c> more <cg>%s</c>, and you can collect this bonus.": [
+        "0x1571ea"
+    ],
+    "Chests": [
+        "0x1571e0"
+    ],
+    "You need %i more keys to unlock this chest": [
+        "0x1574e4"
+    ],
+    "%s to <cl>unlock</c> this <cg>%s</c>!": [
+        "0x12918a"
+    ],
+    "A demon guards it. Find him.": [
+        "0x129036"
+    ],
+    "Icon": [
+        "0x3a99d"
+    ],
+    "color": [
+        "0x128df2"
+    ],
+    "\ndeath effect": [
+        "0x14b48b"
+    ],
+    "Ball": [
+        "0x3aa10"
+    ],
+    "UFO": [
+        "0x3aa58"
+    ],
+    "Wave": [
+        "0x3aa9d"
+    ],
+    "Robot": [
+        "0x3aadd"
+    ],
+    "Spider": [
+        "0x3ab1d"
+    ],
+    "Death Effect": [
+        "0x3ab5d"
+    ],
+    "Trail": [
+        "0x3ab9d"
+    ],
+    "\nMaster Emblem": [
+        "0x14b49a"
+    ],
+    "You need to <cl>collect</c> atleast <cy>10 stars</c> to enable <cg>saving</c>.": [
+        "0x38696"
+    ],
+    "Levels marked as <cg>Favorite</c> will show up here!": [
+        "0x15ac09"
+    ],
+    "Max Objects": [
+        "0x86f7f",
+        "0x8703b"
+    ],
+    "You cannot create more than <cy>%i</c> <cg>objects</c> in a single level.": [
+        "0x86f1c"
+    ],
+    "You have reached the max limit of <cy>%i</c> <cg>objects</c>. You can increase this limit to <cy>%i</c>, but your level may become unstable on some devices. Levels with objects above the normal maximum will display a warning when played online. It is recommended to stay below the normal limit.": [
+        "0x86fd1"
+    ],
+    "Increase": [
+        "0x87040"
+    ],
+    "Lighter": [
+        "0x14d619"
+    ],
+    "Delete Filters": [
+        "0x7ac5d"
+    ],
+    "<co>Only remove certain objects.</c>\n<cy>Static:</c> Blocks, Spikes...\n<cg>Details</c>: Details, portals, triggers...\n<cl>Custom</c>: Selected object\n<cr>None:</c> Disabled": [
+        "0x7ac0c"
+    ],
+    "You cannot add more than <cy>3</c> <cg>coins</c> in a single level.": [
+        "0x87087"
+    ],
+    "3DL": [
+        "0x14d601"
+    ],
+    "%idays %ih": [
+        "0x26a3b"
+    ],
+    "Delay: ": [
+        "0x245ebd"
+    ],
+    "Playing levels with a high object count won't display a warning.": [
+        "0x1de159"
+    ],
+    "%isec": [
+        "0x269b8"
+    ],
+    "Email": [
+        "0x3496e"
+    ],
+    "Email:": [
+        "0x34917",
+        "0x35497"
+    ],
+    "Email is already in use": [
+        "0x351be"
+    ],
+    "Created": [
+        "0x35089"
+    ],
+    "Username is invalid": [
+        "0x3521a"
+    ],
+    "Already linked to different account": [
+        "0x37175"
+    ],
+    "Contact RobTop Support for more info": [
+        "0x371fb"
+    ],
+    "Login failed. Please login to verify your account.": [
+        "0x39229",
+        "0x39479"
+    ],
+    "Backup failed. Please try again later.": [
+        "0x3921d"
+    ],
+    "special": [
+        "0x3ab6f",
+        "0x588fc",
+        "0xc4d87",
+        "0xc52a3",
+        "0x24a0cc"
+    ],
+    "death": [
+        "0x3ab2f",
+        "0x588bb",
+        "0xc4e50",
+        "0xc536a",
+        "0x24a06c"
+    ],
+    "color2": [
+        "0x3abe4",
+        "0x58978",
+        "0xc4f0b",
+        "0xc5327",
+        "0x24a174"
+    ],
+    "Resources": [
+        "0x3bdbe",
+        "0xcde63"
+    ],
+    "Geometry Dash": [
+        "0x3be28",
+        "0x3bea1",
+        "0x954a7",
+        "0x215f8a",
+        "0x25c9c6"
+    ],
+    "audioScale": [
+        "0x3d005",
+        "0x3d02b",
+        "0x3d0b3"
+    ],
+    "New quests in: 00:00:00": [
+        "0x3d86a"
+    ],
+    "00:00:00": [
+        "0x3ed96",
+        "0x6aa78",
+        "0x6c04e",
+        "0x21733c",
+        "0x2173ad"
+    ],
+    "silver coin": [
+        "0x3eefa",
+        "0xf9037"
+    ],
+    "silver coins": [
+        "0x3eef2",
+        "0xf8f14",
+        "0xf8f85",
+        "0xf9132"
+    ],
+    "stars": [
+        "0x3eec2",
+        "0xf9011"
+    ],
+    "%i / %i": [
+        "0x3f3d3"
+    ],
+    "0123456789": [
+        "0x4011c",
+        "0x443f5",
+        "0x44943",
+        "0x54313",
+        "0x65d56",
+        "0x122e95",
+        "0x12fa58",
+        "0x12ff87",
+        "0x133aa0",
+        "0x133f1e",
+        "0x142b0b",
+        "0x147bb9",
+        "0x182818",
+        "0x22b403",
+        "0x22eded",
+        "0x22fc43",
+        "0x231307",
+        "0x233d8c",
+        "0x235930",
+        "0x236e8b",
+        "0x2386d0",
+        "0x23a02a",
+        "0x23b509",
+        "0x23d098",
+        "0x23f131",
+        "0x24014e",
+        "0x245c6a",
+        "0x2478fd"
+    ],
+    "label": [
+        "0x41cc0"
+    ],
+    "0123456789.": [
+        "0x43523",
+        "0x4ad4a",
+        "0x4bda3",
+        "0x67030",
+        "0x122299",
+        "0x12e985",
+        "0x132f17",
+        "0x134258",
+        "0x146ae0",
+        "0x232a22",
+        "0x23e339",
+        "0x23e73a",
+        "0x23eb37",
+        "0x244344",
+        "0x2460b8"
+    ],
+    "Tint\nGround": [
+        "0x43c68"
+    ],
+    "Saturation: Mixed": [
+        "0x49e4a"
+    ],
+    "Brightness: Mixed": [
+        "0x49e5f"
+    ],
+    "Setup HSV": [
+        "0x4949a"
+    ],
+    "Hue: Mixed": [
+        "0x49e35"
+    ],
+    "No Title": [
+        "0x4a987"
+    ],
+    "%s Help": [
+        "0x4ab09"
+    ],
+    "Maximum limit exceeded": [
+        "0x4c968",
+        "0x4cb6d"
+    ],
+    ".<d030>.<d030>.": [
+        "0x4e76a"
+    ],
+    "unachievedDescription": [
+        "0x58cd0",
+        "0x1296ec"
+    ],
+    "%i/%i": [
+        "0x5987c",
+        "0x5ad08",
+        "0x5c542",
+        "0x157749",
+        "0x1782e4",
+        "0x17a74f",
+        "0x186f3b",
+        "0x187115"
+    ],
+    "Unavailable": [
+        "0x5bb5d"
+    ],
+    "Newgrounds": [
+        "0x657ab",
+        "0x191318",
+        "0x250404"
+    ],
+    "Song ID": [
+        "0x67b5c"
+    ],
+    "Artist Name": [
+        "0x67b4a"
+    ],
+    "Song Title": [
+        "0x67b3e"
+    ],
+    " <cr>(high)</c>": [
+        "0x6fb83"
+    ],
+    "ID: na": [
+        "0x7023e",
+        "0x15037a"
+    ],
+    "Unverified\nReq. Coins: ": [
+        "0x6ff7d"
+    ],
+    "Update Level Desc": [
+        "0x70e48"
+    ],
+    "Do you want to <cg>update</c> the level <cl>description</c>?": [
+        "0x70df7"
+    ],
+    "%s (%i)": [
+        "0x70298"
+    ],
+    "ID: %i": [
+        "0x7025e",
+        "0x15039a"
+    ],
+    "No Name": [
+        "0x71102"
+    ],
+    "You must name your level before sharing it.": [
+        "0x710f0"
+    ],
+    "Updating description...": [
+        "0x71544"
+    ],
+    "Description updated!": [
+        "0x72226"
+    ],
+    " (high)": [
+        "0x725e9"
+    ],
+    "C1: %s\nC2: %s\n": [
+        "0x78f3d"
+    ],
+    "EL: %s\n": [
+        "0x79261"
+    ],
+    "You can't create more than <cy>%i</c> custom objects.": [
+        "0x79505"
+    ],
+    "Max limit": [
+        "0x79470"
+    ],
+    "A custom object can't contain more than <cy>%i</c> objects.": [
+        "0x79427"
+    ],
+    "Max custom objects": [
+        "0x7954e"
+    ],
+    "custom": [
+        "0x83af1",
+        "0x83c83"
+    ],
+    "Scale:": [
+        "0x9392f"
+    ],
+    "%02d:%02d:%02d": [
+        "0x947e8",
+        "0x215c4d"
+    ],
+    "%02d:%02d": [
+        "0x947d7",
+        "0x215c40"
+    ],
+    "<cy>1</c>": [
+        "0x95791"
+    ],
+    "<cy>3</c>": [
+        "0x957fb"
+    ],
+    "<cy>2</c>": [
+        "0x957b9"
+    ],
+    "YouTube": [
+        "0x9937d",
+        "0x99d15",
+        "0x25046f"
+    ],
+    "Twitter": [
+        "0x991bb",
+        "0x99cc9"
+    ],
+    "Subscribe to <cg>RobTop Games</c> on <cr>YouTube</c>\nto unlock this <cy>chest</c>!": [
+        "0x99d27"
+    ],
+    "Facebook": [
+        "0x98ff9",
+        "0x99c7a",
+        "0x2504d2"
+    ],
+    "Like <cg>Geometry Dash</c> on <cr>Facebook</c>\nto unlock this <cy>chest</c>!": [
+        "0x99c8c"
+    ],
+    "Follow <cg>RobTop Games</c> on <cl>Twitter</c>\nto unlock this <cy>chest</c>!": [
+        "0x99cdb"
+    ],
+    "Something went wrong": [
+        "0x9be0d",
+        "0x9cd33"
+    ],
+    "Requests removed": [
+        "0x9b6b9"
+    ],
+    "Deleting Requests...": [
+        "0x9b3c4"
+    ],
+    "Banned": [
+        "0xb30a4",
+        "0xb31f8"
+    ],
+    "You have been <cg>banned</c> from making comments. \nPlease contact <cy>support</c> with ID <cy>%i</c> if you have any questions.": [
+        "0xb307c"
+    ],
+    "%s.\n\n<cl>Reason: %s</c>": [
+        "0xb31ca"
+    ],
+    "You have been <cg>banned</c> from making comments for: <cy>%s</c>": [
+        "0xb3163"
+    ],
+    "Data restored": [
+        "0xb9c80"
+    ],
+    "Your data has been restored.": [
+        "0xb9c6b"
+    ],
+    " Gauntlet": [
+        "0x1028ea"
+    ],
+    "It's no use, that <cg>Gauntlet</c> is <cl>locked</c>.": [
+        "0x105a82"
+    ],
+    "The <co>Demon Guardian</c> was the only one who could open it.": [
+        "0x105af6"
+    ],
+    "Not sure what happened to him. He always was a bit crazy.": [
+        "0x105b66"
+    ],
+    "<cy>UserID:</c> %i": [
+        "0x125e02"
+    ],
+    "User Info": [
+        "0x125ed6"
+    ],
+    "Nothing happened.": [
+        "0x12900c"
+    ],
+    "Without a key, it cannot be.": [
+        "0x129013"
+    ],
+    "You have no power here.": [
+        "0x12903d"
+    ],
+    "Forget about this one.": [
+        "0x129044"
+    ],
+    "A key... My kingdom for a key...": [
+        "0x12904b"
+    ],
+    "Why you click?": [
+        "0x12901a"
+    ],
+    "You are not yet ready.": [
+        "0x129021"
+    ],
+    "A key, you must have.": [
+        "0x129028"
+    ],
+    "The lock wont budge.": [
+        "0x12902f"
+    ],
+    "Like Now!": [],
+    "Follow Now!": [],
+    "<d010>.<d010>.<d010>.": [
+        "0x1293f5",
+        "0x14aca5",
+        "0x15585f",
+        "0x1559ba",
+        "0x155ce6",
+        "0x155e7c",
+        "0x1560a2",
+        "0x156218",
+        "0x1565f7",
+        "0x156b5c",
+        "0x156cce"
+    ],
+    "RobTop Games": [
+        "0x12d973"
+    ],
+    "Follow Player command help": [
+        "0x132c23"
+    ],
+    "Twitter:": [
+        "0x13b18f"
+    ],
+    "Twitch:": [
+        "0x13b21c"
+    ],
+    "YouTube:": [
+        "0x13b0f9"
+    ],
+    "Update Failed.": [
+        "0x13ca19"
+    ],
+    "Friend Request": [
+        "0x13d683"
+    ],
+    "Unknown action": [
+        "0x13e784",
+        "0x13ffb5"
+    ],
+    "You can't send an <cr>empty</c> message.": [
+        "0x141348"
+    ],
+    "Comment upload failed. Please try again later.": [
+        "0x151bd9",
+        "0x2130d5"
+    ],
+    "Failed": [
+        "0x151bea",
+        "0x2130e9",
+        "0x2131d7"
+    ],
+    "Escape": [
+        "0x1525d0"
+    ],
+    "Shift": [
+        "0x152660"
+    ],
+    "Alt + Q": [
+        "0x1526a4"
+    ],
+    "Space": [
+        "0x152671"
+    ],
+    "Ctrl + Shift + Z": [
+        "0x1526e8"
+    ],
+    "Alt + D": [
+        "0x1526f9"
+    ],
+    "Alt + E": [
+        "0x1526b5"
+    ],
+    "Ctrl + Z": [
+        "0x1526d7"
+    ],
+    "Ctrl + C": [
+        "0x15270a"
+    ],
+    "Ctrl + D": [
+        "0x15272c"
+    ],
+    "Ctrl + V": [
+        "0x15271b"
+    ],
+    "Enter": [
+        "0x152781"
+    ],
+    "Ctrl + Enter": [
+        "0x152792"
+    ],
+    "Shift + A": [
+        "0x15282b"
+    ],
+    "Shift + S": [
+        "0x15285e"
+    ],
+    "Shift + D": [
+        "0x15283c"
+    ],
+    "Shift + W": [
+        "0x15284d"
+    ],
+    "Chest": [
+        "0x1571cf"
+    ],
+    "No <cg>Internet</c> connection!": [
+        "0x157ebf",
+        "0x159b19",
+        "0x17bdea"
+    ],
+    "Create an <cg>account</c> to\ncompare scores\nwith <cl>friends</c>!": [
+        "0x158c4d"
+    ],
+    "You have not <cg>downloaded</c> any <cl>levels</c> yet!": [
+        "0x15ab8f"
+    ],
+    " (%i: %s)": [
+        "0x15b112"
+    ],
+    " (%i)": [
+        "0x15b0ec"
+    ],
+    "Remove all levels from favorites?\n<cg>Search and folder filters apply.</c>\n<cy>Levels will not be deleted.</c>": [
+        "0x15c5a7"
+    ],
+    "%s (%s)": [
+        "0x15b3b5"
+    ],
+    "Remove Favorites": [
+        "0x15c5f8"
+    ],
+    "%02d: %s": [
+        "0x173741",
+        "0x183420"
+    ],
+    " (%i%%)": [
+        "0x177890"
+    ],
+    "Update your application to update this level.": [
+        "0x17873e"
+    ],
+    "Level update failed, please try again later.": [
+        "0x17884c"
+    ],
+    "Rate Difficulty": [
+        "0x1799f4",
+        "0x214226"
+    ],
+    "Please <cg>rate</c> the <cl>difficulty</c> as fairly as possible. \n<cy>(Demon and Auto levels are manually verified before accepted)</c>": [
+        "0x1799df"
+    ],
+    "\n<cj>Leaderboard</c>: %i%%": [
+        "0x17a238"
+    ],
+    "Level Leaderboards": [
+        "0x17c0d2"
+    ],
+    "<cy>Q: My score is wrong!?</c>\nA: Level leaderboards changed in update 2.11. Scores from before update 2.11 need to be replayed. You can see your leaderboard percentage by pressing the info button on the bottom left of the level page, or toggle the Leaderboard percent option.": [
+        "0x17c0ac"
+    ],
+    "Create an <cg>account</c> to\ncompare scores\nwith <cl>other players</c>!": [
+        "0x17c944"
+    ],
+    "upd_ll": [
+        "0x17c3d3",
+        "0x17c640",
+        "0x17c662"
+    ],
+    " Leaderboard": [
+        "0x17bafc"
+    ],
+    "completed_filter": [
+        "0x17ebfd",
+        "0x17fab6",
+        "0x181e16",
+        "0x182bf0",
+        "0x182bf5"
+    ],
+    "uncompleted_filter": [
+        "0x17eb31",
+        "0x17fdce",
+        "0x181d8d",
+        "0x182af0",
+        "0x182af5"
+    ],
+    "star_filter": [
+        "0x17e4ab",
+        "0x17eaaa",
+        "0x17fe1d",
+        "0x18084b",
+        "0x1808fa"
+    ],
+    "demon_filter": [
+        "0x17e68f",
+        "0x17e82a",
+        "0x17f545",
+        "0x17fa6a",
+        "0x184229"
+    ],
+    "follow_filter": [
+        "0x17f2f3"
+    ],
+    "coin_filter": [
+        "0x17f22d",
+        "0x17fb54",
+        "0x18214c",
+        "0x1831f0",
+        "0x1831f5"
+    ],
+    "epic_filter": [
+        "0x17f47f",
+        "0x17fb05",
+        "0x181fb1",
+        "0x182df0",
+        "0x182df5"
+    ],
+    "friend_filter": [
+        "0x17f3b9"
+    ],
+    "original_filter": [
+        "0x17ee4f",
+        "0x17fcdf",
+        "0x181f28",
+        "0x182ef0",
+        "0x182ef5"
+    ],
+    "featured_filter": [
+        "0x17ecc3",
+        "0x17fd7f",
+        "0x181e9f",
+        "0x182cf0",
+        "0x182cf5"
+    ],
+    "nostar_filter": [
+        "0x17f167",
+        "0x17fba3",
+        "0x1820c3",
+        "0x1830f0",
+        "0x1830f5"
+    ],
+    "twoP_filter": [
+        "0x17ef15",
+        "0x17fc90",
+        "0x1821d5",
+        "0x182ff0",
+        "0x182ff5"
+    ],
+    "Collect %i more <cy>Secret Coins</c> to unlock this <cl>level</c>!": [
+        "0x1880eb"
+    ],
+    "Back On Track": [
+        "0x189080"
+    ],
+    "Cant Let Go": [
+        "0x1890a2"
+    ],
+    "Base After Base": [
+        "0x189091"
+    ],
+    "Jumper": [
+        "0x189108"
+    ],
+    "xStep": [
+        "0x1890f7"
+    ],
+    "Clutterfunk": [
+        "0x18912a"
+    ],
+    "Time Machine": [
+        "0x189119"
+    ],
+    "Dry Out": [
+        "0x1890c4"
+    ],
+    "Cycles": [
+        "0x1890b3"
+    ],
+    "Stereo Madness": [
+        "0x1890e6"
+    ],
+    "Polargeist": [
+        "0x1890d5"
+    ],
+    "Hexagon Force": [
+        "0x189190"
+    ],
+    "Electrodynamix": [
+        "0x18917f"
+    ],
+    "Theory of Everything 2": [
+        "0x1891b2"
+    ],
+    "Blast Processing": [
+        "0x1891a1"
+    ],
+    "Electroman Adventures": [
+        "0x18914c"
+    ],
+    "Theory of Everything": [
+        "0x18913b"
+    ],
+    "Practice: Stay Inside Me": [
+        "0x18916e"
+    ],
+    "Clubstep": [
+        "0x18915d"
+    ],
+    "Fingerdash": [
+        "0x189218"
+    ],
+    "Airborne Robots": [
+        "0x189207"
+    ],
+    "Payload": [
+        "0x18923a"
+    ],
+    "Secret": [
+        "0x189229"
+    ],
+    "Deadlocked": [
+        "0x1891d4"
+    ],
+    "Geometrical Dominator": [
+        "0x1891c3"
+    ],
+    "Viking Arena": [
+        "0x1891f6"
+    ],
+    "The Seven Seas": [
+        "0x1891e5"
+    ],
+    "Striker": [
+        "0x1892a0"
+    ],
+    "Embers": [
+        "0x18928f"
+    ],
+    "Round 1": [
+        "0x1892c2"
+    ],
+    "Space Pirates": [
+        "0x1892b1"
+    ],
+    "Machina": [
+        "0x18925c"
+    ],
+    "Beast Mode": [
+        "0x18924b"
+    ],
+    "Frontlines": [
+        "0x18927e"
+    ],
+    "Years": [
+        "0x18926d"
+    ],
+    "Monster Dance Off": [
+        "0x1892d3"
+    ],
+    "Waterflame": [
+        "0x1897f2"
+    ],
+    "ForeverBound": [
+        "0x1897e1"
+    ],
+    "Dex Arson": [
+        "0x189847"
+    ],
+    "DJ-Nate": [
+        "0x189814"
+    ],
+    "OcularNebula": [
+        "0x189803"
+    ],
+    "F-777": [
+        "0x189825"
+    ],
+    "Mouse": [
+        "0x190771"
+    ],
+    "Click": [
+        "0x19080a"
+    ],
+    "upd_messages": [
+        "0x192726",
+        "0x192787"
+    ],
+    "songID=%i&secret=%s": [
+        "0x1942ab"
+    ],
+    "MDLM_001": [
+        "0xcd5b1",
+        "0x1957b2"
+    ],
+    "MDLM_002": [
+        "0xcd5c7",
+        "0x1959ae",
+        "0x1959c4"
+    ],
+    "Resources\\": [
+        "0x1955fc"
+    ],
+    "zzzZZZ...": [
+        "0x1dd78b"
+    ],
+    "%ix%i": [
+        "0x1e112b"
+    ],
+    "jump_loop": [
+        "0x1e86d2",
+        "0x1f9d4c"
+    ],
+    "fall_loop": [
+        "0x1e87f5",
+        "0x1e8811",
+        "0x1e89d5",
+        "0x1e8a07",
+        "0x1ed941",
+        "0x1ed9a6",
+        "0x1f82eb",
+        "0x1f844a",
+        "0x1f9e4b",
+        "0x1f9e65",
+        "0x1fea4d"
+    ],
+    "jump_start": [
+        "0x1f49dc",
+        "0x1f8256",
+        "0x1f9ce3"
+    ],
+    "fall_start": [
+        "0x1f9de8"
+    ],
+    "Attempt 1": [
+        "0x1fc06f"
+    ],
+    "So close": [
+        "0x1fdb4a"
+    ],
+    "VAMOS": [
+        "0x1fdbf4"
+    ],
+    "PogChamp": [
+        "0x1fdc6b"
+    ],
+    "Player 1": [
+        "0x1ff801"
+    ],
+    "Player 2": [
+        "0x1ff87d"
+    ],
+    "New Reward!": [
+        "0x1fd8c6"
+    ],
+    "Max Followed": [
+        "0x211a37"
+    ],
+    "Friend removed": [
+        "0x211eb3"
+    ],
+    "Are you sure you want to remove this friend?": [
+        "0x2114b8"
+    ],
+    "You can only follow <cy>%i</c> users at the same time.": [
+        "0x211a0f"
+    ],
+    "Comment delete failed. Please try again later.": [
+        "0x2131c3"
+    ],
+    "User blocked": [
+        "0x211ebf"
+    ],
+    "Create an <cg<account</c> to send messages, add friends and more! You can create an account from the main menu.": [
+        "0x211f79"
+    ],
+    "Rating submitted!": [
+        "0x213d34",
+        "0x21559e"
+    ],
+    "Mod: Rate Demon": [
+        "0x213731"
+    ],
+    "Sending rating...": [
+        "0x213caa",
+        "0x215503"
+    ],
+    "Mod: Suggest Stars": [
+        "0x214c30"
+    ],
+    "lenny": [
+        "0x21bce4"
+    ],
+    "robotop": [
+        "0x21ca2c"
+    ],
+    "blockbite": [
+        "0x21c996"
+    ],
+    "spooky": [
+        "0x21c5e0"
+    ],
+    "sparky": [
+        "0x21c0bf"
+    ],
+    "gandalfpotter": [
+        "0x21cc84"
+    ],
+    "neverending": [
+        "0x21cc06"
+    ],
+    "ahead": [
+        "0x21cabf"
+    ],
+    "a head": [
+        "0x21cb19"
+    ],
+    "zzzzzzZZZZZZZZZ": [
+        "0x21d8c7",
+        "0x2228b7",
+        "0x229cf7"
+    ],
+    "I have to admit": [
+        "0x21dec5"
+    ],
+    "zzzZZZZ": [
+        "0x21e137",
+        "0x222c91",
+        "0x229f07"
+    ],
+    "zzzZZZZ...": [
+        "0x21e5a1",
+        "0x222efd"
+    ],
+    "Happy now?": [
+        "0x21e7b1",
+        "0x223061"
+    ],
+    "......": [
+        "0x21e739",
+        "0x22301b"
+    ],
+    "19283": [
+        "0x221091",
+        "0x2291f5"
+    ],
+    "Impressive...": [
+        "0x221471"
+    ],
+    "unicorn": [
+        "0x221c3e"
+    ],
+    "robtop": [
+        "0x221d7b"
+    ],
+    "kappa": [
+        "0x221d2e"
+    ],
+    "battop": [
+        "0x221cde"
+    ],
+    "rubrubpowah123": [
+        "0x221c8e"
+    ],
+    "I call it \"The Challenge\"": [
+        "0x222c5b"
+    ],
+    "Smooth\nEase": [
+        "0x22bfb1"
+    ],
+    "Set ID": [
+        "0x22e18b"
+    ],
+    "\n\n<cg>Bat: </c>": [
+        "0x230da2"
+    ],
+    "<cy>%i:</c> %s": [
+        "0x230d1d",
+        "0x230e1d"
+    ],
+    "<cg>Big Beast: </c>": [
+        "0x230c8f"
+    ],
+    "<cg>Animation settings help</c>": [
+        "0x23270b"
+    ],
+    "Edit Animation Settings": [
+        "0x2325c2"
+    ],
+    "Randomize Start": [
+        "0x232c1f"
+    ],
+    "Speed: ": [
+        "0x232836"
+    ],
+    "shardFire": [
+        "0x248e5c"
+    ],
+    "shardShadow": [
+        "0x249403"
+    ],
+    "shardPoison": [
+        "0x24930c"
+    ],
+    "shardIce": [
+        "0x24920b"
+    ],
+    "geometry.ach.%s%02d": [
+        "0x2496e4"
+    ],
+    "shardBonus": [
+        "0x24955c"
+    ],
+    "shardLava": [
+        "0x2494f8"
+    ],
+    "Level already uploaded": [
+        "0x24ddd7"
+    ],
+    "Success! Elder Moderator\naccess granted.": [
+        "0x25c69e"
+    ],
+    "\"blockbite\"": [
+        "0x25c238"
+    ],
+    "\n\nGame: %s\n\nUserID: %s\n\nAccount: %s\n\nPlatform: %i\n\nVersion: %i - %i": [
+        "0x25c9cb"
+    ],
+    "Low detail mode disables a lot of visual effects to increase performance.": [
+        "0x25c7fa"
+    ],
+    "Success! Moderator access granted.": [
+        "0x25c6b5"
+    ],
+    "upd_artists": [
+        "0x25d3dd",
+        "0x25da9b"
+    ],
+    "OK": [
+        "0x3509e",
+        "0x3705f",
+        "0x386af",
+        "0x38721",
+        "0x3895f",
+        "0x39174",
+        "0x393c4",
+        "0x3fd53",
+        "0x43221",
+        "0x49545",
+        "0x4aa32",
+        "0x4cde0",
+        "0x53535",
+        "0x66160",
+        "0x66420",
+        "0x67580",
+        "0x6fc1d",
+        "0x71088",
+        "0x71109",
+        "0x71169",
+        "0x79477",
+        "0x79555",
+        "0x7ac70",
+        "0x86f86",
+        "0x870f2",
+        "0x9b1ae",
+        "0xb309f",
+        "0xb31ff",
+        "0xb9c3b",
+        "0xb9c87",
+        "0x11239d",
+        "0x121ec3",
+        "0x125ee9",
+        "0x128ef2",
+        "0x128f89",
+        "0x129134",
+        "0x1291c2",
+        "0x12e5b1",
+        "0x132b43",
+        "0x13691e",
+        "0x137283",
+        "0x1390bc",
+        "0x1420f3",
+        "0x1432cd",
+        "0x143650",
+        "0x146707",
+        "0x14cf65",
+        "0x14e4c7",
+        "0x15086b",
+        "0x150bbb",
+        "0x1511e8",
+        "0x151be5",
+        "0x157578",
+        "0x158eb0",
+        "0x15bf90",
+        "0x15c891",
+        "0x171ce3",
+        "0x172cb9",
+        "0x174425",
+        "0x17863a",
+        "0x1787c9",
+        "0x1788b0",
+        "0x17897c",
+        "0x1789fc",
+        "0x178c43",
+        "0x178fc6",
+        "0x1790ea",
+        "0x1799fb",
+        "0x179ba4",
+        "0x17a2fc",
+        "0x183a80",
+        "0x184456",
+        "0x18813b",
+        "0x188506",
+        "0x1885ff",
+        "0x19290e",
+        "0x1979c4",
+        "0x1dfedc",
+        "0x1e139c",
+        "0x1e2b5c",
+        "0x2112ca",
+        "0x211a32",
+        "0x211fdd",
+        "0x2130e4",
+        "0x2131d2",
+        "0x22afda",
+        "0x22e220",
+        "0x22ea24",
+        "0x22f8bc",
+        "0x230bbb",
+        "0x23264d",
+        "0x233837",
+        "0x2353c7",
+        "0x236917",
+        "0x23805a",
+        "0x239c0f",
+        "0x23b13b",
+        "0x23cb9b",
+        "0x23e003",
+        "0x2429ab",
+        "0x243c57",
+        "0x2458bd",
+        "0x24752e",
+        "0x24d79a",
+        "0x24f0f1",
+        "0x25c816",
+        "0x25c886"
+    ],
+    "L": []
+}
