@@ -69,6 +69,14 @@
             2673392
         ]
     ],
+    "Offset2": [
+        [
+            3581988
+        ],
+        [
+            3581696
+        ]
+    ],
     "Visit Newgrounds to find awesome music?": [
         [
             2148672
@@ -7759,12 +7767,10 @@
     ],
     "Offset": [
         [
-            2945608,
-            3581988
+            2945608
         ],
         [
-            2945126,
-            3581696
+            2945126
         ]
     ],
     "Max Speed": [
@@ -13945,6 +13951,30 @@
         ],
         [
             2714902
+        ]
+    ],
+    "Playing levels with a high object count won't display a warning.": [
+        [
+            2945416
+        ],
+        [
+            2944174
+        ]
+    ],
+    "Create an <cg>account</c> to\ncompare scores\nwith <cl>friends</c>!": [
+        [
+            3267364
+        ],
+        [
+            3267296
+        ]
+    ],
+    "Create an <cg<account</c> to send messages, add friends and more! You can create an account from the main menu.": [
+        [
+            3501264
+        ],
+        [
+            3501200
         ]
     ]
 }
