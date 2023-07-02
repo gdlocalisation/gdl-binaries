@@ -1579,5 +1579,6 @@
     "Create an <cg<account</c> to send messages, add friends and more! You can create an account from the main menu.": "Создайте <cg>аккаунт</c>, чтобы отправлять сообщения, добавлять друзей и не только! Вы можете создать аккаунт в меню настроек в главном меню.",
     "It's no use, that <cg>Gauntlet</c> is <cl>locked</c>.": "Бесполезно, этот <cg>Остров</c> <cl>закрыт</c>.",
     "The <co>Demon Guardian</c> was the only one who could open it.": "<co>Демонический Страж</c> был единственным, кто мог открыть его.",
-    "Not sure what happened to him. He always was a bit crazy.": "Не уверен, что с ним стало. Он всегда был слегка сумасшедшим."
+    "Not sure what happened to him. He always was a bit crazy.": "Не уверен, что с ним стало. Он всегда был слегка сумасшедшим.",
+    "Low detail mode disables a lot of visual effects to increase performance.": "Режим низкой детализации выключает много визуальных эффектов для увеличения производительности."
 }
