@@ -1,5 +1,5 @@
+.vscode
 .idea
 __pycache__
-gdl-assets
 Release
 android/*.bat
