@@ -12,11 +12,14 @@ class App:
         self.assets_dir = self.parent_cwd.joinpath('gdl-assets')
         if not self.assets_dir.is_dir():
             raise FileNotFoundError(
-                f'Could not find gdl-assets at {self.assets_dir}')
+                f'Could not find gdl-assets at {self.assets_dir}'
+            )
         if self.out_dir.is_dir():
             shutil.rmtree(self.out_dir)
         self.out_dir.mkdir()
-        self.ball_json = {}
+        self.ball_json = json.loads(open(
+            self.parent_cwd.joinpath('template.json'), 'r', encoding='utf-8'
+        ).read())
         self.ball = b''
         self.append_gdl_assets()
         self.append_gdl_binaries()
@@ -72,11 +75,14 @@ class App:
 
     def print_stats(self, compressed: bytes) -> None:
         print(
-            f'Uncompressed size: {round(len(self.ball) / 1024 / 1024 * 100) / 100}MB')
+            f'Uncompressed size: {round(len(self.ball) / 1024 / 1024 * 100) / 100}MB'
+        )
         print(
-            f'Compressed size: {round(len(compressed) / 1024 / 1024 * 100) / 100}MB')
+            f'Compressed size: {round(len(compressed) / 1024 / 1024 * 100) / 100}MB'
+        )
         print(
-            f'[{round(len(compressed) / len(self.ball) * 100)}% of 100%] or', end=' ')
+            f'[{round(len(compressed) / len(self.ball) * 100)}% of 100%] or', end=' '
+        )
         print(f'[100% of {round(len(self.ball) / len(compressed) * 100)}%]')
 
 
