@@ -66,7 +66,8 @@ class App:
         self.ball_json['size'] = len(compressed)
 
         with open(self.out_dir.joinpath('gdl-binaries.json'), 'w', encoding='utf-8') as f:
-            json.dump(self.ball_json, f, ensure_ascii=False, indent=4)
+            # json.dump(self.ball_json, f, ensure_ascii=False, indent=4)
+            json.dump(self.ball_json, f, ensure_ascii=False)
 
         with open(self.out_dir.joinpath('gdl-binaries.bin.gzip'), 'wb') as f:
             f.write(compressed)
