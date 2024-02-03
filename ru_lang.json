@@ -2095,7 +2095,7 @@
     "Delete Filters": "Фильтры Удаления",
     "GroupID Filter": "Фильтр ID Группы",
     "Delete All": "Удалить Всё",
-    "custom": "пользовательский",
+    "custom": "",
     "You cannot add more than <cy>3</c> <cg>coins</c> in a single level.": "Вы не можете добавить\\nболее <cy>3</c> <cg>монет</c> в один уровень.",
     "Increase": "Увеличить",
     "Max Coins": "Максимум Монет",
