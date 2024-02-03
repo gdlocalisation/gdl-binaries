@@ -2537,7 +2537,7 @@
     "Active": "Активировать",
     "<cc>Diamond Shards</c>": "<cc>Алмазных Осколков</c>",
     "You cannot <cg>afford</c> that <cl>path</c>.": "Вы не можете <cg>позволить себе</c> этот <cl>путь</c>.",
-    "<cl>Mana Orbs</c>": "",
+    "<cl>Mana Orbs</c>": "<cl>Сферы Маны</c>",
     "Reward!": "Награда!",
     "You <co>do not</c> have enough ": "У вас <co>недостаточно</c> ",
     "<cg>Collect</c> more ": "",
