@@ -2278,7 +2278,7 @@
     "%i%s%i%s%i": "",
     "Unnamed ": "Безымянный ",
     "Unnamed %i": "Безымянный %i",
-    "Update user score": "",
+    "Update user score": "Обновить счёт игрока",
     "%s.\\n\\n<cl>Reason: %s</c>": "%s.\\n\\n<cl>Причина: %s</c>",
     "You have been <cg>banned</c> from making comments for: <cy>%s</c>": "Вы были <cr>забанены</c> в отправке комментариев за: <cy>%s</c>",
     "Banned": "Забанены",
