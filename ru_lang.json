@@ -3305,9 +3305,15 @@
     "Parental Control": "Родительский Контроль",
     "Disable Comments": "Отключить Комментарии",
     "Shows frames per second while playing.": "Показывает кол-во кадров в секунду во время игры.",
+<<<<<<< HEAD
     "Show FPS": "Показать fps",
     "Lets you set a custom target frames per second. Automatically disabled when vertical sync is enabled.": "Lets you set a custom target frames per second. Automatically disabled when vertical sync is enabled.",
     "Unlock FPS": "Разблок. fps",
+=======
+    "Show FPS": "Показать fps",
+    "Lets you set a custom target frames per second. Automatically disabled when vertical sync is enabled.": "Lets you set a custom target frames per second. Automatically disabled when vertical sync is enabled.",
+    "Unlock FPS": "Разблок. fps",
+>>>>>>> ee727c9c94ef24e1e0bacfaa2da8bbeb58e09176
     "Advanced Video Options": "Доп. Настройки Графики",
     "Fixes screen tearing in fullscreen mode. Can cause issues in windowed mode.": "Иправляет разрывы экрана в полноэкранном режиме. Может вызвать проблемы в оконном режиме.",
     "Vertical Sync": "Вертикальная\nСинхронизация",
