@@ -3194,7 +3194,7 @@
     "Show Cursor In-Game": "Показать Курсор в Игре",
     "Locks and hides cursor during gameplay.": "Блокирует и скрывает курсор во время игры.",
     "Restarts level upon death automatically.": "Перезапускает уровень при смерти автоматически.",
-    "Restarts in 0.5 s instead of 1.0 s upon death.": "Возрождение через 0.5 сек вместо 1-ой после смерти.",
+    "Restarts in 0.5 s instead of 1.0 s upon death.": "Возрождение через 0.5 сек вместо 1 после смерти.",
     "Enable Faster Reset": "Enable Faster Reset",
     "zzzZZZ...": "zzzZZZ...",
     "The Guard": "Охранник",
