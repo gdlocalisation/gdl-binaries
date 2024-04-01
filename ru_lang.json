@@ -2758,7 +2758,7 @@
     "Do you want to <cr>report</c> this level for breaking the <cg>upload guidelines</c> found in the editor? Valid reasons include hateful, abusive, or otherwise inappropriate content, as well as hacks, cheats, or exploits.": "Вы хотите <cr>пожаловаться</c> на этот уровень из-за нарушения <cg>правил</c> найденных в редакторе? Веские причины включают в себя ненавистнические, оскорбительные или другие неуместные материалы, а также взломы, обманы или эксплойты.",
     "Comment Rules": "Правила Комментариев",
     "Please wait %i seconds before posting a new comment!": "Пожалуйста, подождите %i сек прежде, чем публиковать новый комментарий!",
-    "1. Do <cr>not</c> spam.\n2. Do <cr>not</c> harass other players.\n3. Do <cr>not</c> post inappropriate or controversial content.\n4. Do <cr>not</c> try to bypass these rules.\n<cy>These rules and their enforcement are entirely at Elder Moderators' discretion.</c>": "1. <cr>Не</c> Спамить.\n2. <cr>Не</c> Не оскорблять других игроков.\n3. <cr>Не</c> писать неприличный или спорный контент.\n4. <cr>Не</c> пытаться обойти эти правила.\n<cy>Эти правила и их исполнение полностью на усмотрении Старших Модераторов</c>",
+    "1. Do <cr>not</c> spam.\n2. Do <cr>not</c> harass other players.\n3. Do <cr>not</c> post inappropriate or controversial content.\n4. Do <cr>not</c> try to bypass these rules.\n<cy>These rules and their enforcement are entirely at Elder Moderators' discretion.</c>": "1. <cr>Не</c> Спамить.\n2. <cr>Не</c> Не оскорблять других игроков.\n3. <cr>Не</c> писать неприличный или спорный контент.\n4. <cr>Не</c> пытаться обойти эти правила.\n<cy>Эти правила и их исполнение полностью на усмотрении Старших Модераторов.</c>",
     "Load Comments": "Загрузить Комментарии",
     "No comments": "Нет комментариев",
     "Report List": "Пожаловаться на Список",
@@ -4832,5 +4832,6 @@
 	"TR:": "Верх\nПрав:",
 	"BR:": "Ниж\nПрав:",
 	"Go": "Перейти",
-	"Shop": "Магазин"
+	"Shop": "Магазин",
+	"NEXT": "ДАЛЕЕ"
 }
